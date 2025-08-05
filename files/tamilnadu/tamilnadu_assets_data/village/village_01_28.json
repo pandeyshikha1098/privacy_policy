@@ -1,0 +1,167 @@
+[
+  {
+    "villagecode": "007",
+    "villagename": "Allikulam                ",
+    "villagetname": "அல்லிகுளம்                                                                                                                   "
+  },
+  {
+    "villagecode": "023",
+    "villagename": "Ayyanadaippu             ",
+    "villagetname": "அய்யனடைப்பு                                                                                                                  "
+  },
+  {
+    "villagecode": "013",
+    "villagename": "Kattalankulam            ",
+    "villagetname": "கட்டாலங்குளம்                                                                                                                "
+  },
+  {
+    "villagecode": "005",
+    "villagename": "Keelathattaparai         ",
+    "villagetname": "கீழத் தட்டப்பாறை                                                                                                             "
+  },
+  {
+    "villagecode": "006",
+    "villagename": "Kootudankadu             ",
+    "villagetname": "கூட்டுடன்காடு                                                                                                                "
+  },
+  {
+    "villagecode": "162",
+    "villagename": "Korampallam Part-2       ",
+    "villagetname": "கோரம்பள்ளம் பகுதி2                                                                                                           "
+  },
+  {
+    "villagecode": "161",
+    "villagename": "Korampallam Part-I       ",
+    "villagetname": "கோரம்பள்ளம் பகுதி1                                                                                                           "
+  },
+  {
+    "villagecode": "015",
+    "villagename": "Kulayankarisal           ",
+    "villagetname": "குலையன்கரிசல்                                                                                                                "
+  },
+  {
+    "villagecode": "018",
+    "villagename": "Kumaragiri               ",
+    "villagetname": "குமாரகிரி                                                                                                                    "
+  },
+  {
+    "villagecode": "027",
+    "villagename": "Mappilaioorani           ",
+    "villagetname": "மாப்பிள்ளையூரணி                                                                                                              "
+  },
+  {
+    "villagecode": "017",
+    "villagename": "Maravanmatam             ",
+    "villagetname": "மறவன்மடம்                                                                                                                    "
+  },
+  {
+    "villagecode": "241",
+    "villagename": "Meelavittan Part-1       ",
+    "villagetname": "மீளவிட்டான் பகுதி1                                                                                                           "
+  },
+  {
+    "villagecode": "242",
+    "villagename": "Meelavittan Part-2       ",
+    "villagetname": "மீளவிட்டான் பகுதி2                                                                                                           "
+  },
+  {
+    "villagecode": "004",
+    "villagename": "Melathattaparai          ",
+    "villagetname": "மேலத் தட்டப்பாறை                                                                                                             "
+  },
+  {
+    "villagecode": "012",
+    "villagename": "Mudivaithanendal         ",
+    "villagetname": "முடிவைத்தானேந்தல்                                                                                                            "
+  },
+  {
+    "villagecode": "291",
+    "villagename": "Mullakkadu Part-1        ",
+    "villagetname": "முள்ளக்காடு பகுதி1                                                                                                           "
+  },
+  {
+    "villagecode": "292",
+    "villagename": "Mullakkadu Part-2        ",
+    "villagetname": "முள்ளக்காடு பகுதி2                                                                                                           "
+  },
+  {
+    "villagecode": "021",
+    "villagename": "Muthusamypuram           ",
+    "villagetname": "முத்துசாமிபுரம்                                                                                                              "
+  },
+  {
+    "villagecode": "022",
+    "villagename": "North Silukanpatti       ",
+    "villagetname": "வடக்கு சிலுக்கன்பட்டி                                                                                                        "
+  },
+  {
+    "villagecode": "008",
+    "villagename": "Peroorani                ",
+    "villagetname": "பேரூரணி                                                                                                                      "
+  },
+  {
+    "villagecode": "026",
+    "villagename": "Pulipanjankulam          ",
+    "villagetname": "புலிபாஞ்சான்குளம்                                                                                                            "
+  },
+  {
+    "villagecode": "011",
+    "villagename": "Ramanathapuram           ",
+    "villagetname": "இராமநாதபுரம்                                                                                                                 "
+  },
+  {
+    "villagecode": "003",
+    "villagename": "Ramasamypuram            ",
+    "villagetname": "இராமசாமிபுரம்                                                                                                                "
+  },
+  {
+    "villagecode": "025",
+    "villagename": "Sankaraperi              ",
+    "villagetname": "சங்கரப்பேரி                                                                                                                  "
+  },
+  {
+    "villagecode": "019",
+    "villagename": "Senthilampannai          ",
+    "villagetname": "செந்திலாம்பண்ணை                                                                                                              "
+  },
+  {
+    "villagecode": "014",
+    "villagename": "Servaikaranmatam         ",
+    "villagetname": "சேர்வைக்காரன்மடம்                                                                                                            "
+  },
+  {
+    "villagecode": "020",
+    "villagename": "South Silukanpatti       ",
+    "villagetname": "தெற்கு சிலுக்கன்பட்டி                                                                                                        "
+  },
+  {
+    "villagecode": "002",
+    "villagename": "Thalvaipuram             ",
+    "villagetname": "தளவாய்புரம்                                                                                                                  "
+  },
+  {
+    "villagecode": "009",
+    "villagename": "Thimmarajapuram          ",
+    "villagetname": "திம்மராஜபுரம்                                                                                                                "
+  },
+  {
+    "villagecode": "281",
+    "villagename": "Thoothukkudi Part-1      ",
+    "villagetname": "தூத்துக்குடி பகுதி1                                                                                                          "
+  },
+  {
+    "villagecode": "282",
+    "villagename": "Thoothukkudi Part-2      ",
+    "villagetname": "தூத்துக்குடி பகுதி2                                                                                                          "
+  },
+  {
+    "villagecode": "001",
+    "villagename": "Umarikottai              ",
+    "villagetname": "உமரிக்கோட்டை                                                                                                                 "
+  },
+  {
+    "villagecode": "010",
+    "villagename": "Varthagareddipatti       ",
+    "villagetname": "வர்த்தகரெட்டிபட்டி                                                                                                           "
+  }
+]

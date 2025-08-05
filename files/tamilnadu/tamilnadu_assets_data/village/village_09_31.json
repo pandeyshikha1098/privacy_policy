@@ -1,0 +1,457 @@
+[
+  {
+    "villagecode": "098",
+    "villagename": "Achettipalli",
+    "villagetname": "அச்செட்டிப்பள்ளி                                                                                                             "
+  },
+  {
+    "villagecode": "119",
+    "villagename": "Adavanapalle",
+    "villagetname": "அடவனப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "016",
+    "villagename": "Alasapalli",
+    "villagetname": "அலசப்பள்ளி                                                                                                                   "
+  },
+  {
+    "villagecode": "122",
+    "villagename": "Alenattam",
+    "villagetname": "அலேநத்தம்                                                                                                                    "
+  },
+  {
+    "villagecode": "117",
+    "villagename": "Allur",
+    "villagetname": "ஆலூர்                                                                                                                        "
+  },
+  {
+    "villagecode": "013",
+    "villagename": "Allur (Baliganapalli)",
+    "villagetname": "ஆலூர் (பாலிகானப்பள்ளி)                                                                                                       "
+  },
+  {
+    "villagecode": "086",
+    "villagename": "Anumepalli",
+    "villagetname": "அனுமேபள்ளி                                                                                                                   "
+  },
+  {
+    "villagecode": "074",
+    "villagename": "Attur (Badathepalli)",
+    "villagetname": "அட்டூர் (படதேபள்ளி)                                                                                                          "
+  },
+  {
+    "villagecode": "116",
+    "villagename": "Attur (Muthali)",
+    "villagetname": "அட்டூர் (முத்தாளி)                                                                                                           "
+  },
+  {
+    "villagecode": "080",
+    "villagename": "Avalapalli",
+    "villagetname": "ஆவலபள்ளி                                                                                                                     "
+  },
+  {
+    "villagecode": "075",
+    "villagename": "Badathepalli",
+    "villagetname": "படதேபள்ளி                                                                                                                    "
+  },
+  {
+    "villagecode": "023",
+    "villagename": "Bagalur",
+    "villagetname": "பாகலூர்                                                                                                                      "
+  },
+  {
+    "villagecode": "010",
+    "villagename": "Baliganapalli",
+    "villagetname": "பாலிகானப்பள்ளி                                                                                                               "
+  },
+  {
+    "villagecode": "035",
+    "villagename": "Battavarapalli",
+    "villagetname": "பட்டவாரப்பள்ளி                                                                                                               "
+  },
+  {
+    "villagecode": "028",
+    "villagename": "Begaepalli",
+    "villagetname": "பேகேப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "006",
+    "villagename": "Belathur",
+    "villagetname": "பௌத்தூர்                                                                                                                     "
+  },
+  {
+    "villagecode": "018",
+    "villagename": "B.Muthuganapalli",
+    "villagetname": "B. முத்துகானப்பள்ளி                                                                                                          "
+  },
+  {
+    "villagecode": "008",
+    "villagename": "Boplapuram",
+    "villagetname": "பொப்ளாபுரம்                                                                                                                  "
+  },
+  {
+    "villagecode": "079",
+    "villagename": "Chennasandiram",
+    "villagetname": "சென்னசந்திரம்                                                                                                                "
+  },
+  {
+    "villagecode": "903",
+    "villagename": "Chennathur (N)",
+    "villagetname": "சென்னத்தூர் (வ)                                                                                                              "
+  },
+  {
+    "villagecode": "103",
+    "villagename": "Chennathur (S)",
+    "villagetname": "சென்னத்தூர் (தெ)                                                                                                             "
+  },
+  {
+    "villagecode": "109",
+    "villagename": "Chinnakullu",
+    "villagetname": "சின்னக்குள்ளு                                                                                                                "
+  },
+  {
+    "villagecode": "026",
+    "villagename": "Chokkanathapuram",
+    "villagetname": "சொக்கநாதபுரம்                                                                                                                "
+  },
+  {
+    "villagecode": "003",
+    "villagename": "Chokkarasanapalli",
+    "villagetname": "சொக்கரசனப்பள்ளி                                                                                                              "
+  },
+  {
+    "villagecode": "118",
+    "villagename": "Dasapalli",
+    "villagetname": "தாசேப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "009",
+    "villagename": "Deviripalli",
+    "villagetname": "தேவீரப்பள்ளி                                                                                                                 "
+  },
+  {
+    "villagecode": "007",
+    "villagename": "Dhinnapalli",
+    "villagetname": "தின்னப்பள்ளி                                                                                                                 "
+  },
+  {
+    "villagecode": "024",
+    "villagename": "Eachangur",
+    "villagetname": "ஈச்சாங்கூர்                                                                                                                  "
+  },
+  {
+    "villagecode": "082",
+    "villagename": "Eluvapalli",
+    "villagetname": "எலுவபள்ளி                                                                                                                    "
+  },
+  {
+    "villagecode": "097",
+    "villagename": "Gobanapalli",
+    "villagetname": "கோபனப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "085",
+    "villagename": "Govinda Agraharam",
+    "villagetname": "கோவிந்த அக்ரஹாரம்                                                                                                            "
+  },
+  {
+    "villagecode": "102",
+    "villagename": "Hosur",
+    "villagetname": "ஓசூர்                                                                                                                        "
+  },
+  {
+    "villagecode": "011",
+    "villagename": "Idipalli",
+    "villagetname": "இடிப்பள்ளி                                                                                                                   "
+  },
+  {
+    "villagecode": "031",
+    "villagename": "Jeemangalam",
+    "villagetname": "ஜீமங்கலம்                                                                                                                    "
+  },
+  {
+    "villagecode": "020",
+    "villagename": "Jogikalasamanapalli",
+    "villagetname": "ஜோகிகலசாமனப்பள்ளி                                                                                                            "
+  },
+  {
+    "villagecode": "002",
+    "villagename": "Kakkanur",
+    "villagetname": "கக்கனுர்                                                                                                                     "
+  },
+  {
+    "villagecode": "081",
+    "villagename": "Kalasthipuram",
+    "villagetname": "காளஸ்திபுரம்                                                                                                                 "
+  },
+  {
+    "villagecode": "029",
+    "villagename": "Kalliagraharam",
+    "villagetname": "கள்ளிஅக்ரஹாரம்                                                                                                               "
+  },
+  {
+    "villagecode": "078",
+    "villagename": "Kallipuram",
+    "villagetname": "கள்ளிபுரம்                                                                                                                   "
+  },
+  {
+    "villagecode": "033",
+    "villagename": "Kanimangalam",
+    "villagetname": "கனிமங்கலம்                                                                                                                   "
+  },
+  {
+    "villagecode": "107",
+    "villagename": "Karibasanapuram",
+    "villagetname": "கரிபசவனபுரம்                                                                                                                 "
+  },
+  {
+    "villagecode": "113",
+    "villagename": "Karupallli",
+    "villagetname": "காருபள்ளி                                                                                                                    "
+  },
+  {
+    "villagecode": "019",
+    "villagename": "Kathiriganadinna",
+    "villagetname": "கதிரிகானதின்னா                                                                                                               "
+  },
+  {
+    "villagecode": "110",
+    "villagename": "Kelavarapalli",
+    "villagetname": "கெலவரபள்ளி                                                                                                                   "
+  },
+  {
+    "villagecode": "077",
+    "villagename": "Kembasandiram",
+    "villagetname": "கெம்பசந்திரம்                                                                                                                "
+  },
+  {
+    "villagecode": "004",
+    "villagename": "Kodiyalam",
+    "villagetname": "கொடியாளம்                                                                                                                    "
+  },
+  {
+    "villagecode": "072",
+    "villagename": "Koladasapuram",
+    "villagetname": "கொளதாசபுரம்                                                                                                                  "
+  },
+  {
+    "villagecode": "027",
+    "villagename": "Koosthanapalli",
+    "villagetname": "கூஸ்தானப்பள்ளி                                                                                                               "
+  },
+  {
+    "villagecode": "090",
+    "villagename": "Kothakondapalli",
+    "villagetname": "கொத்தகொண்டப்பள்ளி                                                                                                            "
+  },
+  {
+    "villagecode": "025",
+    "villagename": "Kothapalli",
+    "villagetname": "கொத்தப்பள்ளி                                                                                                                 "
+  },
+  {
+    "villagecode": "021",
+    "villagename": "Lingapuram",
+    "villagetname": "லிங்காபுரம்                                                                                                                  "
+  },
+  {
+    "villagecode": "036",
+    "villagename": "Mallasandiram",
+    "villagetname": "மல்லசந்திரம்                                                                                                                 "
+  },
+  {
+    "villagecode": "092",
+    "villagename": "Mathigiri",
+    "villagetname": "மத்திகிரி                                                                                                                    "
+  },
+  {
+    "villagecode": "088",
+    "villagename": "Mookondapalli",
+    "villagetname": "மூக்கொண்டபள்ளி                                                                                                               "
+  },
+  {
+    "villagecode": "105",
+    "villagename": "Moranapalli",
+    "villagetname": "மோரனப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "089",
+    "villagename": "Motham Agraharam",
+    "villagetname": "மொத்தம்அக்ஹாரம்                                                                                                              "
+  },
+  {
+    "villagecode": "096",
+    "villagename": "Mugalur",
+    "villagetname": "முகளுர்                                                                                                                      "
+  },
+  {
+    "villagecode": "037",
+    "villagename": "Mugulapalli",
+    "villagetname": "முகுளப்பள்ளி                                                                                                                 "
+  },
+  {
+    "villagecode": "032",
+    "villagename": "Murtiganadinna",
+    "villagetname": "மூர்த்திகானதின்னா                                                                                                            "
+  },
+  {
+    "villagecode": "115",
+    "villagename": "Muthali",
+    "villagetname": "முத்தாளி                                                                                                                     "
+  },
+  {
+    "villagecode": "093",
+    "villagename": "Nagondapalli",
+    "villagetname": "நாகொண்டபள்ளி                                                                                                                 "
+  },
+  {
+    "villagecode": "101",
+    "villagename": "Naligabettam Agraharam",
+    "villagetname": "நாலிகபெட்டம்அக்ரஹாரம்                                                                                                        "
+  },
+  {
+    "villagecode": "030",
+    "villagename": "Nallur",
+    "villagetname": "நல்லூர்                                                                                                                      "
+  },
+  {
+    "villagecode": "073",
+    "villagename": "Nandimangalam",
+    "villagetname": "நந்திமங்கலம்                                                                                                                 "
+  },
+  {
+    "villagecode": "076",
+    "villagename": "Nanjapuram",
+    "villagetname": "நஞ்சாபுரம்                                                                                                                   "
+  },
+  {
+    "villagecode": "071",
+    "villagename": "Nariganapuram",
+    "villagetname": "நாரிகானபுரம்                                                                                                                 "
+  },
+  {
+    "villagecode": "015",
+    "villagename": "Oddapalli",
+    "villagetname": "ஒட்டப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "022",
+    "villagename": "Oddapallidinna",
+    "villagetname": "ஒட்டப்பள்ளிதின்னா                                                                                                            "
+  },
+  {
+    "villagecode": "099",
+    "villagename": "Onnalavadi",
+    "villagetname": "ஒன்னல்வாடி                                                                                                                   "
+  },
+  {
+    "villagecode": "114",
+    "villagename": "Padhamuttali",
+    "villagetname": "பாத்தமுத்தாளி                                                                                                                "
+  },
+  {
+    "villagecode": "120",
+    "villagename": "Palavanapalli",
+    "villagetname": "பலவனப்பள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "095",
+    "villagename": "Panchachipuram",
+    "villagetname": "பஞ்சாட்சிபுரம்                                                                                                               "
+  },
+  {
+    "villagecode": "108",
+    "villagename": "Peddakullu",
+    "villagetname": "பெத்தகுள்ளு                                                                                                                  "
+  },
+  {
+    "villagecode": "017",
+    "villagename": "Pichukondapalli",
+    "villagetname": "பிச்சுகொண்டபள்ளி                                                                                                             "
+  },
+  {
+    "villagecode": "091",
+    "villagename": "Poonapalli",
+    "villagetname": "பூனப்பள்ளி                                                                                                                   "
+  },
+  {
+    "villagecode": "106",
+    "villagename": "Punakandoddi",
+    "villagetname": "புனகந்தொட்டி                                                                                                                 "
+  },
+  {
+    "villagecode": "012",
+    "villagename": "Puram",
+    "villagetname": "புரம்                                                                                                                        "
+  },
+  {
+    "villagecode": "100",
+    "villagename": "Rangopandita Agraharam",
+    "villagetname": "ரங்கப்பண்டிதஅக்ரஹாரம்                                                                                                        "
+  },
+  {
+    "villagecode": "084",
+    "villagename": "Santhapuram Agraharam",
+    "villagetname": "சாந்தாபுரம் அக்ரஹாரம்                                                                                                        "
+  },
+  {
+    "villagecode": "001",
+    "villagename": "Sevaganapalli",
+    "villagetname": "சேவகானபள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "112",
+    "villagename": "Siddanapalli",
+    "villagetname": "சித்தனபள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "005",
+    "villagename": "Singasadanapalli",
+    "villagetname": "சிங்கசாதனபள்ளி                                                                                                               "
+  },
+  {
+    "villagecode": "094",
+    "villagename": "S.Muthuganapalli",
+    "villagetname": "S. முத்துக்கானப்பள்ளி                                                                                                        "
+  },
+  {
+    "villagecode": "121",
+    "villagename": "Sudagondapalli",
+    "villagetname": "சூடகொண்டபள்ளி                                                                                                                "
+  },
+  {
+    "villagecode": "111",
+    "villagename": "Tattaginapalli",
+    "villagetname": "தட்டிகானபள்ளி                                                                                                                "
+  },
+  {
+    "villagecode": "104",
+    "villagename": "Thorapalli Agraharam",
+    "villagetname": "தொரப்பள்ளிஅக்ரஹாரம்                                                                                                          "
+  },
+  {
+    "villagecode": "034",
+    "villagename": "Thummanapalli",
+    "villagetname": "தும்மனபள்ளி                                                                                                                  "
+  },
+  {
+    "villagecode": "014",
+    "villagename": "Vathiripalli",
+    "villagetname": "வத்திரிப்பள்ளி                                                                                                               "
+  },
+  {
+    "villagecode": "914",
+    "villagename": "Vathiripalli ( P)",
+    "villagetname": "வத்திரிப்பள்ளி (பா)                                                                                                          "
+  },
+  {
+    "villagecode": "083",
+    "villagename": "Viswanathapuram",
+    "villagetname": "விஸ்வநாதபுரம்                                                                                                                "
+  },
+  {
+    "villagecode": "087",
+    "villagename": "Zuzuvadi",
+    "villagetname": "ஜுஜுவாடி                                                                                                                     "
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "villagecode": "048",
+    "villagename": "Aragalur                 ",
+    "villagetname": "ஆறகளூர்                                                                                                                      "
+  },
+  {
+    "villagecode": "119",
+    "villagename": "Arathi Agragaram         ",
+    "villagetname": "ஆரத்தி அக்ரஹாரம்                                                                                                             "
+  },
+  {
+    "villagecode": "070",
+    "villagename": "Chokkanur Agraharam      ",
+    "villagetname": "சொக்கனூர் அக்ரஹாரம்                                                                                                          "
+  },
+  {
+    "villagecode": "051",
+    "villagename": "Deviyakurichi            ",
+    "villagetname": "தேவியாக்குறிச்சி                                                                                                             "
+  },
+  {
+    "villagecode": "065",
+    "villagename": "East Rajapalayam         ",
+    "villagetname": "கிழக்கு ராஜாபாளையம்                                                                                                          "
+  },
+  {
+    "villagecode": "045",
+    "villagename": "Govindampalayam          ",
+    "villagetname": "கோவிந்தம்பாளையம்                                                                                                             "
+  },
+  {
+    "villagecode": "089",
+    "villagename": "Illuppanatham            ",
+    "villagetname": "இலுப்பநத்தம்                                                                                                                 "
+  },
+  {
+    "villagecode": "050",
+    "villagename": "Kamakkapalayam           ",
+    "villagetname": "காமக்காபாளையம்                                                                                                               "
+  },
+  {
+    "villagecode": "034",
+    "villagename": "Kattukottai              ",
+    "villagetname": "காட்டுக்கோட்டை                                                                                                               "
+  },
+  {
+    "villagecode": "066",
+    "villagename": "Kavarpanai               ",
+    "villagetname": "கவர்பனை                                                                                                                      "
+  },
+  {
+    "villagecode": "067",
+    "villagename": "Ladhuvadi                ",
+    "villagetname": "லத்துவாடி                                                                                                                    "
+  },
+  {
+    "villagecode": "935",
+    "villagename": "Manivilundan (North)",
+    "villagetname": "மணிவிழுந்தான் (வடக்கு)"
+  },
+  {
+    "villagecode": "035",
+    "villagename": "Manivilundan (South)     ",
+    "villagetname": "மணிவிழுந்தான் (தெற்கு) "
+  },
+  {
+    "villagecode": "118",
+    "villagename": "Mummudi                  ",
+    "villagetname": "மும்முடி                                                                                                                     "
+  },
+  {
+    "villagecode": "094",
+    "villagename": "Nathakarai               ",
+    "villagetname": "நத்தக்கரை                                                                                                                    "
+  },
+  {
+    "villagecode": "062",
+    "villagename": "Nattar Agraharam         ",
+    "villagetname": "நாட்டார் அக்ரஹாரம்                                                                                                           "
+  },
+  {
+    "villagecode": "040",
+    "villagename": "Navakurichi              ",
+    "villagetname": "நாவக்குறிச்சி                                                                                                                "
+  },
+  {
+    "villagecode": "061",
+    "villagename": "Navalur                  ",
+    "villagetname": "நாவலூர்                                                                                                                      "
+  },
+  {
+    "villagecode": "064",
+    "villagename": "Pagadapadi               ",
+    "villagetname": "பகடப்பாடி                                                                                                                    "
+  },
+  {
+    "villagecode": "120",
+    "villagename": "Pallipalayam             ",
+    "villagetname": "பள்ளிப்பாளையம்                                                                                                               "
+  },
+  {
+    "villagecode": "041",
+    "villagename": "Pattuthurai              ",
+    "villagetname": "பட்டுத்துறை                                                                                                                  "
+  },
+  {
+    "villagecode": "043",
+    "villagename": "Periyeri                 ",
+    "villagetname": "பெரியேரி                                                                                                                     "
+  },
+  {
+    "villagecode": "121",
+    "villagename": "Pinnnanur                ",
+    "villagetname": "பிண்ணனூர்                                                                                                                    "
+  },
+  {
+    "villagecode": "046",
+    "villagename": "Puliankurichi            ",
+    "villagetname": "புளியங்குறிச்சி                                                                                                              "
+  },
+  {
+    "villagecode": "060",
+    "villagename": "Punalvasal               ",
+    "villagetname": "புனல்வாசல்                                                                                                                   "
+  },
+  {
+    "villagecode": "039",
+    "villagename": "Puthur                   ",
+    "villagetname": "புத்தூர்                                                                                                                     "
+  },
+  {
+    "villagecode": "054",
+    "villagename": "Sadasivapuram            ",
+    "villagetname": "சதாசிவபுரம்                                                                                                                  "
+  },
+  {
+    "villagecode": "053",
+    "villagename": "Sarvai                   ",
+    "villagetname": "சார்வாய்                                                                                                                     "
+  },
+  {
+    "villagecode": "059",
+    "villagename": "Sathapadi                ",
+    "villagetname": "சாத்தப்பாடி                                                                                                                  "
+  },
+  {
+    "villagecode": "036",
+    "villagename": "Siruachur                ",
+    "villagetname": "சிறுவாச்சூர் தெற்கு                                                                                                          "
+  },
+  {
+    "villagecode": "936",
+    "villagename": "Siruvachur(North)        ",
+    "villagetname": "சிறுவாச்சூர் வடக்கு                                                                                                          "
+  },
+  {
+    "villagecode": "044",
+    "villagename": "Sitheri                  ",
+    "villagetname": "சித்தேரி                                                                                                                     "
+  },
+  {
+    "villagecode": "042",
+    "villagename": "Thalaivasal              ",
+    "villagetname": "தலைவாசல்                                                                                                                     "
+  },
+  {
+    "villagecode": "052",
+    "villagename": "Thenkumarai              ",
+    "villagetname": "தென்குமரை                                                                                                                    "
+  },
+  {
+    "villagecode": "068",
+    "villagename": "Thittacheri              ",
+    "villagetname": "திட்டச்சேரி                                                                                                                  "
+  },
+  {
+    "villagecode": "049",
+    "villagename": "Thiyaganur               ",
+    "villagetname": "தியாகனூர்                                                                                                                    "
+  },
+  {
+    "villagecode": "038",
+    "villagename": "Unathur                  ",
+    "villagetname": "ஊனத்தூர்                                                                                                                     "
+  },
+  {
+    "villagecode": "090",
+    "villagename": "Vadakumarai              ",
+    "villagetname": "வடகுமரை                                                                                                                      "
+  },
+  {
+    "villagecode": "037",
+    "villagename": "Varagur                  ",
+    "villagetname": "வரகூர்                                                                                                                       "
+  },
+  {
+    "villagecode": "069",
+    "villagename": "Veeraganur               ",
+    "villagetname": "வீரகனூர்                                                                                                                     "
+  },
+  {
+    "villagecode": "063",
+    "villagename": "Vellaiyur                ",
+    "villagetname": "வெள்ளையூர்                                                                                                                   "
+  },
+  {
+    "villagecode": "047",
+    "villagename": "Veppampoondi             ",
+    "villagetname": "வேப்பம்பூண்டி                                                                                                                "
+  },
+  {
+    "villagecode": "117",
+    "villagename": "Veppanatham              ",
+    "villagetname": "வேப்பநத்தம்                                                                                                                  "
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "villagecode": "084",
+    "villagename": "Ammavaripalli            ",
+    "villagetname": "அம்மவாரிபள்ளி                                                                                                                "
+  },
+  {
+    "villagecode": "070",
+    "villagename": "Ammundi                  ",
+    "villagetname": "அம்முண்டி                                                                                                                    "
+  },
+  {
+    "villagecode": "068",
+    "villagename": "Arumparuthi              ",
+    "villagetname": "அரும்பருதி                                                                                                                   "
+  },
+  {
+    "villagecode": "061",
+    "villagename": "Bhirammapuram            ",
+    "villagetname": "பிரம்மபுரம்                                                                                                                  "
+  },
+  {
+    "villagecode": "054",
+    "villagename": "Dharapadavedu            ",
+    "villagetname": "தாராபடவேடு                                                                                                                   "
+  },
+  {
+    "villagecode": "079",
+    "villagename": "Eilayanallur             ",
+    "villagetname": "இளையநல்லூர்                                                                                                                  "
+  },
+  {
+    "villagecode": "072",
+    "villagename": "Eranthangal              ",
+    "villagetname": "ஏரந்தாங்கல்                                                                                                                  "
+  },
+  {
+    "villagecode": "086",
+    "villagename": "Erukkampattu             ",
+    "villagetname": "எருக்கம்பட்டு                                                                                                                "
+  },
+  {
+    "villagecode": "073",
+    "villagename": "Gugaiyanallur            ",
+    "villagetname": "குகையநல்லூர்                                                                                                                 "
+  },
+  {
+    "villagecode": "052",
+    "villagename": "Jabrapettai              ",
+    "villagetname": "ஜாப்ராபேட்டை                                                                                                                 "
+  },
+  {
+    "villagecode": "055",
+    "villagename": "Kalinjur                 ",
+    "villagetname": "கழிஞ்சுர்                                                                                                                    "
+  },
+  {
+    "villagecode": "064",
+    "villagename": "Kandipedu                ",
+    "villagetname": "கண்டிப்பேடு                                                                                                                  "
+  },
+  {
+    "villagecode": "059",
+    "villagename": "Kankeyaanallur           ",
+    "villagetname": "காங்கேயநல்லூர்                                                                                                               "
+  },
+  {
+    "villagecode": "069",
+    "villagename": "Karanammbut              ",
+    "villagetname": "கார்ணாம்பட்டு                                                                                                                "
+  },
+  {
+    "villagecode": "043",
+    "villagename": "Karasamangalam           ",
+    "villagetname": "கரசமங்கலம்                                                                                                                   "
+  },
+  {
+    "villagecode": "062",
+    "villagename": "Karigiri                 ",
+    "villagetname": "கரிகிரி                                                                                                                      "
+  },
+  {
+    "villagecode": "060",
+    "villagename": "Katpadi                  ",
+    "villagetname": "காட்பாடி                                                                                                                     "
+  },
+  {
+    "villagecode": "089",
+    "villagename": "Keeraisathu              ",
+    "villagetname": "கீரைசாத்து                                                                                                                   "
+  },
+  {
+    "villagecode": "075",
+    "villagename": "Kembarajapuram           ",
+    "villagetname": "கெம்பராஜபுரம்                                                                                                                "
+  },
+  {
+    "villagecode": "080",
+    "villagename": "Kodukkan Thangal         ",
+    "villagetname": "கொடுக்கந்தாங்கல்                                                                                                             "
+  },
+  {
+    "villagecode": "090",
+    "villagename": "Kollapalli               ",
+    "villagetname": "கொல்லபள்ளி                                                                                                                   "
+  },
+  {
+    "villagecode": "093",
+    "villagename": "Kondareddy Palli         ",
+    "villagetname": "கொண்டாரெட்டி பள்ளி                                                                                                           "
+  },
+  {
+    "villagecode": "083",
+    "villagename": "Magimandalam             ",
+    "villagetname": "மகிமண்டலம்                                                                                                                   "
+  },
+  {
+    "villagecode": "091",
+    "villagename": "Mathandakuppam           ",
+    "villagetname": "மதண்டாகுப்பம்                                                                                                                "
+  },
+  {
+    "villagecode": "088",
+    "villagename": "Melpadi                  ",
+    "villagetname": "மேல்பாடி                                                                                                                     "
+  },
+  {
+    "villagecode": "082",
+    "villagename": "Mutharasi Kuppam         ",
+    "villagetname": "முத்தரிசிகுப்பம்                                                                                                             "
+  },
+  {
+    "villagecode": "063",
+    "villagename": "Oottanthangal            ",
+    "villagetname": "ஒட்டந்தாங்கல்                                                                                                                "
+  },
+  {
+    "villagecode": "096",
+    "villagename": "Palekuppam               ",
+    "villagetname": "பாலேகுப்பம்                                                                                                                  "
+  },
+  {
+    "villagecode": "094",
+    "villagename": "Paramasathu              ",
+    "villagetname": "பரமசாத்து                                                                                                                    "
+  },
+  {
+    "villagecode": "085",
+    "villagename": "Perumalkuppam            ",
+    "villagetname": "பெருமாள்குப்பம்                                                                                                              "
+  },
+  {
+    "villagecode": "092",
+    "villagename": "Ponnai                   ",
+    "villagetname": "பொன்னை                                                                                                                       "
+  },
+  {
+    "villagecode": "066",
+    "villagename": "Puthur                   ",
+    "villagetname": "புத்தூர்                                                                                                                     "
+  },
+  {
+    "villagecode": "071",
+    "villagename": "Senbarayanallur          ",
+    "villagetname": "செம்பராயநல்லூர்                                                                                                              "
+  },
+  {
+    "villagecode": "051",
+    "villagename": "Senur                    ",
+    "villagetname": "சேனூர்                                                                                                                       "
+  },
+  {
+    "villagecode": "065",
+    "villagename": "Serkadu                  ",
+    "villagetname": "சேர்க்காடு                                                                                                                   "
+  },
+  {
+    "villagecode": "067",
+    "villagename": "Sevur                    ",
+    "villagetname": "சேவூர்                                                                                                                       "
+  },
+  {
+    "villagecode": "077",
+    "villagename": "Sripathanallur           ",
+    "villagetname": "ஸ்ரீபாதநல்லூர்                                                                                                               "
+  },
+  {
+    "villagecode": "050",
+    "villagename": "Thalaiyarampattu         ",
+    "villagetname": "தலையாரம்பட்டு                                                                                                                "
+  },
+  {
+    "villagecode": "078",
+    "villagename": "Thempalli                ",
+    "villagetname": "தேம்பள்ளி                                                                                                                    "
+  },
+  {
+    "villagecode": "095",
+    "villagename": "Thengal                  ",
+    "villagetname": "தெங்கால்                                                                                                                     "
+  },
+  {
+    "villagecode": "074",
+    "villagename": "Thiruvalam               ",
+    "villagetname": "திருவலம்                                                                                                                     "
+  },
+  {
+    "villagecode": "057",
+    "villagename": "T.K.Puram                ",
+    "villagetname": "தண்டலம் கிருஷ்ணாபுரம்                                                                                                        "
+  },
+  {
+    "villagecode": "049",
+    "villagename": "Unnamalaisamudram        ",
+    "villagetname": "உண்ணாமலைசமுத்திரம்                                                                                                           "
+  },
+  {
+    "villagecode": "087",
+    "villagename": "Vallimalai               ",
+    "villagetname": "வள்ளிமலை                                                                                                                     "
+  },
+  {
+    "villagecode": "053",
+    "villagename": "Vandranthangal           ",
+    "villagetname": "வன்றந்தாங்கல்                                                                                                                "
+  },
+  {
+    "villagecode": "056",
+    "villagename": "Vanjur                   ",
+    "villagetname": "வஞ்சுர்                                                                                                                      "
+  },
+  {
+    "villagecode": "076",
+    "villagename": "Veepalai                 ",
+    "villagetname": "வெப்பாலை                                                                                                                     "
+  },
+  {
+    "villagecode": "081",
+    "villagename": "Vinnampalli              ",
+    "villagetname": "விண்ணம்பள்ளி                                                                                                                 "
+  },
+  {
+    "villagecode": "058",
+    "villagename": "Virudhampattu            ",
+    "villagetname": "விருதம்பட்டு                                                                                                                 "
+  }
+]

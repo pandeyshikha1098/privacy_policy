@@ -1,0 +1,492 @@
+[
+  {
+    "villagecode": "060",
+    "villagename": "Adikarapatty                  ",
+    "villagetname": "060 அதிகாரப்பட்டி                                                                                                                                     "
+  },
+  {
+    "villagecode": "041",
+    "villagename": "Ajjampatti                    ",
+    "villagetname": "041 அஜ்ஜம்பட்டி                                                                                                                                       "
+  },
+  {
+    "villagecode": "066",
+    "villagename": "Alapuram                      ",
+    "villagetname": "066 ஆலாபுரம்                                                                                                                                          "
+  },
+  {
+    "villagecode": "074",
+    "villagename": "Allalapatti                   ",
+    "villagetname": "074 அள்ளாளப்பட்டி                                                                                                                                     "
+  },
+  {
+    "villagecode": "059",
+    "villagename": "Almelupuram                   ",
+    "villagetname": "059 அலமேலுபுரம்                                                                                                                                       "
+  },
+  {
+    "villagecode": "097",
+    "villagename": "Ammapalayam                   ",
+    "villagetname": "097 அம்மாப்பாளையம்                                                                                                                                    "
+  },
+  {
+    "villagecode": "075",
+    "villagename": "Andipatty                     ",
+    "villagetname": "075 ஆண்டிப்பட்டி                                                                                                                                      "
+  },
+  {
+    "villagecode": "080",
+    "villagename": "Annamalaihalli                ",
+    "villagetname": "080 அண்ணாமலைஹள்ளி                                                                                                                                     "
+  },
+  {
+    "villagecode": "073",
+    "villagename": "Annamalaipatty                ",
+    "villagetname": "073 அண்ணாமலைப்பட்டி                                                                                                                                   "
+  },
+  {
+    "villagecode": "061",
+    "villagename": "A.Pallipatti                  ",
+    "villagetname": "061 அ.பள்ளிப்பட்டி                                                                                                                                    "
+  },
+  {
+    "villagecode": "044",
+    "villagename": "Bairnatham                    ",
+    "villagetname": "044 பையர்நத்தம்                                                                                                                                       "
+  },
+  {
+    "villagecode": "024",
+    "villagename": "Balasamudram                  ",
+    "villagetname": "024 பாலசமுத்திரம்                                                                                                                                     "
+  },
+  {
+    "villagecode": "035",
+    "villagename": "Bandarasettipatty             ",
+    "villagetname": "035 பண்டாரசெட்டிப்பட்டி                                                                                                                               "
+  },
+  {
+    "villagecode": "012",
+    "villagename": "Basavapuram                   ",
+    "villagetname": "012 பசுவாபுரம்                                                                                                                                        "
+  },
+  {
+    "villagecode": "016",
+    "villagename": "Battalahalli                  ",
+    "villagetname": "016 பத்தல்மலை                                                                                                                                         "
+  },
+  {
+    "villagecode": "037",
+    "villagename": "Bommidi                       ",
+    "villagetname": "037 பொம்மிடி                                                                                                                                          "
+  },
+  {
+    "villagecode": "004",
+    "villagename": "Bosinaickenhalli              ",
+    "villagetname": "004 போசிநாய்க்கனள்ளி                                                                                                                                  "
+  },
+  {
+    "villagecode": "045",
+    "villagename": "Bothakkadu                    ",
+    "villagetname": "045 போதக்காடு                                                                                                                                         "
+  },
+  {
+    "villagecode": "014",
+    "villagename": "Buddireddipatti               ",
+    "villagetname": "014 புட்டிரெட்டிப்பட்டி                                                                                                                               "
+  },
+  {
+    "villagecode": "052",
+    "villagename": "Chinnamanchavadi              ",
+    "villagetname": "052 சின்னமஞ்சவாடி                                                                                                                                     "
+  },
+  {
+    "villagecode": "079",
+    "villagename": "Chinnankuppam                 ",
+    "villagetname": "079 சின்னாங்குப்பம்                                                                                                                                   "
+  },
+  {
+    "villagecode": "009",
+    "villagename": "Chintalpadi                   ",
+    "villagetname": "009 சிந்தல்பாடி                                                                                                                                       "
+  },
+  {
+    "villagecode": "046",
+    "villagename": "Devarajapalayam               ",
+    "villagetname": "046 தேவராஜபாளையம்                                                                                                                                     "
+  },
+  {
+    "villagecode": "088",
+    "villagename": "Devarajapalayam               ",
+    "villagetname": "088 தேவராஜபாளையம்                                                                                                                                     "
+  },
+  {
+    "villagecode": "085",
+    "villagename": "Erumiyampatti                 ",
+    "villagetname": "085 எருமியாம்பட்டி                                                                                                                                    "
+  },
+  {
+    "villagecode": "071",
+    "villagename": "Gobichettipalayam             ",
+    "villagetname": "071 கோபிசெட்டிபாளையம்                                                                                                                                 "
+  },
+  {
+    "villagecode": "082",
+    "villagename": "Gopalapuram                   ",
+    "villagetname": "082 கோபாலபுரம்                                                                                                                                        "
+  },
+  {
+    "villagecode": "028",
+    "villagename": "Guntalamaduvu                 ",
+    "villagetname": "028 குண்டலமடுவு                                                                                                                                       "
+  },
+  {
+    "villagecode": "011",
+    "villagename": "Guruparahalli                 ",
+    "villagetname": "011 குருபரஹள்ளி                                                                                                                                       "
+  },
+  {
+    "villagecode": "015",
+    "villagename": "Hunisinahalli                 ",
+    "villagetname": "015 உனிசேனஹள்ளி                                                                                                                                       "
+  },
+  {
+    "villagecode": "057",
+    "villagename": "Ilandaikuttapatty             ",
+    "villagetname": "057 எலந்தகுட்டப்பட்டி                                                                                                                                 "
+  },
+  {
+    "villagecode": "062",
+    "villagename": "Irulapatty                    ",
+    "villagetname": "062 இருளப்பட்டி                                                                                                                                       "
+  },
+  {
+    "villagecode": "081",
+    "villagename": "Jammanahalli                  ",
+    "villagetname": "081 ஜம்மனஹள்ளி                                                                                                                                        "
+  },
+  {
+    "villagecode": "043",
+    "villagename": "Jangalahalli                  ",
+    "villagetname": "043 ஜங்காலஹள்ளி                                                                                                                                       "
+  },
+  {
+    "villagecode": "007",
+    "villagename": "Kadattur                      ",
+    "villagetname": "007 கடத்தூர்                                                                                                                                          "
+  },
+  {
+    "villagecode": "076",
+    "villagename": "Kadavanampatty                ",
+    "villagetname": "076 கதவணம்பட்டி                                                                                                                                       "
+  },
+  {
+    "villagecode": "030",
+    "villagename": "Kadiripuram                   ",
+    "villagetname": "030 கதிரிபுரம்                                                                                                                                        "
+  },
+  {
+    "villagecode": "054",
+    "villagename": "Kallattupatty                 ",
+    "villagetname": "054 கல்லாத்துப்பட்டி                                                                                                                                  "
+  },
+  {
+    "villagecode": "065",
+    "villagename": "Kavandampatty                 ",
+    "villagetname": "065 கவுண்டம்பட்டி                                                                                                                                     "
+  },
+  {
+    "villagecode": "006",
+    "villagename": "Kedaparahalli                 ",
+    "villagetname": "006 கெடகாரஹள்ளி                                                                                                                                       "
+  },
+  {
+    "villagecode": "003",
+    "villagename": "Kerehodihalli                 ",
+    "villagetname": "003 கெரகோடஹள்ளி                                                                                                                                       "
+  },
+  {
+    "villagecode": "019",
+    "villagename": "Kettureddipatty               ",
+    "villagetname": "019 கேத்துரெட்டிப்பட்டி                                                                                                                               "
+  },
+  {
+    "villagecode": "086",
+    "villagename": "Kokkarapatty                  ",
+    "villagetname": "086 கொக்கராப்பட்டி                                                                                                                                    "
+  },
+  {
+    "villagecode": "077",
+    "villagename": "Kolagampatti                  ",
+    "villagetname": "077 கொளகம்பட்டி                                                                                                                                       "
+  },
+  {
+    "villagecode": "049",
+    "villagename": "Kolimookanuru                 ",
+    "villagetname": "049 கோழிமேக்கனுர்                                                                                                                                     "
+  },
+  {
+    "villagecode": "051",
+    "villagename": "Kombur                        ",
+    "villagetname": "051 கோம்புர்                                                                                                                                          "
+  },
+  {
+    "villagecode": "098",
+    "villagename": "Kullampatty                   ",
+    "villagetname": "098 குள்ளம்பட்டி                                                                                                                                      "
+  },
+  {
+    "villagecode": "031",
+    "villagename": "Kumbarahalli                  ",
+    "villagetname": "031 கும்பாரஹள்ளி                                                                                                                                      "
+  },
+  {
+    "villagecode": "008",
+    "villagename": "Linginaickenahalli            ",
+    "villagetname": "008 லிங்கநாயக்கனஹள்ளி                                                                                                                                 "
+  },
+  {
+    "villagecode": "090",
+    "villagename": "Malagappadi                   ",
+    "villagetname": "090 மாலகப்பாடி                                                                                                                                        "
+  },
+  {
+    "villagecode": "036",
+    "villagename": "Mallapuram                    ",
+    "villagetname": "036 மல்லாபுரம்                                                                                                                                        "
+  },
+  {
+    "villagecode": "096",
+    "villagename": "Mangade                       ",
+    "villagetname": "096 மாங்கடை                                                                                                                                           "
+  },
+  {
+    "villagecode": "001",
+    "villagename": "Maniyabadi                    ",
+    "villagetname": "001 மணியம்பாடி                                                                                                                                        "
+  },
+  {
+    "villagecode": "053",
+    "villagename": "Manjavadi                     ",
+    "villagetname": "053 மஞ்சவாடி                                                                                                                                          "
+  },
+  {
+    "villagecode": "013",
+    "villagename": "Matadahalli                   ",
+    "villagetname": "013 மடதஹள்ளி                                                                                                                                          "
+  },
+  {
+    "villagecode": "026",
+    "villagename": "Mekalanayakkanahalli          ",
+    "villagetname": "026 மேகலநாயக்கனஹள்ளி                                                                                                                                  "
+  },
+  {
+    "villagecode": "029",
+    "villagename": "Menisi                        ",
+    "villagetname": "029 மெனசி                                                                                                                                             "
+  },
+  {
+    "villagecode": "047",
+    "villagename": "Molaiyanur                    ",
+    "villagetname": "047 மோளையானூர்                                                                                                                                        "
+  },
+  {
+    "villagecode": "063",
+    "villagename": "Mookareddipatti               ",
+    "villagetname": "063 மூக்காரெட்டிப்பட்டி                                                                                                                               "
+  },
+  {
+    "villagecode": "018",
+    "villagename": "Mottankurichchi               ",
+    "villagetname": "018 மோட்டாங்குறிச்சி                                                                                                                                  "
+  },
+  {
+    "villagecode": "055",
+    "villagename": "Nadupatti                     ",
+    "villagetname": "055 நடுப்பட்டி                                                                                                                                        "
+  },
+  {
+    "villagecode": "005",
+    "villagename": "Nallagudalahalli              ",
+    "villagetname": "005 நல்லகுட்லஹள்ளி                                                                                                                                    "
+  },
+  {
+    "villagecode": "078",
+    "villagename": "Nambippatti                   ",
+    "villagetname": "078 நம்பிபட்டி                                                                                                                                        "
+  },
+  {
+    "villagecode": "083",
+    "villagename": "Naranapuram                   ",
+    "villagetname": "083 நாரணாபுரம்                                                                                                                                        "
+  },
+  {
+    "villagecode": "056",
+    "villagename": "Nonanganur                    ",
+    "villagetname": "056 நொனங்கனூர்                                                                                                                                        "
+  },
+  {
+    "villagecode": "021",
+    "villagename": "Obilinayakkanpatti            ",
+    "villagetname": "021 ஓபிலிநாய்க்கனஹள்ளி                                                                                                                                "
+  },
+  {
+    "villagecode": "034",
+    "villagename": "Oddupatti                     ",
+    "villagetname": "034 ஒட்டுப்பட்டி                                                                                                                                      "
+  },
+  {
+    "villagecode": "072",
+    "villagename": "Papichettipatti               ",
+    "villagetname": "072 பாப்பிசெட்டிபட்டி                                                                                                                                 "
+  },
+  {
+    "villagecode": "093",
+    "villagename": "Pappambadi                    ",
+    "villagetname": "093 பாப்பம்பாடி                                                                                                                                       "
+  },
+  {
+    "villagecode": "050",
+    "villagename": "Pappireddipatty               ",
+    "villagetname": "050 பாப்பிரெட்டிப்பட்டி                                                                                                                               "
+  },
+  {
+    "villagecode": "087",
+    "villagename": "Paraiyapatti                  ",
+    "villagetname": "087 பறையப்பட்டி                                                                                                                                       "
+  },
+  {
+    "villagecode": "058",
+    "villagename": "Pattukanampatti               ",
+    "villagetname": "058 பட்டுக்கோணம்பட்டி                                                                                                                                 "
+  },
+  {
+    "villagecode": "091",
+    "villagename": "Peddampatti                   ",
+    "villagetname": "091 பேதாதம்பட்டி                                                                                                                                      "
+  },
+  {
+    "villagecode": "023",
+    "villagename": "Peddasamudram                 ",
+    "villagetname": "023 பெத்தசமுத்திரம்                                                                                                                                   "
+  },
+  {
+    "villagecode": "070",
+    "villagename": "Peddur                        ",
+    "villagetname": "070 பெத்தூர்                                                                                                                                          "
+  },
+  {
+    "villagecode": "040",
+    "villagename": "P.Pallipatti                  ",
+    "villagetname": "040 பி.பள்ளிப்பட்டி                                                                                                                                   "
+  },
+  {
+    "villagecode": "027",
+    "villagename": "Pudinattam                    ",
+    "villagetname": "027 புதிநத்தம்                                                                                                                                        "
+  },
+  {
+    "villagecode": "084",
+    "villagename": "Pudupatti                     ",
+    "villagetname": "084 புதுப்பட்டி                                                                                                                                       "
+  },
+  {
+    "villagecode": "032",
+    "villagename": "Puilparuthi                   ",
+    "villagetname": "032 பில்பருத்தி                                                                                                                                       "
+  },
+  {
+    "villagecode": "089",
+    "villagename": "Puludiyur                     ",
+    "villagetname": "089 புழுதியுர்                                                                                                                                        "
+  },
+  {
+    "villagecode": "025",
+    "villagename": "Ramanahalli                   ",
+    "villagetname": "025 இராமியனஹள்ளி                                                                                                                                      "
+  },
+  {
+    "villagecode": "033",
+    "villagename": "Regadahalli                   ",
+    "villagetname": "033 ரேகடஹள்ளி                                                                                                                                         "
+  },
+  {
+    "villagecode": "038",
+    "villagename": "Sembiyanur                    ",
+    "villagetname": "038 செம்பியானூர்                                                                                                                                      "
+  },
+  {
+    "villagecode": "069",
+    "villagename": "Sikkampatti                   ",
+    "villagetname": "069 சிக்கம்பட்டி                                                                                                                                      "
+  },
+  {
+    "villagecode": "002",
+    "villagename": "Singirihalli                  ",
+    "villagetname": "002 சிங்கிரிஹள்ளி                                                                                                                                     "
+  },
+  {
+    "villagecode": "094",
+    "villagename": "Sitteri                       ",
+    "villagetname": "094 சித்தேரி                                                                                                                                          "
+  },
+  {
+    "villagecode": "017",
+    "villagename": "Sunkarahalli                  ",
+    "villagetname": "017 சுங்கரஹள்ளி                                                                                                                                       "
+  },
+  {
+    "villagecode": "095",
+    "villagename": "Suriyagadi                    ",
+    "villagetname": "095 சூரியக்கடை                                                                                                                                        "
+  },
+  {
+    "villagecode": "022",
+    "villagename": "Tadanur                       ",
+    "villagetname": "022 தாதனூர்                                                                                                                                           "
+  },
+  {
+    "villagecode": "020",
+    "villagename": "Talanatham                    ",
+    "villagetname": "020 தாளநத்தம்                                                                                                                                         "
+  },
+  {
+    "villagecode": "067",
+    "villagename": "Tenkaraikottai                ",
+    "villagetname": "067 தென்கரைகோட்டை                                                                                                                                     "
+  },
+  {
+    "villagecode": "064",
+    "villagename": "Thadampatti                   ",
+    "villagetname": "064 தாதம்பட்டி                                                                                                                                        "
+  },
+  {
+    "villagecode": "010",
+    "villagename": "Thinnahalli                   ",
+    "villagetname": "010 தின்னஹள்ளி                                                                                                                                        "
+  },
+  {
+    "villagecode": "068",
+    "villagename": "Thurinjihalli                 ",
+    "villagetname": "068 துரிஞ்சிஹள்ளி                                                                                                                                     "
+  },
+  {
+    "villagecode": "092",
+    "villagename": "Vachchatti                    ",
+    "villagetname": "092 வாச்சாத்தி                                                                                                                                        "
+  },
+  {
+    "villagecode": "042",
+    "villagename": "Vairanur                      ",
+    "villagetname": "042 வைரனூர்                                                                                                                                           "
+  },
+  {
+    "villagecode": "039",
+    "villagename": "Vellalapatti                  ",
+    "villagetname": "039 வெள்ளாலப்பட்டி                                                                                                                                    "
+  },
+  {
+    "villagecode": "048",
+    "villagename": "Venkatasamudram               ",
+    "villagetname": "048 வெங்கடசமுத்திரம்                                                                                                                                  "
+  }
+]

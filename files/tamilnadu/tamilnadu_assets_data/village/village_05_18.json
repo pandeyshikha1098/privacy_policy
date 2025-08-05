@@ -1,0 +1,612 @@
+[
+  {
+    "villagecode": "089",
+    "villagename": "Aathanur(Kulappakkam)",
+    "villagetname": "கோ.ஆதனூர"
+  },
+  {
+    "villagecode": "082",
+    "villagename": "Agaram (Uthangal)",
+    "villagetname": "அகரம்  (ஊத்தங்கால்)"
+  },
+  {
+    "villagecode": "022",
+    "villagename": "Aharam (Mukasa)",
+    "villagetname": "மு. அகரம்"
+  },
+  {
+    "villagecode": "112",
+    "villagename": "Ajeesnagar",
+    "villagetname": "அஜூஸ்நகர"
+  },
+  {
+    "villagecode": "054",
+    "villagename": "Alachikudi",
+    "villagetname": "ஆலிச்சிக்குடி"
+  },
+  {
+    "villagecode": "073",
+    "villagename": "Aladi",
+    "villagetname": "ஆலடி"
+  },
+  {
+    "villagecode": "041",
+    "villagename": "Alanduraipattu",
+    "villagetname": "ஆலந்துரைப்பட்டு"
+  },
+  {
+    "villagecode": "097",
+    "villagename": "Ammeri",
+    "villagetname": "அம்மேர"
+  },
+  {
+    "villagecode": "083",
+    "villagename": "Arasakuzhi",
+    "villagetname": "அரசக்குழி"
+  },
+  {
+    "villagecode": "056",
+    "villagename": "Boothamur",
+    "villagetname": "புதாமூர்"
+  },
+  {
+    "villagecode": "079",
+    "villagename": "Chinnakappankulam",
+    "villagetname": "சின்னக்காப்பாங்குளம்"
+  },
+  {
+    "villagecode": "035",
+    "villagename": "Chinnapandaran Kuppam",
+    "villagetname": "சின்னப்பன்டாரன்குப்பம்"
+  },
+  {
+    "villagecode": "005",
+    "villagename": "Chinnaparur",
+    "villagetname": "சின்னப்பரூர"
+  },
+  {
+    "villagecode": "047",
+    "villagename": "Chinnathukkurichi",
+    "villagetname": "சின்னாத்துக்குறிச்சி"
+  },
+  {
+    "villagecode": "020",
+    "villagename": "Chinnavadavadi",
+    "villagetname": "சின்னவடவாடி"
+  },
+  {
+    "villagecode": "096",
+    "villagename": "Coonankuruchi",
+    "villagetname": "கூனங்குறிச்சி"
+  },
+  {
+    "villagecode": "119",
+    "villagename": "Dharmanallur",
+    "villagetname": "தரமநல்லுார"
+  },
+  {
+    "villagecode": "014",
+    "villagename": "Eadaiyur",
+    "villagetname": "எடையுர"
+  },
+  {
+    "villagecode": "003",
+    "villagename": "Edachithur",
+    "villagetname": "எடச்சித்துார"
+  },
+  {
+    "villagecode": "052",
+    "villagename": "Enathimedu",
+    "villagetname": "ஏனாதிமேடு"
+  },
+  {
+    "villagecode": "019",
+    "villagename": "Erumanur",
+    "villagetname": "எருமனுார"
+  },
+  {
+    "villagecode": "100",
+    "villagename": "Gangaikondan",
+    "villagetname": "கெங்கைகொண்டான்"
+  },
+  {
+    "villagecode": "091",
+    "villagename": "Gopalapuram",
+    "villagetname": "கோபாலபுரம்"
+  },
+  {
+    "villagecode": "062",
+    "villagename": "Gopurapuram",
+    "villagetname": "கோபுராபுரம்"
+  },
+  {
+    "villagecode": "039",
+    "villagename": "Ilamangalam (Kaspa)",
+    "villagetname": "இளமங்கலம் (கஸ்பா)"
+  },
+  {
+    "villagecode": "072",
+    "villagename": "Irulakuruchi",
+    "villagetname": "இருளக்குறிச்சி"
+  },
+  {
+    "villagecode": "077",
+    "villagename": "Iruppu",
+    "villagetname": "இருப்பு"
+  },
+  {
+    "villagecode": "064",
+    "villagename": "Irusaalakuppam",
+    "villagetname": "இருசாளக்குப்பம்"
+  },
+  {
+    "villagecode": "114",
+    "villagename": "Kammapuram",
+    "villagetname": "கம்மாபுரம்"
+  },
+  {
+    "villagecode": "059",
+    "villagename": "Kanatha Kandan",
+    "villagetname": "காணாதுகண்டான்"
+  },
+  {
+    "villagecode": "036",
+    "villagename": "Kandiankuppam",
+    "villagetname": "கண்டியாங்குப்பம்"
+  },
+  {
+    "villagecode": "087",
+    "villagename": "Karkudal",
+    "villagetname": "காரகுடல்"
+  },
+  {
+    "villagecode": "025",
+    "villagename": "Karnatham",
+    "villagetname": "கரநத்தம்"
+  },
+  {
+    "villagecode": "050",
+    "villagename": "Karuveppilanguruchi",
+    "villagetname": "கருவேப்பலங்குறிச்சி"
+  },
+  {
+    "villagecode": "006",
+    "villagename": "Katchiperumalnatham",
+    "villagetname": "கச்சிபெருமாநத்தம்"
+  },
+  {
+    "villagecode": "061",
+    "villagename": "Katchirayanatham",
+    "villagetname": "கச்சிராயநந்தம்"
+  },
+  {
+    "villagecode": "030",
+    "villagename": "Kattiyanallur",
+    "villagetname": "கட்டியநல்லுார"
+  },
+  {
+    "villagecode": "023",
+    "villagename": "Kattuparur",
+    "villagetname": "காட்டுப்பரூர"
+  },
+  {
+    "villagecode": "063",
+    "villagename": "Kavanai",
+    "villagetname": "கவணை"
+  },
+  {
+    "villagecode": "105",
+    "villagename": "Keelpathi",
+    "villagetname": "கீழ்பாதி"
+  },
+  {
+    "villagecode": "010",
+    "villagename": "Keerambur",
+    "villagetname": "கீரம்புர"
+  },
+  {
+    "villagecode": "031",
+    "villagename": "Ko. Boovanur",
+    "villagetname": "கோ.புவனுார"
+  },
+  {
+    "villagecode": "012",
+    "villagename": "Kodukkur",
+    "villagetname": "கொடூக்கூர"
+  },
+  {
+    "villagecode": "048",
+    "villagename": "Kollathangkuruchi",
+    "villagetname": "கொள்ளத்தங்குறிச்சி"
+  },
+  {
+    "villagecode": "080",
+    "villagename": "Kolliruppu",
+    "villagetname": "கொல்லிருப்பு"
+  },
+  {
+    "villagecode": "018",
+    "villagename": "Komangalam",
+    "villagetname": "கோமங்கலம்"
+  },
+  {
+    "villagecode": "103",
+    "villagename": "Kottagam",
+    "villagetname": "கோட்டகம்"
+  },
+  {
+    "villagecode": "075",
+    "villagename": "Kottari",
+    "villagetname": "கோட்டேர"
+  },
+  {
+    "villagecode": "122",
+    "villagename": "Kottumunai",
+    "villagetname": "கோட்டுமுளை"
+  },
+  {
+    "villagecode": "027",
+    "villagename": "Kovilanur",
+    "villagetname": "கோவிலானுார"
+  },
+  {
+    "villagecode": "090",
+    "villagename": "Kumaramangalam",
+    "villagetname": "குமாரமங்கலம்"
+  },
+  {
+    "villagecode": "058",
+    "villagename": "Kuppanatham",
+    "villagetname": "குப்பநத்தம்"
+  },
+  {
+    "villagecode": "106",
+    "villagename": "Managathi",
+    "villagetname": "மனகதி"
+  },
+  {
+    "villagecode": "076",
+    "villagename": "Manakollai",
+    "villagetname": "மணக்கொல்லை"
+  },
+  {
+    "villagecode": "038",
+    "villagename": "Manalur",
+    "villagetname": "மணலுார"
+  },
+  {
+    "villagecode": "017",
+    "villagename": "Manavalanallur",
+    "villagetname": "மணவாளநல்லுார"
+  },
+  {
+    "villagecode": "026",
+    "villagename": "Mangalam (K)",
+    "villagetname": "மங்கலம் (கொ)"
+  },
+  {
+    "villagecode": "066",
+    "villagename": "Mathur",
+    "villagetname": "மாத்துார"
+  },
+  {
+    "villagecode": "085",
+    "villagename": "Mavidabthalkolabakkam",
+    "villagetname": "கோ.மாவிடந்தல்"
+  },
+  {
+    "villagecode": "108",
+    "villagename": "Melpappanapattu",
+    "villagetname": "மேல்பாப்பன்பட்டு"
+  },
+  {
+    "villagecode": "107",
+    "villagename": "Melpathy",
+    "villagetname": "மேல்பாதி"
+  },
+  {
+    "villagecode": "071",
+    "villagename": "Mudappuli",
+    "villagetname": "முடப்புளி"
+  },
+  {
+    "villagecode": "015",
+    "villagename": "Mugunthanallur",
+    "villagetname": "முகுந்தநல்லுார"
+  },
+  {
+    "villagecode": "113",
+    "villagename": "Mummudichozhan",
+    "villagetname": "மும்முடிச்சோழன்"
+  },
+  {
+    "villagecode": "081",
+    "villagename": "Muthanai",
+    "villagetname": "முதனை"
+  },
+  {
+    "villagecode": "037",
+    "villagename": "Nachiyar Pettai",
+    "villagetname": "நாச்சியாரபேட்டை"
+  },
+  {
+    "villagecode": "070",
+    "villagename": "Nadiyapattu",
+    "villagetname": "நடியப்பட்டு"
+  },
+  {
+    "villagecode": "060",
+    "villagename": "Narumanam",
+    "villagetname": "நறுமணம்"
+  },
+  {
+    "villagecode": "051",
+    "villagename": "Nemam",
+    "villagetname": "நேமம்"
+  },
+  {
+    "villagecode": "109",
+    "villagename": "Neyveli",
+    "villagetname": "நெய்வேலி"
+  },
+  {
+    "villagecode": "124",
+    "villagename": "Ottimedu",
+    "villagetname": "ஓட்டிமேடு"
+  },
+  {
+    "villagecode": "011",
+    "villagename": "Padukalanatham",
+    "villagetname": "படுகளாநத்தம்"
+  },
+  {
+    "villagecode": "069",
+    "villagename": "Palakkollai",
+    "villagetname": "பாலக்கொல்லை"
+  },
+  {
+    "villagecode": "028",
+    "villagename": "Pallipattu",
+    "villagetname": "பள்ளிப்பட்டு"
+  },
+  {
+    "villagecode": "007",
+    "villagename": "Paravalur",
+    "villagetname": "பரவளுர"
+  },
+  {
+    "villagecode": "004",
+    "villagename": "Parur (Mukasa)",
+    "villagetname": "மு.பரூர்"
+  },
+  {
+    "villagecode": "067",
+    "villagename": "Pavazhangudi (K)",
+    "villagetname": "பவழங்குடி (கோ)"
+  },
+  {
+    "villagecode": "074",
+    "villagename": "Pazhayapattinam",
+    "villagetname": "பழையபட்டினம்"
+  },
+  {
+    "villagecode": "057",
+    "villagename": "Pdudkooraipettai",
+    "villagetname": "புதுகூரைப்பேட்டை"
+  },
+  {
+    "villagecode": "049",
+    "villagename": "Peralaiyur",
+    "villagetname": "பேரளையுர"
+  },
+  {
+    "villagecode": "013",
+    "villagename": "Perambalur",
+    "villagetname": "பெரம்பலுார"
+  },
+  {
+    "villagecode": "078",
+    "villagename": "Periya Kappan Kulam",
+    "villagetname": "பெரயகாப்பாங்குளம்"
+  },
+  {
+    "villagecode": "101",
+    "villagename": "Periyakkurichi",
+    "villagetname": "பெரயாக்குறிச்சி"
+  },
+  {
+    "villagecode": "032",
+    "villagename": "Periyavadavadi",
+    "villagetname": "பெரயவடவாடி"
+  },
+  {
+    "villagecode": "123",
+    "villagename": "Perunthurai",
+    "villagetname": "பெருந்துரை"
+  },
+  {
+    "villagecode": "121",
+    "villagename": "Peruvarappur",
+    "villagetname": "பெருவரப்புர"
+  },
+  {
+    "villagecode": "086",
+    "villagename": "Ponneri",
+    "villagetname": "பொன்னேர"
+  },
+  {
+    "villagecode": "053",
+    "villagename": "Poonthottam",
+    "villagetname": "புந்தோட்டம்"
+  },
+  {
+    "villagecode": "068",
+    "villagename": "Puliyur",
+    "villagetname": "புலியுர"
+  },
+  {
+    "villagecode": "115",
+    "villagename": "Putthur",
+    "villagetname": "க.புத்துார"
+  },
+  {
+    "villagecode": "046",
+    "villagename": "Rajendirapattanam",
+    "villagetname": "ராஜேந்திரபட்டினம்"
+  },
+  {
+    "villagecode": "029",
+    "villagename": "Rubanarayananallur",
+    "villagetname": "ரூபநாராயணநல்லுார"
+  },
+  {
+    "villagecode": "040",
+    "villagename": "Sathakkudal (Keezpathi)",
+    "villagetname": "சாத்துக்குடல்  (கீழ்பாதி)"
+  },
+  {
+    "villagecode": "016",
+    "villagename": "Sathakudal (Melpathi)",
+    "villagetname": "சாத்துக்குடல்  (மேல்பாதி)"
+  },
+  {
+    "villagecode": "084",
+    "villagename": "Sathamangalam",
+    "villagetname": "சாத்தமங்கலம்"
+  },
+  {
+    "villagecode": "117",
+    "villagename": "Sathappadi",
+    "villagetname": "சாத்தப்பாடி"
+  },
+  {
+    "villagecode": "042",
+    "villagename": "Sathiyavadi",
+    "villagetname": "சத்தியவாடி"
+  },
+  {
+    "villagecode": "034",
+    "villagename": "Sembalakkurichi",
+    "villagetname": "செம்பளாக்குறிச்சி"
+  },
+  {
+    "villagecode": "102",
+    "villagename": "Seppalanatham",
+    "villagetname": "சேப்பளாநத்தம்"
+  },
+  {
+    "villagecode": "002",
+    "villagename": "Siruvambaar",
+    "villagetname": "சிறுவம்பார"
+  },
+  {
+    "villagecode": "116",
+    "villagename": "Siruvarappur",
+    "villagetname": "சிறுவரப்புர"
+  },
+  {
+    "villagecode": "065",
+    "villagename": "Siththerikuppam",
+    "villagetname": "சித்தேரக்குப்பம்"
+  },
+  {
+    "villagecode": "092",
+    "villagename": "S.Keenanur",
+    "villagetname": "சு.கீணனூர"
+  },
+  {
+    "villagecode": "088",
+    "villagename": "Sottavanam",
+    "villagetname": "சொட்டவனம்"
+  },
+  {
+    "villagecode": "043",
+    "villagename": "Therkku Vadakku Puthur",
+    "villagetname": "தெற்கு வடக்குப் புத்துார"
+  },
+  {
+    "villagecode": "008",
+    "villagename": "Thoravalur",
+    "villagetname": "தொரவளுர்"
+  },
+  {
+    "villagecode": "001",
+    "villagename": "T. Mavidandal",
+    "villagetname": "டி மாவிடந்தல்"
+  },
+  {
+    "villagecode": "118",
+    "villagename": "U.Athanur",
+    "villagetname": "ஊ.ஆதனுார"
+  },
+  {
+    "villagecode": "104",
+    "villagename": "Uiyyakonravi",
+    "villagetname": "உய்யகொண்டராவி"
+  },
+  {
+    "villagecode": "093",
+    "villagename": "U.Kolappakkam",
+    "villagetname": "ஊ.கொளப்பாக்கம்"
+  },
+  {
+    "villagecode": "095",
+    "villagename": "Umangalam",
+    "villagetname": "ஊமங்கலம்"
+  },
+  {
+    "villagecode": "094",
+    "villagename": "Uthangal",
+    "villagetname": "ஊத்தங்கால்"
+  },
+  {
+    "villagecode": "111",
+    "villagename": "Vadakkuvellur",
+    "villagetname": "வடக்குவெள்ளுர்"
+  },
+  {
+    "villagecode": "044",
+    "villagename": "Vannankudikadu",
+    "villagetname": "வண்ணாக்குடிகாடு"
+  },
+  {
+    "villagecode": "033",
+    "villagename": "Vayalur",
+    "villagetname": "வயலுார"
+  },
+  {
+    "villagecode": "110",
+    "villagename": "Veppankurichi",
+    "villagetname": "வேப்பங்குறிச்சி"
+  },
+  {
+    "villagecode": "045",
+    "villagename": "Vettakudi",
+    "villagetname": "வேட்டகுடி"
+  },
+  {
+    "villagecode": "021",
+    "villagename": "Vijayama Nagaram",
+    "villagetname": "விஜயமாநகரம்"
+  },
+  {
+    "villagecode": "009",
+    "villagename": "Vilaangattur",
+    "villagetname": "விளாங்காட்டுர்"
+  },
+  {
+    "villagecode": "120",
+    "villagename": "Vilakkappady",
+    "villagetname": "விளக்கப்பாடி"
+  },
+  {
+    "villagecode": "024",
+    "villagename": "Visalur",
+    "villagetname": "விசலுார"
+  },
+  {
+    "villagecode": "055",
+    "villagename": "Vridhachalam",
+    "villagetname": "விருத்தாசலம்"
+  }
+]
