@@ -1,0 +1,986 @@
+[
+  {
+    "globalSectionId": 1,
+    "title": "1",
+    "content": "Short title",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/1.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Short%20title"
+  },
+  {
+    "globalSectionId": 2,
+    "title": "2",
+    "content": "Repeal of enactments",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/2.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Repeal%20of%20enactments"
+  },
+  {
+    "globalSectionId": 3,
+    "title": "3",
+    "content": "Interpretation clause",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/3.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Interpretation%20clause"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter II",
+    "content": "Notes, Bills And Cheques",
+    "link": ""
+  },
+  {
+    "globalSectionId": 4,
+    "title": "4",
+    "content": "\"Promissory note",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/4.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Promissory%20note"
+  },
+  {
+    "globalSectionId": 5,
+    "title": "5",
+    "content": "\"Bill of exchange\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/5.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Bill%20of%20exchange"
+  },
+  {
+    "globalSectionId": 6,
+    "title": "6",
+    "content": "\"Cheque\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/6.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Cheque"
+  },
+  {
+    "globalSectionId": 7,
+    "title": "7",
+    "content": "\"Drawer\", \"drawee\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/7.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Drawer,%20drawee"
+  },
+  {
+    "globalSectionId": 8,
+    "title": "8",
+    "content": "Holder",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/8.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Holder"
+  },
+  {
+    "globalSectionId": 9,
+    "title": "9",
+    "content": "\"Holder in due course\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/9.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Holder%20in%20due%20course"
+  },
+  {
+    "globalSectionId": 10,
+    "title": "10",
+    "content": "\"Payment in due course\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/10.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20in%20due%20course"
+  },
+  {
+    "globalSectionId": 11,
+    "title": "11",
+    "content": "\"Inland instrument\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/11.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Inland%20instrument"
+  },
+  {
+    "globalSectionId": 12,
+    "title": "12",
+    "content": "\"Foreign instrument\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/12.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Foreign%20instrument"
+  },
+  {
+    "globalSectionId": 13,
+    "title": "13",
+    "content": "\"Negotiable instrument\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/13.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Negotiable%20instrument"
+  },
+  {
+    "globalSectionId": 14,
+    "title": "14",
+    "content": "Negotiation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/14.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Negotiation"
+  },
+  {
+    "globalSectionId": 15,
+    "title": "15",
+    "content": "Endorsement",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/15.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Endorsement"
+  },
+  {
+    "globalSectionId": 16,
+    "title": "16",
+    "content": "Endorsement \"in blank\" and \"in full\"-\"endorsee\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/16.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Endorsement%20in%20blank%20and%20in%20full%20endorsee"
+  },
+  {
+    "globalSectionId": 17,
+    "title": "17",
+    "content": "Ambiguous instruments",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/17.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Ambiguous%20instruments"
+  },
+  {
+    "globalSectionId": 18,
+    "title": "18",
+    "content": "Where amount is stated differently in figures and words",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/18.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Where%20amount%20is%20stated%20differently%20in%20figures%20and%20words"
+  },
+  {
+    "globalSectionId": 19,
+    "title": "19",
+    "content": "Instruments payable on demand",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/19.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instruments%20payable%20on%20demand"
+  },
+  {
+    "globalSectionId": 20,
+    "title": "20",
+    "content": "Inchoate stamped instruments",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/20.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Inchoate%20stamped%20instruments"
+  },
+  {
+    "globalSectionId": 21,
+    "title": "21",
+    "content": "At sight, On presentment, After sight",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/21.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=At%20sight,%20On%20presentment,%20After%20sight"
+  },
+  {
+    "globalSectionId": 22,
+    "title": "22",
+    "content": "\"Maturity\"",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/22.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Maturity"
+  },
+  {
+    "globalSectionId": 23,
+    "title": "23",
+    "content": "Calculating maturity of bill or note payable so many months after date or sight",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/23.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Calculating%20maturity%20of%20bill%20or%20note%20payable%20so%20many%20months%20after%20date%20or%20sight"
+  },
+  {
+    "globalSectionId": 24,
+    "title": "24",
+    "content": "Calculating maturity of bill or note payable so many days after date or sight",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/24.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Calculating%20maturity%20of%20bill%20or%20note%20payable%20so%20many%20days%20after%20date%20or%20sight"
+  },
+  {
+    "globalSectionId": 25,
+    "title": "25",
+    "content": "When day of maturity is a holiday",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/25.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When%20day%20of%20maturity%20is%20a%20holiday"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter III",
+    "content": "Parties To Notes, Bills And Cheques",
+    "link": ""
+  },
+  {
+    "globalSectionId": 26,
+    "title": "26",
+    "content": "Capacity to make, etc., promissory notes, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/26.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Capacity%20to%20make,%20etc.,%20promissory%20notes,%20etc."
+  },
+  {
+    "globalSectionId": 27,
+    "title": "27",
+    "content": "Agency",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/27.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Agency"
+  },
+  {
+    "globalSectionId": 28,
+    "title": "28",
+    "content": "Liability of agent signing",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/28.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20agent%20signing"
+  },
+  {
+    "globalSectionId": 29,
+    "title": "29",
+    "content": "Liability of legal representative signing",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/29.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20legal%20representative%20signing"
+  },
+  {
+    "globalSectionId": 30,
+    "title": "30",
+    "content": "Liability of drawer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/30.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20drawer"
+  },
+  {
+    "globalSectionId": 31,
+    "title": "31",
+    "content": "Liability of drawee of cheque",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/31.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20drawee%20of%20cheque"
+  },
+  {
+    "globalSectionId": 32,
+    "title": "32",
+    "content": "Liability of maker of note and acceptor of bill",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/32.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20maker%20of%20note%20and%20acceptor%20of%20bill"
+  },
+  {
+    "globalSectionId": 33,
+    "title": "33",
+    "content": "Only drawee can be acceptor except in need or for honor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/33.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Only%20drawee%20can%20be%20acceptor%20except%20in%20need%20or%20for%20honor"
+  },
+  {
+    "globalSectionId": 34,
+    "title": "34",
+    "content": "Acceptance by several drawees not partners",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/34.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptance%20by%20several%20drawees%20not%20partners"
+  },
+  {
+    "globalSectionId": 35,
+    "title": "35",
+    "content": "Liability of endorser",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/35.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20endorser"
+  },
+  {
+    "globalSectionId": 36,
+    "title": "36",
+    "content": "Liability of prior parties to holder in due course",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/36.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20prior%20parties%20to%20holder%20in%20due%20course"
+  },
+  {
+    "globalSectionId": 37,
+    "title": "37",
+    "content": "Maker, drawer and acceptor principals",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/37.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Maker,%20drawer%20and%20acceptor%20principals"
+  },
+  {
+    "globalSectionId": 38,
+    "title": "38",
+    "content": "Prior party a principal in respect of each subsequent party",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/38.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Prior%20party%20a%20principal%20in%20respect%20of%20each%20subsequent%20party"
+  },
+  {
+    "globalSectionId": 39,
+    "title": "39",
+    "content": "Suretyship",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/39.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Suretyship"
+  },
+  {
+    "globalSectionId": 40,
+    "title": "40",
+    "content": "Discharge of endorser's liability",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/40.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Discharge%20of%20endorser%27s%20liability"
+  },
+  {
+    "globalSectionId": 41,
+    "title": "41",
+    "content": "Acceptor bound, although endorsement forged",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/41.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptor%20bound,%20although%20endorsement%20forged"
+  },
+  {
+    "globalSectionId": 42,
+    "title": "42",
+    "content": "Acceptance of bill drawn in fictitious name",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/42.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptance%20of%20bill%20drawn%20in%20fictitious%20name"
+  },
+  {
+    "globalSectionId": 43,
+    "title": "43",
+    "content": "Negotiable instrument made, etc. without consideration",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/43.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Negotiable%20instrument%20made,%20etc.%20without%20consideration"
+  },
+  {
+    "globalSectionId": 44,
+    "title": "44",
+    "content": "Partial absence or failure of money-consideration",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/44.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Partial%20absence%20or%20failure%20of%20money-consideration"
+  },
+  {
+    "globalSectionId": 45,
+    "title": "45",
+    "content": "Partial failure of consideration not consisting of money",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/45.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Partial%20failure%20of%20consideration%20not%20consisting%20of%20money"
+  },
+  {
+    "globalSectionId": 46,
+    "title": "45A",
+    "content": "Holder's right to duplicate of lost bill",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/45a.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Holder%27s%20right%20to%20duplicate%20of%20lost%20bill"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter IV",
+    "content": "Negotiation",
+    "link": ""
+  },
+  {
+    "globalSectionId": 47,
+    "title": "46",
+    "content": "Delivery",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/46.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Delivery"
+  },
+  {
+    "globalSectionId": 48,
+    "title": "47",
+    "content": "Negotiation by delivery",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/47.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Negotiation%20by%20delivery"
+  },
+  {
+    "globalSectionId": 49,
+    "title": "48",
+    "content": "Negotiation by endorsement",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/48.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Negotiation%20by%20endorsement"
+  },
+  {
+    "globalSectionId": 50,
+    "title": "49",
+    "content": "Conversion of endorsement in blank into endorsement in full",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/49.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Conversion%20of%20endorsement%20in%20blank%20into%20endorsement%20in%20full"
+  },
+  {
+    "globalSectionId": 51,
+    "title": "50",
+    "content": "Effect of endorsement",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/50.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Effect%20of%20endorsement"
+  },
+  {
+    "globalSectionId": 52,
+    "title": "51",
+    "content": "Who may negotiate",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/51.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Who%20may%20negotiate"
+  },
+  {
+    "globalSectionId": 53,
+    "title": "52",
+    "content": "Endorser who excludes his own liability or makes it conditional",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/52.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Endorser%20who%20excludes%20his%20own%20liability%20or%20makes%20it%20conditional"
+  },
+  {
+    "globalSectionId": 54,
+    "title": "53",
+    "content": "Holder deriving title from holder in due course",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/53.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Holder%20deriving%20title%20from%20holder%20in%20due%20course"
+  },
+  {
+    "globalSectionId": 55,
+    "title": "54",
+    "content": "Instrument endorsed in blank",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/54.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instrument%20endorsed%20in%20blank"
+  },
+  {
+    "globalSectionId": 56,
+    "title": "55",
+    "content": "Conversion of endorsement in blank into endorsement in full",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/55.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Conversion%20of%20endorsement%20in%20blank%20into%20endorsement%20in%20full"
+  },
+  {
+    "globalSectionId": 57,
+    "title": "56",
+    "content": "Endorsement for part of sum due",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/56.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Endorsement%20for%20part%20of%20sum%20due"
+  },
+  {
+    "globalSectionId": 58,
+    "title": "57",
+    "content": "Legal representative cannot by delivery only negotiate instrument endorsed by deceased",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/57.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Legal%20representative%20cannot%20by%20delivery%20only%20negotiate%20instrument%20endorsed%20by%20deceased"
+  },
+  {
+    "globalSectionId": 59,
+    "title": "58",
+    "content": "Instrument obtained by unlawful means or for unlawful consideration",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/58.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instrument%20obtained%20by%20unlawful%20means%20or%20for%20unlawful%20consideration"
+  },
+  {
+    "globalSectionId": 60,
+    "title": "59",
+    "content": "Instrument acquired after dishonor or when overdue",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/59.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instrument%20acquired%20after%20dishonor%20or%20when%20overdue"
+  },
+  {
+    "globalSectionId": 61,
+    "title": "60",
+    "content": "Instrument negotiable till payment or satisfaction",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/60.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instrument%20negotiable%20till%20payment%20or%20satisfaction"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter V",
+    "content": "Presentment",
+    "link": ""
+  },
+  {
+    "globalSectionId": 62,
+    "title": "61",
+    "content": "Presentment for acceptance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/61.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20for%20acceptance"
+  },
+  {
+    "globalSectionId": 63,
+    "title": "62",
+    "content": "Presentment of promissory note for sight",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/62.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20of%20promissory%20note%20for%20sight"
+  },
+  {
+    "globalSectionId": 64,
+    "title": "63",
+    "content": "Drawee's time for deliberation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/63.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Drawee%27s%20time%20for%20deliberation"
+  },
+  {
+    "globalSectionId": 65,
+    "title": "64",
+    "content": "Presentment for payment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/64.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20for%20payment"
+  },
+  {
+    "globalSectionId": 66,
+    "title": "65",
+    "content": "Hours for presentment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/65.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Hours%20for%20presentment"
+  },
+  {
+    "globalSectionId": 67,
+    "title": "66",
+    "content": "Presentment for payment of instrument payable after date or sight",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/66.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20for%20payment%20of%20instrument%20payable%20after%20date%20or%20sight"
+  },
+  {
+    "globalSectionId": 68,
+    "title": "67",
+    "content": "Presentment for payment of promissory note payable by installments",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/67.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20for%20payment%20of%20promissory%20note%20payable%20by%20installments"
+  },
+  {
+    "globalSectionId": 69,
+    "title": "68",
+    "content": "Presentment for payment of instrument payable at specified place and not elsewhere",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/68.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20for%20payment%20of%20instrument%20payable%20at%20specified%20place%20and%20not%20elsewhere"
+  },
+  {
+    "globalSectionId": 70,
+    "title": "69",
+    "content": "Instrument payable at specified place",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/69.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instrument%20payable%20at%20specified%20place"
+  },
+  {
+    "globalSectionId": 71,
+    "title": "70",
+    "content": "Presentment where no exclusive place specified",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/70.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20where%20no%20exclusive%20place%20specified"
+  },
+  {
+    "globalSectionId": 72,
+    "title": "71",
+    "content": "Presentment when maker, etc., has no known place of business or residence",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/71.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20when%20maker,%20etc.,%20has%20no%20known%20place%20of%20business%20or%20residence"
+  },
+  {
+    "globalSectionId": 73,
+    "title": "72",
+    "content": "Presentment of cheque to charge drawer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/72.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20of%20cheque%20to%20charge%20drawer"
+  },
+  {
+    "globalSectionId": 74,
+    "title": "73",
+    "content": "Presentment of cheque to charge any other person",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/73.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20of%20cheque%20to%20charge%20any%20other%20person"
+  },
+  {
+    "globalSectionId": 75,
+    "title": "74",
+    "content": "Presentment of instrument payable at demand",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/74.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20of%20instrument%20payable%20at%20demand"
+  },
+  {
+    "globalSectionId": 76,
+    "title": "75",
+    "content": "Presentment by or to agent, representative of deceased, or assignee of insolvent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/75.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presentment%20by%20or%20to%20agent,%20representative%20of%20deceased,%20or%20assignee%20of%20insolvent"
+  },
+  {
+    "globalSectionId": 77,
+    "title": "76",
+    "content": "When presentment unnecessary",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/76.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When%20presentment%20unnecessary"
+  },
+  {
+    "globalSectionId": 78,
+    "title": "77",
+    "content": "Liability of banker for negligently dealing with bill presented for payment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/77.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20banker%20for%20negligently%20dealing%20with%20bill%20presented%20for%20payment"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VI",
+    "content": "Payment And Interest",
+    "link": ""
+  },
+  {
+    "globalSectionId": 79,
+    "title": "78",
+    "content": "To whom payment should be made",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/78.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=To%20whom%20payment%20should%20be%20made"
+  },
+  {
+    "globalSectionId": 80,
+    "title": "79",
+    "content": "Interest when rate specified",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/79.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Interest%20when%20rate%20specified"
+  },
+  {
+    "globalSectionId": 81,
+    "title": "80",
+    "content": "Interest when no rate specified",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/80.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Interest%20when%20no%20rate%20specified"
+  },
+  {
+    "globalSectionId": 82,
+    "title": "81",
+    "content": "Delivery of instrument on payment or indemnity in case of loss",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/81.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Delivery%20of%20instrument%20on%20payment%20or%20indemnity%20in%20case%20of%20loss"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VII",
+    "content": "Discharge From Liability On Notes, Bills And Cheques",
+    "link": ""
+  },
+  {
+    "globalSectionId": 83,
+    "title": "82",
+    "content": "Discharge from liability",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/82.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Discharge%20from%20liability"
+  },
+  {
+    "globalSectionId": 84,
+    "title": "83",
+    "content": "Discharge by allowing drawee more than forty-eight hours to accept",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/83.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Discharge%20by%20allowing%20drawee%20more%20than%20forty-eight%20hours%20to%20accept"
+  },
+  {
+    "globalSectionId": 85,
+    "title": "84",
+    "content": "When cheque not duly presented and drawer damaged thereby",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/84.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When%20cheque%20not%20duly%20presented%20and%20drawer%20damaged%20thereby"
+  },
+  {
+    "globalSectionId": 86,
+    "title": "85",
+    "content": "Cheque payable to order",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/85.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Cheque%20payable%20to%20order"
+  },
+  {
+    "globalSectionId": 87,
+    "title": "85A",
+    "content": "Drafts drawn by one branch of a bank on another payable to order",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/85a.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Drafts%20drawn%20by%20one%20branch%20of%20a%20bank%20on%20another%20payable%20to%20order"
+  },
+  {
+    "globalSectionId": 88,
+    "title": "86",
+    "content": "Parties not consenting discharged by qualified or limited acceptance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/86.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Parties%20not%20consenting%20discharged%20by%20qualified%20or%20limited%20acceptance"
+  },
+  {
+    "globalSectionId": 89,
+    "title": "87",
+    "content": "Affect of material alteration",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/87.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Affect%20of%20material%20alteration"
+  },
+  {
+    "globalSectionId": 90,
+    "title": "88",
+    "content": "Acceptor or endorser bound notwithstanding previous alteration",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/88.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptor%20or%20endorser%20bound%20notwithstanding%20previous%20alteration"
+  },
+  {
+    "globalSectionId": 91,
+    "title": "89",
+    "content": "Payment of instrument on which alteration is not apparent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/89.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20of%20instrument%20on%20which%20alteration%20is%20not%20apparent"
+  },
+  {
+    "globalSectionId": 92,
+    "title": "90",
+    "content": "Extinguishment of rights of action on bill in acceptor's hands",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/90.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Extinguishment%20of%20rights%20of%20action%20on%20bill%20in%20acceptor%27s%20hands"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VIII",
+    "content": "Notice Of Dishonour",
+    "link": ""
+  },
+  {
+    "globalSectionId": 93,
+    "title": "91",
+    "content": "Dishonor by non-acceptance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/91.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Dishonor%20by%20non-acceptance"
+  },
+  {
+    "globalSectionId": 94,
+    "title": "92",
+    "content": "Dishonor by non-payment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/92.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Dishonor%20by%20non-payment"
+  },
+  {
+    "globalSectionId": 95,
+    "title": "93",
+    "content": "By and to whom notice should be given",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/93.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=By%20and%20to%20whom%20notice%20should%20be%20given"
+  },
+  {
+    "globalSectionId": 96,
+    "title": "94",
+    "content": "Mode in which notice may be given",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/94.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Mode%20in%20which%20notice%20may%20be%20given"
+  },
+  {
+    "globalSectionId": 97,
+    "title": "95",
+    "content": "Party receiving must transmit notice of dishonor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/95.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Party%20receiving%20must%20transmit%20notice%20of%20dishonor"
+  },
+  {
+    "globalSectionId": 98,
+    "title": "96",
+    "content": "Agent for presentment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/96.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Agent%20for%20presentment"
+  },
+  {
+    "globalSectionId": 99,
+    "title": "97",
+    "content": "When party to whom notice given is dead",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/97.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When%20party%20to%20whom%20notice%20given%20is%20dead"
+  },
+  {
+    "globalSectionId": 100,
+    "title": "98",
+    "content": "When, notice of dishonor is unnecessary",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/98.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When,%20notice%20of%20dishonor%20is%20unnecessary"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter IX",
+    "content": "Noting And Protest",
+    "link": ""
+  },
+  {
+    "globalSectionId": 101,
+    "title": "99",
+    "content": "Noting",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/99.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Noting"
+  },
+  {
+    "globalSectionId": 102,
+    "title": "100",
+    "content": "Protest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/100.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Protest"
+  },
+  {
+    "globalSectionId": 103,
+    "title": "101",
+    "content": "Contents of protest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/101.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Contents%20of%20protest"
+  },
+  {
+    "globalSectionId": 104,
+    "title": "102",
+    "content": "Notice of protest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/102.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Notice%20of%20protest"
+  },
+  {
+    "globalSectionId": 105,
+    "title": "103",
+    "content": "Protest for non-payment after dishonor by non-acceptance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/103.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Protest%20for%20non-payment%20after%20dishonor%20by%20non-acceptance"
+  },
+  {
+    "globalSectionId": 106,
+    "title": "104",
+    "content": "Protest of foreign bills",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/104.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Protest%20of%20foreign%20bills"
+  },
+  {
+    "globalSectionId": 107,
+    "title": "104A",
+    "content": "When noting equivalent to protest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/104a.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When%20noting%20equivalent%20to%20protest"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter X",
+    "content": "Reasonable Time",
+    "link": ""
+  },
+  {
+    "globalSectionId": 108,
+    "title": "105",
+    "content": "Reasonable time",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/105.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Reasonable%20time"
+  },
+  {
+    "globalSectionId": 109,
+    "title": "106",
+    "content": "Reasonable time of giving notice of dishonor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/106.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Reasonable%20time%20of%20giving%20notice%20of%20dishonor"
+  },
+  {
+    "globalSectionId": 110,
+    "title": "107",
+    "content": "Reasonable time for transmitting such notice",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/107.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Reasonable%20time%20for%20transmitting%20such%20notice"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XI",
+    "content": "Acceptance And Payment For Honour And Reference In Case Of Need",
+    "link": ""
+  },
+  {
+    "globalSectionId": 111,
+    "title": "108",
+    "content": "Acceptance for honor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/108.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptance%20for%20honor"
+  },
+  {
+    "globalSectionId": 112,
+    "title": "109",
+    "content": "How acceptance for honor must be made",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/109.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=How%20acceptance%20for%20honor%20must%20be%20made"
+  },
+  {
+    "globalSectionId": 113,
+    "title": "110",
+    "content": "Acceptance not specifying for whose honor it is made",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/110.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptance%20not%20specifying%20for%20whose%20honor%20it%20is%20made"
+  },
+  {
+    "globalSectionId": 114,
+    "title": "111",
+    "content": "Liability of acceptor for honor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/111.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Liability%20of%20acceptor%20for%20honor"
+  },
+  {
+    "globalSectionId": 115,
+    "title": "112",
+    "content": "When acceptor for honor may be charged",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/112.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=When%20acceptor%20for%20honor%20may%20be%20charged"
+  },
+  {
+    "globalSectionId": 116,
+    "title": "113",
+    "content": "Payment for honor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/113.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20for%20honor"
+  },
+  {
+    "globalSectionId": 117,
+    "title": "114",
+    "content": "Right of payer for honor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/114.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Right%20of%20payer%20for%20honor"
+  },
+  {
+    "globalSectionId": 118,
+    "title": "115",
+    "content": "Drawee in case of need",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/115.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Drawee%20in%20case%20of%20need"
+  },
+  {
+    "globalSectionId": 119,
+    "title": "116",
+    "content": "Acceptance and payment without protest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/116.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Acceptance%20and%20payment%20without%20protest"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XII",
+    "content": "Compensation",
+    "link": ""
+  },
+  {
+    "globalSectionId": 120,
+    "title": "117",
+    "content": "Rules as to compensation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/117.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Rules%20as%20to%20compensation"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XIII",
+    "content": "Special Rules Of\n Evidence",
+    "link": ""
+  },
+  {
+    "globalSectionId": 121,
+    "title": "118",
+    "content": "Presumptions as to negotiable instruments Until the contrary is proved, the following presumption shall be made",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/118.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presumptions%20as%20to%20negotiable%20instruments%20Until%20the%20contrary%20is%20proved,%20the%20following%20presumption%20shall%20be%20made"
+  },
+  {
+    "globalSectionId": 122,
+    "title": "119",
+    "content": "Presumption on proof of protest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/119.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presumption%20on%20proof%20of%20protest"
+  },
+  {
+    "globalSectionId": 123,
+    "title": "120",
+    "content": "Estoppel against denying original validity of instrument",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/120.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Estoppel%20against%20denying%20original%20validity%20of%20instrument"
+  },
+  {
+    "globalSectionId": 124,
+    "title": "121",
+    "content": "Estoppel against denying capacity of payee to endorse",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/121.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Estoppel%20against%20denying%20capacity%20of%20payee%20to%20endorse"
+  },
+  {
+    "globalSectionId": 125,
+    "title": "122",
+    "content": "Estoppel against denying signature or capacity of prior party",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/122.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Estoppel%20against%20denying%20signature%20or%20capacity%20of%20prior%20party"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XIV",
+    "content": "Crossed Cheques",
+    "link": ""
+  },
+  {
+    "globalSectionId": 126,
+    "title": "123",
+    "content": "Cheque crossed generally",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/123.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Cheque%20crossed%20generally"
+  },
+  {
+    "globalSectionId": 127,
+    "title": "124",
+    "content": "Cheque crossed specially",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/124.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Cheque%20crossed%20specially"
+  },
+  {
+    "globalSectionId": 128,
+    "title": "125",
+    "content": "Crossing after issue",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/125.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Crossing%20after%20issue"
+  },
+  {
+    "globalSectionId": 129,
+    "title": "126",
+    "content": "Payment of cheque crossed generally",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/126.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20of%20cheque%20crossed%20generally"
+  },
+  {
+    "globalSectionId": 130,
+    "title": "127",
+    "content": "Payment of cheque crossed specially more than once",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/127.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20of%20cheque%20crossed%20specially%20more%20than%20once"
+  },
+  {
+    "globalSectionId": 131,
+    "title": "128",
+    "content": "Payment in due course of crossed cheque",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/128.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20in%20due%20course%20of%20crossed%20cheque"
+  },
+  {
+    "globalSectionId": 132,
+    "title": "129",
+    "content": "Payment of crossed cheque out of due course",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/129.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Payment%20of%20crossed%20cheque%20out%20of%20due%20course"
+  },
+  {
+    "globalSectionId": 133,
+    "title": "130",
+    "content": "Cheque bearing not negotiable",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/130.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Cheque%20bearing%20not%20negotiable"
+  },
+  {
+    "globalSectionId": 134,
+    "title": "131",
+    "content": "Non-liability of banker receiving payment of cheque",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/131.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Non-liability%20of%20banker%20receiving%20payment%20of%20cheque"
+  },
+  {
+    "globalSectionId": 135,
+    "title": "131A",
+    "content": "Application of chapter to drafts",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/131a.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Application%20of%20chapter%20to%20drafts"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XV",
+    "content": "Bills In Sets",
+    "link": ""
+  },
+  {
+    "globalSectionId": 136,
+    "title": "132",
+    "content": "Set of bills",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/132.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Set%20of%20bills"
+  },
+  {
+    "globalSectionId": 137,
+    "title": "133",
+    "content": "Holder of first acquired part entitled to all",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/133.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Holder%20of%20first%20acquired%20part%20entitled%20to%20all"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XVI",
+    "content": "International Law",
+    "link": ""
+  },
+  {
+    "globalSectionId": 138,
+    "title": "134",
+    "content": "Law governing liability of maker, acceptor or endorser of foreign instrument",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/134.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Law%20governing%20liability%20of%20maker,%20acceptor%20or%20endorser%20of%20foreign%20instrument"
+  },
+  {
+    "globalSectionId": 139,
+    "title": "135",
+    "content": "Law of place of payment governs dishonor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/135.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Law%20of%20place%20of%20payment%20governs%20dishonor"
+  },
+  {
+    "globalSectionId": 140,
+    "title": "136",
+    "content": "Instrument made, etc. out of India, but in accordance with the law of India",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/136.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Instrument%20made,%20etc.%20out%20of%20India,%20but%20in%20accordance%20with%20the%20law%20of%20India"
+  },
+  {
+    "globalSectionId": 141,
+    "title": "137",
+    "content": "Presumption as to foreign law",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/137.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presumption%20as%20to%20foreign%20law"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XVII",
+    "content": "Penalties In Case Of Dishonour Of Certain Cheques For Insufficiency Of Funds In The Accounts",
+    "link": ""
+  },
+  {
+    "globalSectionId": 142,
+    "title": "138",
+    "content": "Dishonor of cheque for insufficiency, etc., of funds in the accounts",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/138.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Dishonor%20of%20cheque%20for%20insufficiency,%20etc.,%20of%20funds%20in%20the%20accounts"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Supreme Court 3762",
+    "link": ""
+  },
+  {
+    "globalSectionId": 143,
+    "title": "139",
+    "content": "Presumption in favor of holder",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/139.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Presumption%20in%20favor%20of%20holder"
+  },
+  {
+    "globalSectionId": 144,
+    "title": "140",
+    "content": "Defense which may not be allowed in any prosecution under section 138",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/140.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Defense%20which%20may%20not%20be%20allowed%20in%20any%20prosecution%20under%20section%20138"
+  },
+  {
+    "globalSectionId": 145,
+    "title": "141",
+    "content": "Offences by companies",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/141.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Offences%20by%20companies"
+  },
+  {
+    "globalSectionId": 146,
+    "title": "142",
+    "content": "Cognizance of offences",
+    "link": "https://www.advocatekhoj.com/library/bareacts/negotiableinstruments/142.php?Title=Negotiable%20Instruments%20Act,%201881&STitle=Cognizance%20of%20offences"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Schedule",
+    "content": "Enactment [Repealed]",
+    "link": ""
+  }
+]

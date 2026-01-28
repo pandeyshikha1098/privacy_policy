@@ -1,0 +1,986 @@
+[
+  {
+    "globalSectionId": 1,
+    "title": "l",
+    "content": "Short title",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/1.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Short%20title"
+  },
+  {
+    "globalSectionId": 2,
+    "title": "2",
+    "content": "Repeal of Acts-Saving of certain enactments, incidents, rights, liabilities, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/2.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Repeal%20of%20Acts-Saving%20of%20certain%20enactments,%20incidents,%20rights,%20liabilities,%20etc."
+  },
+  {
+    "globalSectionId": 3,
+    "title": "3",
+    "content": "Interpretation clause",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/3.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Interpretation%20clause"
+  },
+  {
+    "globalSectionId": 4,
+    "title": "4",
+    "content": "Enactments relating to contracts to be taken as part of Contract Act and supplemental to the Registration Act",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/4.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Enactments%20relating%20to%20contracts%20to%20be%20taken%20as%20part%20of%20Contract%20Act%20and%20supplemental%20to%20the%20Registration%20Act"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter II",
+    "content": "Transfers Of\n Property By Act Of Parties",
+    "link": ""
+  },
+  {
+    "globalSectionId": 5,
+    "title": "5",
+    "content": "Transfer of property defined",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/5.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20of%20property%20defined"
+  },
+  {
+    "globalSectionId": 6,
+    "title": "6",
+    "content": "What may be transferred",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/6.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=What%20may%20be%20transferred"
+  },
+  {
+    "globalSectionId": 7,
+    "title": "7",
+    "content": "Persons competent to transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/7.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Persons%20competent%20to%20transfer"
+  },
+  {
+    "globalSectionId": 8,
+    "title": "8",
+    "content": "Operation of transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/8.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Operation%20of%20transfer"
+  },
+  {
+    "globalSectionId": 9,
+    "title": "9",
+    "content": "Oral transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/9.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Oral%20transfer"
+  },
+  {
+    "globalSectionId": 10,
+    "title": "10",
+    "content": "Condition restraining alienation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/10.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Condition%20restraining%20alienation"
+  },
+  {
+    "globalSectionId": 11,
+    "title": "11",
+    "content": "Restriction repugnant to interest created",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/11.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Restriction%20repugnant%20to%20interest%20created"
+  },
+  {
+    "globalSectionId": 12,
+    "title": "12",
+    "content": "Condition making interest determinable on insolvency or attempted alienation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/12.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Condition%20making%20interest%20determinable%20on%20insolvency%20or%20attempted%20alienation"
+  },
+  {
+    "globalSectionId": 13,
+    "title": "13",
+    "content": "Transfer for benefit of unborn person",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/13.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20for%20benefit%20of%20unborn%20person"
+  },
+  {
+    "globalSectionId": 14,
+    "title": "14",
+    "content": "Rule against perpetuity",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/14.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rule%20against%20perpetuity"
+  },
+  {
+    "globalSectionId": 15,
+    "title": "15",
+    "content": "Transfer to a class, some of whom come under sections 13 and 14",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/15.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20to%20a%20class,%20some%20of%20whom%20come%20under%20sections%2013%20and%2014"
+  },
+  {
+    "globalSectionId": 16,
+    "title": "16",
+    "content": "Transfer to take effect on failure of prior interest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/16.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20to%20take%20effect%20on%20failure%20of%20prior%20interest"
+  },
+  {
+    "globalSectionId": 17,
+    "title": "17",
+    "content": "Direction for accumulation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/17.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Direction%20for%20accumulation"
+  },
+  {
+    "globalSectionId": 18,
+    "title": "18",
+    "content": "Transfer in perpetuity for benefit of public",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/18.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20in%20perpetuity%20for%20benefit%20of%20public"
+  },
+  {
+    "globalSectionId": 19,
+    "title": "19",
+    "content": "Vested interest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/19.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Vested%20interest"
+  },
+  {
+    "globalSectionId": 20,
+    "title": "20",
+    "content": "When unborn person acquires vested interest on transfer for his benefit",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/20.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=When%20unborn%20person%20acquires%20vested%20interest%20on%20transfer%20for%20his%20benefit"
+  },
+  {
+    "globalSectionId": 21,
+    "title": "21",
+    "content": "Contingent interest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/21.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Contingent%20interest"
+  },
+  {
+    "globalSectionId": 22,
+    "title": "22",
+    "content": "Transfer to members of a class who attain a particular age",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/22.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20to%20members%20of%20a%20class%20who%20attain%20a%20particular%20age"
+  },
+  {
+    "globalSectionId": 23,
+    "title": "23",
+    "content": "Transfer contingent on happening of specified uncertain event",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/23.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20contingent%20on%20happening%20of%20specified%20uncertain%20event"
+  },
+  {
+    "globalSectionId": 24,
+    "title": "24",
+    "content": "Transfer to such of certain persons as survive at some period not specified",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/24.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20to%20such%20of%20certain%20persons%20as%20survive%20at%20some%20period%20not%20specified"
+  },
+  {
+    "globalSectionId": 25,
+    "title": "25",
+    "content": "Conditional transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/25.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Conditional%20transfer"
+  },
+  {
+    "globalSectionId": 26,
+    "title": "26",
+    "content": "Fulfillment of condition precedent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/26.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Fulfillment%20of%20condition%20precedent"
+  },
+  {
+    "globalSectionId": 27,
+    "title": "27",
+    "content": "Conditional transfer to one person coupled with transfer to another on failure of prior disposition",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/27.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Conditional%20transfer%20to%20one%20person%20coupled%20with%20transfer%20to%20another%20on%20failure%20of%20prior%20disposition"
+  },
+  {
+    "globalSectionId": 28,
+    "title": "28",
+    "content": "Ulterior transfer conditional on happening or not happening of specified event",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/28.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Ulterior%20transfer%20conditional%20on%20happening%20or%20not%20happening%20of%20specified%20event"
+  },
+  {
+    "globalSectionId": 29,
+    "title": "29",
+    "content": "Fulfillment of condition subsequent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/29.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Fulfillment%20of%20condition%20subsequent"
+  },
+  {
+    "globalSectionId": 30,
+    "title": "30",
+    "content": "Prior disposition not affected by invalidity of ulterior disposition",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/30.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Prior%20disposition%20not%20affected%20by%20invalidity%20of%20ulterior%20disposition"
+  },
+  {
+    "globalSectionId": 31,
+    "title": "31",
+    "content": "Condition that transfer shall cease to have effect in case specified uncertain event happens or does not happen",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/31.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Condition%20that%20transfer%20shall%20cease%20to%20have%20effect%20in%20case%20specified%20uncertain%20event%20happens%20or%20does%20not%20happen"
+  },
+  {
+    "globalSectionId": 32,
+    "title": "32",
+    "content": "Such condition must not be invalid",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/32.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Such%20condition%20must%20not%20be%20invalid"
+  },
+  {
+    "globalSectionId": 33,
+    "title": "33",
+    "content": "Transfer conditional on performance of act, no time being specified for performance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/33.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20conditional%20on%20performance%20of%20act,%20no%20time%20being%20specified%20for%20performance"
+  },
+  {
+    "globalSectionId": 34,
+    "title": "34",
+    "content": "Transfer conditional on performance of act, time being specified",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/34.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20conditional%20on%20performance%20of%20act,%20time%20being%20specified"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Election",
+    "link": ""
+  },
+  {
+    "globalSectionId": 35,
+    "title": "35",
+    "content": "Election when necessary",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/35.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Election%20when%20necessary"
+  },
+  {
+    "globalSectionId": 36,
+    "title": "36",
+    "content": "Apportionment of periodical payments on determination of interest of person entitled",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/36.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Apportionment%20of%20periodical%20payments%20on%20determination%20of%20interest%20of%20person%20entitled"
+  },
+  {
+    "globalSectionId": 37,
+    "title": "37",
+    "content": "Apportionment of benefit of obligation on severance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/37.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Apportionment%20of%20benefit%20of%20obligation%20on%20severance"
+  },
+  {
+    "globalSectionId": 38,
+    "title": "38",
+    "content": "Transfer by person authorized only under certain circumstances to transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/38.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20by%20person%20authorized%20only%20under%20certain%20circumstances%20to%20transfer"
+  },
+  {
+    "globalSectionId": 39,
+    "title": "39",
+    "content": "Transfer where third person is entitled to maintenance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/39.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20where%20third%20person%20is%20entitled%20to%20maintenance"
+  },
+  {
+    "globalSectionId": 40,
+    "title": "40",
+    "content": "Burden of obligation imposing restriction on use of land",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/40.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Burden%20of%20obligation%20imposing%20restriction%20on%20use%20of%20land"
+  },
+  {
+    "globalSectionId": 41,
+    "title": "41",
+    "content": "Transfer by ostensible owner",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/41.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20by%20ostensible%20owner"
+  },
+  {
+    "globalSectionId": 42,
+    "title": "42",
+    "content": "Transfer by person having authority to revoke former transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/42.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20by%20person%20having%20authority%20to%20revoke%20former%20transfer"
+  },
+  {
+    "globalSectionId": 43,
+    "title": "43",
+    "content": "Transfer by unauthorized person who subsequently acquires interest in property transferred",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/43.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20by%20unauthorized%20person%20who%20subsequently%20acquires%20interest%20in%20property%20transferred"
+  },
+  {
+    "globalSectionId": 44,
+    "title": "44",
+    "content": "Transfer by one co-owner",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/44.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20by%20one%20co-owner"
+  },
+  {
+    "globalSectionId": 45,
+    "title": "45",
+    "content": "Joint transfer for consideration",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/45.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Joint%20transfer%20for%20consideration"
+  },
+  {
+    "globalSectionId": 46,
+    "title": "46",
+    "content": "Transfer for consideration by persons having distinct interests",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/46.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20for%20consideration%20by%20persons%20having%20distinct%20interests"
+  },
+  {
+    "globalSectionId": 47,
+    "title": "47",
+    "content": "Transfer by co-owners of share in common property",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/47.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20by%20co-owners%20of%20share%20in%20common%20property"
+  },
+  {
+    "globalSectionId": 48,
+    "title": "48",
+    "content": "Priority of rights created by transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/48.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Priority%20of%20rights%20created%20by%20transfer"
+  },
+  {
+    "globalSectionId": 49,
+    "title": "49",
+    "content": "Transferee's right under policy",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/49.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transferee%27s%20right%20under%20policy"
+  },
+  {
+    "globalSectionId": 50,
+    "title": "50",
+    "content": "Rent bona fide paid to holder under defective title",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/50.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rent%20bona%20fide%20paid%20to%20holder%20under%20defective%20title"
+  },
+  {
+    "globalSectionId": 51,
+    "title": "51",
+    "content": "Improvements made by bona fide holders under defective titles",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/51.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Improvements%20made%20by%20bona%20fide%20holders%20under%20defective%20titles"
+  },
+  {
+    "globalSectionId": 52,
+    "title": "52",
+    "content": "Transfer of property pending suit relating thereto",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/52.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20of%20property%20pending%20suit%20relating%20thereto"
+  },
+  {
+    "globalSectionId": 53,
+    "title": "53",
+    "content": "Fraudulent transfer",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/53.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Fraudulent%20transfer"
+  },
+  {
+    "globalSectionId": 54,
+    "title": "53A",
+    "content": "Part performance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/53a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Part%20performance"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter III",
+    "content": "Sales Of Immovable\n Property",
+    "link": ""
+  },
+  {
+    "globalSectionId": 55,
+    "title": "54",
+    "content": "Sale defined",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/54.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Sale%20defined"
+  },
+  {
+    "globalSectionId": 56,
+    "title": "55",
+    "content": "Rights and liabilities of buyer and seller",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/55.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20and%20liabilities%20of%20buyer%20and%20seller"
+  },
+  {
+    "globalSectionId": 57,
+    "title": "56",
+    "content": "Marshalling by subsequent purchaser",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/56.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Marshalling%20by%20subsequent%20purchaser"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Discharge Of\n Encumbrances On Sale",
+    "link": ""
+  },
+  {
+    "globalSectionId": 58,
+    "title": "57",
+    "content": "Provision by court for encumbrances and sale freed there from",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/57.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Provision%20by%20court%20for%20encumbrances%20and%20sale%20freed%20there%20from"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter IV",
+    "content": "Mortgages Of\n Immovable Property And Charges",
+    "link": ""
+  },
+  {
+    "globalSectionId": 59,
+    "title": "58",
+    "content": "Mortgage, mortgagor mortgagee mortgage-money and not;mortgaged defined",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/58.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgage,%20mortgagor%20mortgagee%20mortgage-money%20and%20not;mortgaged%20defined"
+  },
+  {
+    "globalSectionId": 60,
+    "title": "59",
+    "content": "Mortgage when to be by assurance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/59.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgage%20when%20to%20be%20by%20assurance"
+  },
+  {
+    "globalSectionId": 61,
+    "title": "59A",
+    "content": "References to mortgagors and mortgagees to include persons deriving title from them",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/59a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=References%20to%20mortgagors%20and%20mortgagees%20to%20include%20persons%20deriving%20title%20from%20them"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Rights And\n Liabilities Of Mortgagor",
+    "link": ""
+  },
+  {
+    "globalSectionId": 62,
+    "title": "60",
+    "content": "Right of mortgagor to redeem",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/60.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20of%20mortgagor%20to%20redeem"
+  },
+  {
+    "globalSectionId": 63,
+    "title": "60A",
+    "content": "Obligation to transfer to third party instead of re-transference to mortgagor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/60a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Obligation%20to%20transfer%20to%20third%20party%20instead%20of%20re-transference%20to%20mortgagor"
+  },
+  {
+    "globalSectionId": 64,
+    "title": "60B",
+    "content": "Right to inspection and production of documents",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/60b.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20to%20inspection%20and%20production%20of%20documents"
+  },
+  {
+    "globalSectionId": 65,
+    "title": "61",
+    "content": "Right to redeem separately or simultaneously",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/61.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20to%20redeem%20separately%20or%20simultaneously"
+  },
+  {
+    "globalSectionId": 66,
+    "title": "62",
+    "content": "Right of usufructuary mortgagor to recover possession",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/62.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20of%20usufructuary%20mortgagor%20to%20recover%20possession"
+  },
+  {
+    "globalSectionId": 67,
+    "title": "63",
+    "content": "Accession to mortgaged property",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/63.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Accession%20to%20mortgaged%20property"
+  },
+  {
+    "globalSectionId": 68,
+    "title": "63A",
+    "content": "Improvements to mortgaged property",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/63a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Improvements%20to%20mortgaged%20property"
+  },
+  {
+    "globalSectionId": 69,
+    "title": "64",
+    "content": "Renewal of mortgaged lease",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/64.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Renewal%20of%20mortgaged%20lease"
+  },
+  {
+    "globalSectionId": 70,
+    "title": "65",
+    "content": "Implied contracts by mortgagor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/65.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Implied%20contracts%20by%20mortgagor"
+  },
+  {
+    "globalSectionId": 71,
+    "title": "65A",
+    "content": "Mortgagor's power to lease",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/65a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgagor%27s%20power%20to%20lease"
+  },
+  {
+    "globalSectionId": 72,
+    "title": "66",
+    "content": "Waste by mortgagor in possession",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/66.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Waste%20by%20mortgagor%20in%20possession"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Rights And\n Liabilities Of Mortgagee",
+    "link": ""
+  },
+  {
+    "globalSectionId": 73,
+    "title": "67",
+    "content": "Right to foreclosure or sale",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/67.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20to%20foreclosure%20or%20sale"
+  },
+  {
+    "globalSectionId": 74,
+    "title": "67A",
+    "content": "Mortgagee when bound to bring one suit on several mortgages",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/67a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgagee%20when%20bound%20to%20bring%20one%20suit%20on%20several%20mortgages"
+  },
+  {
+    "globalSectionId": 75,
+    "title": "68",
+    "content": "Right to sue for mortgage-money",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/68.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20to%20sue%20for%20mortgage-money"
+  },
+  {
+    "globalSectionId": 76,
+    "title": "69",
+    "content": "Power of sale when valid",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/69.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Power%20of%20sale%20when%20valid"
+  },
+  {
+    "globalSectionId": 77,
+    "title": "69A",
+    "content": "Appointment of receiver",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/69a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Appointment%20of%20receiver"
+  },
+  {
+    "globalSectionId": 78,
+    "title": "70",
+    "content": "Accession to mortgaged property",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/70.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Accession%20to%20mortgaged%20property"
+  },
+  {
+    "globalSectionId": 79,
+    "title": "71",
+    "content": "Renewal of mortgaged lease",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/71.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Renewal%20of%20mortgaged%20lease"
+  },
+  {
+    "globalSectionId": 80,
+    "title": "72",
+    "content": "Rights of mortgagee, in possession",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/72.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20of%20mortgagee,%20in%20possession"
+  },
+  {
+    "globalSectionId": 81,
+    "title": "73",
+    "content": "Right to proceeds of revenue sale or compensation on acquisition",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/73.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20to%20proceeds%20of%20revenue%20sale%20or%20compensation%20on%20acquisition"
+  },
+  {
+    "globalSectionId": 82,
+    "title": "74",
+    "content": "Right of subsequent mortgagee to pay off prior mortgagee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/74.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20of%20subsequent%20mortgagee%20to%20pay%20off%20prior%20mortgagee"
+  },
+  {
+    "globalSectionId": 83,
+    "title": "75",
+    "content": "Rights of mesne mortgagee against prior and subsequent mortgagees",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/75.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20of%20mesne%20mortgagee%20against%20prior%20and%20subsequent%20mortgagees"
+  },
+  {
+    "globalSectionId": 84,
+    "title": "76",
+    "content": "Liabilities of mortgagee in possession",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/76.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Liabilities%20of%20mortgagee%20in%20possession"
+  },
+  {
+    "globalSectionId": 85,
+    "title": "77",
+    "content": "Receipts in lieu of interest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/77.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Receipts%20in%20lieu%20of%20interest"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Priority",
+    "link": ""
+  },
+  {
+    "globalSectionId": 86,
+    "title": "78",
+    "content": "Postponement of prior mortgagee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/78.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Postponement%20of%20prior%20mortgagee"
+  },
+  {
+    "globalSectionId": 87,
+    "title": "79",
+    "content": "Mortgage to secure uncertain amount when maximum is expressed",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/79.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgage%20to%20secure%20uncertain%20amount%20when%20maximum%20is%20expressed"
+  },
+  {
+    "globalSectionId": 88,
+    "title": "80",
+    "content": "Tacking abolished",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/80.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Tacking%20abolished"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Marshalling And\n Contribution",
+    "link": ""
+  },
+  {
+    "globalSectionId": 89,
+    "title": "81",
+    "content": "Marshalling securities",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/81.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Marshalling%20securities"
+  },
+  {
+    "globalSectionId": 90,
+    "title": "82",
+    "content": "Contribution to mortgage-debt",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/82.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Contribution%20to%20mortgage-debt"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Deposit In Court",
+    "link": ""
+  },
+  {
+    "globalSectionId": 91,
+    "title": "83",
+    "content": "Power to deposit in court money due on mortgage",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/83.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Power%20to%20deposit%20in%20court%20money%20due%20on%20mortgage"
+  },
+  {
+    "globalSectionId": 92,
+    "title": "84",
+    "content": "Cessation of interest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/84.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Cessation%20of%20interest"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Suits For\n Foreclosure, Sale  Or Redemption",
+    "link": ""
+  },
+  {
+    "globalSectionId": 93,
+    "title": "85",
+    "content": "Parties to suits for foreclosure, sale and redemption",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/85.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Parties%20to%20suits%20for%20foreclosure,%20sale%20and%20redemption"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "86-90",
+    "content": "[Repealed by the\n Code of Civil Procedure, 1908 (5 of 1908).]",
+    "link": ""
+  },
+  {
+    "globalSectionId": 94,
+    "title": "91",
+    "content": "Persons who may sue for redemption",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/91.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Persons%20who%20may%20sue%20for%20redemption"
+  },
+  {
+    "globalSectionId": 95,
+    "title": "92",
+    "content": "Subrogation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/92.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Subrogation"
+  },
+  {
+    "globalSectionId": 96,
+    "title": "93",
+    "content": "Prohibition of tacking",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/93.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Prohibition%20of%20tacking"
+  },
+  {
+    "globalSectionId": 97,
+    "title": "94",
+    "content": "Rights of mesne mortgagee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/94.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20of%20mesne%20mortgagee"
+  },
+  {
+    "globalSectionId": 98,
+    "title": "95",
+    "content": "Right of redeeming co-mortgagor to expenses",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/95.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20of%20redeeming%20co-mortgagor%20to%20expenses"
+  },
+  {
+    "globalSectionId": 99,
+    "title": "96",
+    "content": "Mortgage by deposit of title-deeds",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/96.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgage%20by%20deposit%20of%20title-deeds"
+  },
+  {
+    "globalSectionId": 100,
+    "title": "97",
+    "content": "Application of proceeds",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/97.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Application%20of%20proceeds"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Anomalous Mortgages",
+    "link": ""
+  },
+  {
+    "globalSectionId": 101,
+    "title": "98",
+    "content": "Rights and liabilities of parties to anomalous mortgage",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/98.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20and%20liabilities%20of%20parties%20to%20anomalous%20mortgage"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Attachment Of\n Mortgaged Property",
+    "link": ""
+  },
+  {
+    "globalSectionId": 102,
+    "title": "99",
+    "content": "Attachment of mortgaged property",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/99.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Attachment%20of%20mortgaged%20property"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Charges",
+    "link": ""
+  },
+  {
+    "globalSectionId": 103,
+    "title": "100",
+    "content": "Charges",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/100.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Charges"
+  },
+  {
+    "globalSectionId": 104,
+    "title": "101",
+    "content": "No merger in case of subsequent encumbrance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/101.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=No%20merger%20in%20case%20of%20subsequent%20encumbrance"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "",
+    "content": "Notice And Tender",
+    "link": ""
+  },
+  {
+    "globalSectionId": 105,
+    "title": "102",
+    "content": "Service or tender on or to agent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/102.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Service%20or%20tender%20on%20or%20to%20agent"
+  },
+  {
+    "globalSectionId": 106,
+    "title": "103",
+    "content": "Notice, etc., to or by person incompetent to contract",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/103.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Notice,%20etc.,%20to%20or%20by%20person%20incompetent%20to%20contract"
+  },
+  {
+    "globalSectionId": 107,
+    "title": "104",
+    "content": "Power to make rules",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/104.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Power%20to%20make%20rules"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter V",
+    "content": "Leases Of Immovable\n Property",
+    "link": ""
+  },
+  {
+    "globalSectionId": 108,
+    "title": "105",
+    "content": "Lease defined",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/105.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Lease%20defined"
+  },
+  {
+    "globalSectionId": 109,
+    "title": "106",
+    "content": "Duration of certain leases in absence of written contract or local usage",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/106.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Duration%20of%20certain%20leases%20in%20absence%20of%20written%20contract%20or%20local%20usage"
+  },
+  {
+    "globalSectionId": 110,
+    "title": "107",
+    "content": "Leases how made",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/107.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Leases%20how%20made"
+  },
+  {
+    "globalSectionId": 111,
+    "title": "108",
+    "content": "Rights and liabilities of lessor and lessee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/108.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20and%20liabilities%20of%20lessor%20and%20lessee"
+  },
+  {
+    "globalSectionId": 112,
+    "title": "109",
+    "content": "Rights of lessor's transferee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/109.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20of%20lessor%27s%20transferee"
+  },
+  {
+    "globalSectionId": 113,
+    "title": "110",
+    "content": "Exclusion of day on which term commences",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/110.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Exclusion%20of%20day%20on%20which%20term%20commences"
+  },
+  {
+    "globalSectionId": 114,
+    "title": "111",
+    "content": "Determination of lease",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/111.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Determination%20of%20lease"
+  },
+  {
+    "globalSectionId": 115,
+    "title": "112",
+    "content": "Waiver of forfeiture",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/112.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Waiver%20of%20forfeiture"
+  },
+  {
+    "globalSectionId": 116,
+    "title": "113",
+    "content": "Waiver of notice to quit",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/113.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Waiver%20of%20notice%20to%20quit"
+  },
+  {
+    "globalSectionId": 117,
+    "title": "114",
+    "content": "Relief against forfeiture for non-payment of rent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/114.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Relief%20against%20forfeiture%20for%20non-payment%20of%20rent"
+  },
+  {
+    "globalSectionId": 118,
+    "title": "114A",
+    "content": "Relief against forfeiture in certain other cases",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/114a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Relief%20against%20forfeiture%20in%20certain%20other%20cases"
+  },
+  {
+    "globalSectionId": 119,
+    "title": "115",
+    "content": "Effect of surrender and forfeiture on under leases",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/115.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Effect%20of%20surrender%20and%20forfeiture%20on%20under%20leases"
+  },
+  {
+    "globalSectionId": 120,
+    "title": "116",
+    "content": "Effect of holding over",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/116.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Effect%20of%20holding%20over"
+  },
+  {
+    "globalSectionId": 121,
+    "title": "117",
+    "content": "Exemption of leases for agricultural purposes",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/117.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Exemption%20of%20leases%20for%20agricultural%20purposes"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VI",
+    "content": "Exchanges",
+    "link": ""
+  },
+  {
+    "globalSectionId": 122,
+    "title": "118",
+    "content": "\"Exchange\" defined",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/118.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Exchange%20defined"
+  },
+  {
+    "globalSectionId": 123,
+    "title": "119",
+    "content": "Right of party deprived of thing received in exchange",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/119.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Right%20of%20party%20deprived%20of%20thing%20received%20in%20exchange"
+  },
+  {
+    "globalSectionId": 124,
+    "title": "120",
+    "content": "Rights and liabilities of parties",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/120.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Rights%20and%20liabilities%20of%20parties"
+  },
+  {
+    "globalSectionId": 125,
+    "title": "121",
+    "content": "Exchange of money",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/121.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Exchange%20of%20money"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VII",
+    "content": "Gifts",
+    "link": ""
+  },
+  {
+    "globalSectionId": 126,
+    "title": "122",
+    "content": "\"Gift\" defined",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/122.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Gift%20defined"
+  },
+  {
+    "globalSectionId": 127,
+    "title": "123",
+    "content": "Transfer how effected",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/123.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20how%20effected"
+  },
+  {
+    "globalSectionId": 128,
+    "title": "124",
+    "content": "Gift of existing and future property",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/124.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Gift%20of%20existing%20and%20future%20property"
+  },
+  {
+    "globalSectionId": 129,
+    "title": "125",
+    "content": "Gift to several of whom one does not accept",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/125.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Gift%20to%20several%20of%20whom%20one%20does%20not%20accept"
+  },
+  {
+    "globalSectionId": 130,
+    "title": "126",
+    "content": "When gift may be suspended or revoked",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/126.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=When%20gift%20may%20be%20suspended%20or%20revoked"
+  },
+  {
+    "globalSectionId": 131,
+    "title": "127",
+    "content": "Onerous gifts",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/127.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Onerous%20gifts"
+  },
+  {
+    "globalSectionId": 132,
+    "title": "128",
+    "content": "Universal donee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/128.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Universal%20donee"
+  },
+  {
+    "globalSectionId": 133,
+    "title": "129",
+    "content": "Saving of donations mortis cause and Mohammedan Law",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/129.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Saving%20of%20donations%20mortis%20cause%20and%20Mohammedan%20Law"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VIII",
+    "content": "Transfers Of\n Actionable Claims",
+    "link": ""
+  },
+  {
+    "globalSectionId": 134,
+    "title": "130",
+    "content": "Transfer of actionable claim",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/130.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20of%20actionable%20claim"
+  },
+  {
+    "globalSectionId": 135,
+    "title": "130A",
+    "content": "Transfer of policy of marine insurance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/130a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Transfer%20of%20policy%20of%20marine%20insurance"
+  },
+  {
+    "globalSectionId": 136,
+    "title": "131",
+    "content": "Notice to be in writing, signed",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/131.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Notice%20to%20be%20in%20writing,%20signed"
+  },
+  {
+    "globalSectionId": 137,
+    "title": "132",
+    "content": "Liability of transferee of actionable claim",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/132.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Liability%20of%20transferee%20of%20actionable%20claim"
+  },
+  {
+    "globalSectionId": 138,
+    "title": "Schedule",
+    "content": "Schedule",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/schedule.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Schedule"
+  },
+  {
+    "globalSectionId": 139,
+    "title": "133",
+    "content": "Warranty of solvency of debtor",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/133.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Warranty%20of%20solvency%20of%20debtor"
+  },
+  {
+    "globalSectionId": 140,
+    "title": "134",
+    "content": "Mortgaged debt",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/134.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Mortgaged%20debt"
+  },
+  {
+    "globalSectionId": 141,
+    "title": "135",
+    "content": "Assignment of rights under policy of insurance against fire",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/135.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Assignment%20of%20rights%20under%20policy%20of%20insurance%20against%20fire"
+  },
+  {
+    "globalSectionId": 142,
+    "title": "135A",
+    "content": "Assignment of rights under policy of marine insurance",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/135a.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Assignment%20of%20rights%20under%20policy%20of%20marine%20insurance"
+  },
+  {
+    "globalSectionId": 143,
+    "title": "136",
+    "content": "Incapacity of officers connected with courts of justice",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/136.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Incapacity%20of%20officers%20connected%20with%20courts%20of%20justice"
+  },
+  {
+    "globalSectionId": 144,
+    "title": "137",
+    "content": "Saving of negotiable instruments, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/transferofproperty/137.php?Title=Transfer%20of%20Property%20Act,%201882&STitle=Saving%20of%20negotiable%20instruments,%20etc."
+  }
+]

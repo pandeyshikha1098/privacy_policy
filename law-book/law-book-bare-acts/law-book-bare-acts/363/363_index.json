@@ -1,0 +1,932 @@
+[
+  {
+    "globalSectionId": 1,
+    "title": "1",
+    "content": "Short title, extent and commencement",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/1.php?Title=Factories%20Act,%201948&STitle=Short%20title,%20extent%20and%20commencement"
+  },
+  {
+    "globalSectionId": 2,
+    "title": "2",
+    "content": "Interpretation",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/2.php?Title=Factories%20Act,%201948&STitle=Interpretation"
+  },
+  {
+    "globalSectionId": 3,
+    "title": "3",
+    "content": "References to time of day",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/3.php?Title=Factories%20Act,%201948&STitle=References%20to%20time%20of%20day"
+  },
+  {
+    "globalSectionId": 4,
+    "title": "4",
+    "content": "Power to declare different departments to be separate factories or two or more factories to be a single factory",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/4.php?Title=Factories%20Act,%201948&STitle=Power%20to%20declare%20different%20departments%20to%20be%20separate%20factories%20or%20two%20or%20more%20factories%20to%20be%20a%20single%20factory"
+  },
+  {
+    "globalSectionId": 5,
+    "title": "5",
+    "content": "Power to exempt during public emergency",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/5.php?Title=Factories%20Act,%201948&STitle=Power%20to%20exempt%20during%20public%20emergency"
+  },
+  {
+    "globalSectionId": 6,
+    "title": "6",
+    "content": "Approval, licensing and registration of factories",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/6.php?Title=Factories%20Act,%201948&STitle=Approval,%20licensing%20and%20registration%20of%20factories"
+  },
+  {
+    "globalSectionId": 7,
+    "title": "7",
+    "content": "Notice by occupier",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/7.php?Title=Factories%20Act,%201948&STitle=Notice%20by%20occupier"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter II",
+    "content": "The Inspecting Staff",
+    "link": ""
+  },
+  {
+    "globalSectionId": 8,
+    "title": "7A",
+    "content": "General duties of the occupier",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/7a.php?Title=Factories%20Act,%201948&STitle=General%20duties%20of%20the%20occupier"
+  },
+  {
+    "globalSectionId": 9,
+    "title": "7B",
+    "content": "General duties of manufacturers, etc., as regards articles and substances for use in factories",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/7b.php?Title=Factories%20Act,%201948&STitle=General%20duties%20of%20manufacturers,%20etc.,%20as%20regards%20articles%20and%20substances%20for%20use%20in%20factories"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter II",
+    "content": "The Inspecting Staff",
+    "link": ""
+  },
+  {
+    "globalSectionId": 10,
+    "title": "8",
+    "content": "Inspectors",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/8.php?Title=Factories%20Act,%201948&STitle=Inspectors"
+  },
+  {
+    "globalSectionId": 11,
+    "title": "9",
+    "content": "Powers of Inspectors",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/9.php?Title=Factories%20Act,%201948&STitle=Powers%20of%20Inspectors"
+  },
+  {
+    "globalSectionId": 12,
+    "title": "10",
+    "content": "Certifying surgeons",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/10.php?Title=Factories%20Act,%201948&STitle=Certifying%20surgeons"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter III",
+    "content": "Health",
+    "link": ""
+  },
+  {
+    "globalSectionId": 13,
+    "title": "11",
+    "content": "Cleanliness",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/11.php?Title=Factories%20Act,%201948&STitle=Cleanliness"
+  },
+  {
+    "globalSectionId": 14,
+    "title": "12",
+    "content": "Disposal of wastes and effluents",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/12.php?Title=Factories%20Act,%201948&STitle=Disposal%20of%20wastes%20and%20effluents"
+  },
+  {
+    "globalSectionId": 15,
+    "title": "13",
+    "content": "Ventilation and temperature",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/13.php?Title=Factories%20Act,%201948&STitle=Ventilation%20and%20temperature"
+  },
+  {
+    "globalSectionId": 16,
+    "title": "14",
+    "content": "Dust and fume",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/14.php?Title=Factories%20Act,%201948&STitle=Dust%20and%20fume"
+  },
+  {
+    "globalSectionId": 17,
+    "title": "15",
+    "content": "Artificial humidification",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/15.php?Title=Factories%20Act,%201948&STitle=Artificial%20humidification"
+  },
+  {
+    "globalSectionId": 18,
+    "title": "16",
+    "content": "Overcrowding",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/16.php?Title=Factories%20Act,%201948&STitle=Overcrowding"
+  },
+  {
+    "globalSectionId": 19,
+    "title": "17",
+    "content": "Lighting",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/17.php?Title=Factories%20Act,%201948&STitle=Lighting"
+  },
+  {
+    "globalSectionId": 20,
+    "title": "18",
+    "content": "Drinking water",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/18.php?Title=Factories%20Act,%201948&STitle=Drinking%20water"
+  },
+  {
+    "globalSectionId": 21,
+    "title": "19",
+    "content": "Latrines and urinals",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/19.php?Title=Factories%20Act,%201948&STitle=Latrines%20and%20urinals"
+  },
+  {
+    "globalSectionId": 22,
+    "title": "20",
+    "content": "Spittoons",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/20.php?Title=Factories%20Act,%201948&STitle=Spittoons"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter IV",
+    "content": "Safety",
+    "link": ""
+  },
+  {
+    "globalSectionId": 23,
+    "title": "21",
+    "content": "Fencing of machinery",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/21.php?Title=Factories%20Act,%201948&STitle=Fencing%20of%20machinery"
+  },
+  {
+    "globalSectionId": 24,
+    "title": "22",
+    "content": "Work on or near machinery in motion",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/22.php?Title=Factories%20Act,%201948&STitle=Work%20on%20or%20near%20machinery%20in%20motion"
+  },
+  {
+    "globalSectionId": 25,
+    "title": "23",
+    "content": "Employment of young persons on dangerous machines",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/23.php?Title=Factories%20Act,%201948&STitle=Employment%20of%20young%20persons%20on%20dangerous%20machines"
+  },
+  {
+    "globalSectionId": 26,
+    "title": "24",
+    "content": "Striking gear and devices for cutting off power",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/24.php?Title=Factories%20Act,%201948&STitle=Striking%20gear%20and%20devices%20for%20cutting%20off%20power"
+  },
+  {
+    "globalSectionId": 27,
+    "title": "25",
+    "content": "Self-acting machines",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/25.php?Title=Factories%20Act,%201948&STitle=Self-acting%20machines"
+  },
+  {
+    "globalSectionId": 28,
+    "title": "26",
+    "content": "Casing of new machinery",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/26.php?Title=Factories%20Act,%201948&STitle=asing%20of%20new%20machinery"
+  },
+  {
+    "globalSectionId": 29,
+    "title": "27",
+    "content": "Prohibition of employment of women and children near cotton-openers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/27.php?Title=Factories%20Act,%201948&STitle=Prohibition%20of%20employment%20of%20women%20and%20children%20near%20cotton-openers"
+  },
+  {
+    "globalSectionId": 30,
+    "title": "28",
+    "content": "Hoists and lifts",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/28.php?Title=Factories%20Act,%201948&STitle=Hoists%20and%20lifts"
+  },
+  {
+    "globalSectionId": 31,
+    "title": "29",
+    "content": "Lifting machines, chains, ropes and lifting tackles",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/29.php?Title=Factories%20Act,%201948&STitle=Lifting%20machines,%20chains,%20ropes%20and%20lifting%20tackles"
+  },
+  {
+    "globalSectionId": 32,
+    "title": "30",
+    "content": "Revolving machinery",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/30.php?Title=Factories%20Act,%201948&STitle=Revolving%20machinery"
+  },
+  {
+    "globalSectionId": 33,
+    "title": "31",
+    "content": "Pressure plant",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/31.php?Title=Factories%20Act,%201948&STitle=Pressure%20plant"
+  },
+  {
+    "globalSectionId": 34,
+    "title": "32",
+    "content": "Floors, stairs and means of access",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/32.php?Title=Factories%20Act,%201948&STitle=Floors,%20stairs%20and%20means%20of%20access"
+  },
+  {
+    "globalSectionId": 35,
+    "title": "33",
+    "content": "Pits, sumps, opening in floors, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/33.php?Title=Factories%20Act,%201948&STitle=Pits,%20sumps,%20opening%20in%20floors,%20etc."
+  },
+  {
+    "globalSectionId": 36,
+    "title": "34",
+    "content": "Excessive weights",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/34.php?Title=Factories%20Act,%201948&STitle=Excessive%20weights"
+  },
+  {
+    "globalSectionId": 37,
+    "title": "35",
+    "content": "Protection of eyes",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/35.php?Title=Factories%20Act,%201948&STitle=Protection%20of%20eyes"
+  },
+  {
+    "globalSectionId": 38,
+    "title": "36",
+    "content": "Precautions against dangerous fumes, gases, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/36.php?Title=Factories%20Act,%201948&STitle=Precautions%20against%20dangerous%20fumes,%20gases,%20etc."
+  },
+  {
+    "globalSectionId": 39,
+    "title": "36A",
+    "content": "Precautions regarding the use of portable electric light",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/36a.php?Title=Factories%20Act,%201948&STitle=Precautions%20regarding%20the%20use%20of%20portable%20electric%20light"
+  },
+  {
+    "globalSectionId": 40,
+    "title": "37",
+    "content": "Explosive or inflammable dust, gas, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/37.php?Title=Factories%20Act,%201948&STitle=Explosive%20or%20inflammable%20dust,%20gas,%20etc."
+  },
+  {
+    "globalSectionId": 41,
+    "title": "38",
+    "content": "Precautions in case of fire",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/38.php?Title=Factories%20Act,%201948&STitle=Precautions%20in%20case%20of%20fire"
+  },
+  {
+    "globalSectionId": 42,
+    "title": "39",
+    "content": "Power to require specifications of defective parts or tests of stability",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/39.php?Title=Factories%20Act,%201948&STitle=Power%20to%20require%20specifications%20of%20defective%20parts%20or%20tests%20of%20stability"
+  },
+  {
+    "globalSectionId": 43,
+    "title": "40",
+    "content": "Safety of building and machinery",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/40.php?Title=Factories%20Act,%201948&STitle=Safety%20of%20building%20and%20machinery"
+  },
+  {
+    "globalSectionId": 44,
+    "title": "40A",
+    "content": "Maintenance of buildings",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/40a.php?Title=Factories%20Act,%201948&STitle=Maintenance%20of%20buildings"
+  },
+  {
+    "globalSectionId": 45,
+    "title": "40B",
+    "content": "Safety officers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/40b.php?Title=Factories%20Act,%201948&STitle=Safety%20officers"
+  },
+  {
+    "globalSectionId": 46,
+    "title": "41",
+    "content": "Power to make rules to supplement this Chapter",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41.php?Title=Factories%20Act,%201948&STitle=Power%20to%20make%20rules%20to%20supplement%20this%20Chapter"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter IV-A",
+    "content": "Provisions Relating\n To Hazardous Processes",
+    "link": ""
+  },
+  {
+    "globalSectionId": 47,
+    "title": "41A",
+    "content": "Constitution of Site Appraisal Committees",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41a.php?Title=Factories%20Act,%201948&STitle=Constitution%20of%20Site%20Appraisal%20Committees"
+  },
+  {
+    "globalSectionId": 48,
+    "title": "41B",
+    "content": "Compulsory disclosure of information by the occupier",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41b.php?Title=Factories%20Act,%201948&STitle=Compulsory%20disclosure%20of%20information%20by%20the%20occupier"
+  },
+  {
+    "globalSectionId": 49,
+    "title": "41C",
+    "content": "Specific responsibility of the occupier in relation to hazardous processes",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41c.php?Title=Factories%20Act,%201948&STitle=Specific%20responsibility%20of%20the%20occupier%20in%20relation%20to%20hazardous%20processes"
+  },
+  {
+    "globalSectionId": 50,
+    "title": "41D",
+    "content": "Power of Central Government to appoint Inquiry Committee",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41d.php?Title=Factories%20Act,%201948&STitle=Power%20of%20Central%20Government%20to%20appoint%20Inquiry%20Committee"
+  },
+  {
+    "globalSectionId": 51,
+    "title": "41E",
+    "content": "Emergency standards",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41e.php?Title=Factories%20Act,%201948&STitle=Emergency%20standards"
+  },
+  {
+    "globalSectionId": 52,
+    "title": "41F",
+    "content": "Permissible limits of exposure of chemical and toxic substances",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41f.php?Title=Factories%20Act,%201948&STitle=Permissible%20limits%20of%20exposure%20of%20chemical%20and%20toxic%20substances"
+  },
+  {
+    "globalSectionId": 53,
+    "title": "41G",
+    "content": "Workers' participation in safety management",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41g.php?Title=Factories%20Act,%201948&STitle=Workers%27%20participation%20in%20safety%20management"
+  },
+  {
+    "globalSectionId": 54,
+    "title": "41H",
+    "content": "Right of workers to warn about imminent danger",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/41h.php?Title=Factories%20Act,%201948&STitle=Right%20of%20workers%20to%20warn%20about%20imminent%20danger"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter V",
+    "content": "Welfare",
+    "link": ""
+  },
+  {
+    "globalSectionId": 55,
+    "title": "42",
+    "content": "Washing facilities",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/42.php?Title=Factories%20Act,%201948&STitle=Washing%20facilities"
+  },
+  {
+    "globalSectionId": 56,
+    "title": "43",
+    "content": "Facilities for storing and drying clothing",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/43.php?Title=Factories%20Act,%201948&STitle=Facilities%20for%20storing%20and%20drying%20clothing"
+  },
+  {
+    "globalSectionId": 57,
+    "title": "44",
+    "content": "Facilities for sitting",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/44.php?Title=Factories%20Act,%201948&STitle=Facilities%20for%20sitting"
+  },
+  {
+    "globalSectionId": 58,
+    "title": "45",
+    "content": "First-aid appliances",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/45.php?Title=Factories%20Act,%201948&STitle=First-aid%20appliances"
+  },
+  {
+    "globalSectionId": 59,
+    "title": "46",
+    "content": "Canteens",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/46.php?Title=Factories%20Act,%201948&STitle=Canteens"
+  },
+  {
+    "globalSectionId": 60,
+    "title": "47",
+    "content": "Shelters, rest rooms and lunch rooms",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/47.php?Title=Factories%20Act,%201948&STitle=Shelters,%20rest%20rooms%20and%20lunch%20rooms"
+  },
+  {
+    "globalSectionId": 61,
+    "title": "48",
+    "content": "Creches",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/48.php?Title=Factories%20Act,%201948&STitle=Creches"
+  },
+  {
+    "globalSectionId": 62,
+    "title": "49",
+    "content": "Welfare officers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/49.php?Title=Factories%20Act,%201948&STitle=Welfare%20officers"
+  },
+  {
+    "globalSectionId": 63,
+    "title": "50",
+    "content": "Power to make rules to supplement this Chapter",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/50.php?Title=Factories%20Act,%201948&STitle=Power%20to%20make%20rules%20to%20supplement%20this%20Chapter"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VI",
+    "content": "Working Hours Of\n Adults",
+    "link": ""
+  },
+  {
+    "globalSectionId": 64,
+    "title": "51",
+    "content": "Weekly hours",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/51.php?Title=Factories%20Act,%201948&STitle=Weekly%20hours"
+  },
+  {
+    "globalSectionId": 65,
+    "title": "52",
+    "content": "Weekly holidays",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/52.php?Title=Factories%20Act,%201948&STitle=Weekly%20holidays"
+  },
+  {
+    "globalSectionId": 66,
+    "title": "53",
+    "content": "Compensatory holidays",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/53.php?Title=Factories%20Act,%201948&STitle=Compensatory%20holidays"
+  },
+  {
+    "globalSectionId": 67,
+    "title": "54",
+    "content": "Daily hours",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/54.php?Title=Factories%20Act,%201948&STitle=Daily%20hours"
+  },
+  {
+    "globalSectionId": 68,
+    "title": "55",
+    "content": "Intervals for rest",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/55.php?Title=Factories%20Act,%201948&STitle=Intervals%20for%20rest"
+  },
+  {
+    "globalSectionId": 69,
+    "title": "56",
+    "content": "Spreadover",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/56.php?Title=Factories%20Act,%201948&STitle=Spreadover"
+  },
+  {
+    "globalSectionId": 70,
+    "title": "57",
+    "content": "Night shifts",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/57.php?Title=Factories%20Act,%201948&STitle=Night%20shifts"
+  },
+  {
+    "globalSectionId": 71,
+    "title": "58",
+    "content": "Prohibition of overlapping shifts",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/58.php?Title=Factories%20Act,%201948&STitle=Prohibition%20of%20overlapping%20shifts"
+  },
+  {
+    "globalSectionId": 72,
+    "title": "59",
+    "content": "Extra wages for overtime",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/59.php?Title=Factories%20Act,%201948&STitle=Extra%20wages%20for%20overtime"
+  },
+  {
+    "globalSectionId": 73,
+    "title": "60",
+    "content": "Restriction on double employment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/60.php?Title=Factories%20Act,%201948&STitle=Restriction%20on%20double%20employment"
+  },
+  {
+    "globalSectionId": 74,
+    "title": "61",
+    "content": "Notice of periods of work for adults",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/61.php?Title=Factories%20Act,%201948&STitle=Notice%20of%20periods%20of%20work%20for%20adults"
+  },
+  {
+    "globalSectionId": 75,
+    "title": "62",
+    "content": "Register of adult workers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/62.php?Title=Factories%20Act,%201948&STitle=Register%20of%20adult%20workers"
+  },
+  {
+    "globalSectionId": 76,
+    "title": "63",
+    "content": "Hours of work to correspond with notice under section 61 and register under section 62",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/63.php?Title=Factories%20Act,%201948&STitle=Hours%20of%20work%20to%20correspond%20with%20notice%20under%20section%2061%20and%20register%20under%20section%2062"
+  },
+  {
+    "globalSectionId": 77,
+    "title": "64",
+    "content": "Power to make exempting rules",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/64.php?Title=Factories%20Act,%201948&STitle=Power%20to%20make%20exempting%20rules"
+  },
+  {
+    "globalSectionId": 78,
+    "title": "65",
+    "content": "Power to make exempting orders",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/65.php?Title=Factories%20Act,%201948&STitle=Power%20to%20make%20exempting%20orders"
+  },
+  {
+    "globalSectionId": 79,
+    "title": "66",
+    "content": "Further restrictions on employment of women",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/66.php?Title=Factories%20Act,%201948&STitle=Further%20restrictions%20on%20employment%20of%20women"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VII",
+    "content": "Employment Of Young Persons",
+    "link": ""
+  },
+  {
+    "globalSectionId": 80,
+    "title": "67",
+    "content": "Prohibition of employment of young children",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/67.php?Title=Factories%20Act,%201948&STitle=Prohibition%20of%20employment%20of%20young%20children"
+  },
+  {
+    "globalSectionId": 81,
+    "title": "68",
+    "content": "Non-adult workers to carry tokens",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/68.php?Title=Factories%20Act,%201948&STitle=Non-adult%20workers%20to%20carry%20tokens"
+  },
+  {
+    "globalSectionId": 82,
+    "title": "69",
+    "content": "Certificates of fitness",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/69.php?Title=Factories%20Act,%201948&STitle=Certificates%20of%20fitness"
+  },
+  {
+    "globalSectionId": 83,
+    "title": "70",
+    "content": "Effect of certificate of fitness granted to adolescent",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/70.php?Title=Factories%20Act,%201948&STitle=Effect%20of%20certificate%20of%20fitness%20granted%20to%20adolescent"
+  },
+  {
+    "globalSectionId": 84,
+    "title": "71",
+    "content": "Working hours for children",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/71.php?Title=Factories%20Act,%201948&STitle=Working%20hours%20for%20children"
+  },
+  {
+    "globalSectionId": 85,
+    "title": "72",
+    "content": "Notice of period of work for children",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/72.php?Title=Factories%20Act,%201948&STitle=Notice%20of%20period%20of%20work%20for%20children"
+  },
+  {
+    "globalSectionId": 86,
+    "title": "73",
+    "content": "Register of child workers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/73.php?Title=Factories%20Act,%201948&STitle=Register%20of%20child%20workers"
+  },
+  {
+    "globalSectionId": 87,
+    "title": "74",
+    "content": "Hours of work to correspond with notice under section 72 and register under section 73",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/74.php?Title=Factories%20Act,%201948&STitle=Hours%20of%20work%20to%20correspond%20with%20notice%20under%20section%2072%20and%20register%20under%20section%2073"
+  },
+  {
+    "globalSectionId": 88,
+    "title": "75",
+    "content": "Power to require medical examination",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/75.php?Title=Factories%20Act,%201948&STitle=Power%20to%20require%20medical%20examination"
+  },
+  {
+    "globalSectionId": 89,
+    "title": "76",
+    "content": "Power to make rules",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/76.php?Title=Factories%20Act,%201948&STitle=Power%20to%20make%20rules"
+  },
+  {
+    "globalSectionId": 90,
+    "title": "77",
+    "content": "Certain other provisions of law not barred",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/77.php?Title=Factories%20Act,%201948&STitle=Certain%20other%20provisions%20of%20law%20not%20barred"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter VIII",
+    "content": "Annual Leave With\n Wages",
+    "link": ""
+  },
+  {
+    "globalSectionId": 91,
+    "title": "78",
+    "content": "Application of Chapter",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/78.php?Title=Factories%20Act,%201948&STitle=Application%20of%20Chapter"
+  },
+  {
+    "globalSectionId": 92,
+    "title": "79",
+    "content": "Annual leave with wages",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/79.php?Title=Factories%20Act,%201948&STitle=Annual%20leave%20with%20wages"
+  },
+  {
+    "globalSectionId": 93,
+    "title": "80",
+    "content": "Wages during leave period",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/80.php?Title=Factories%20Act,%201948&STitle=Wages%20during%20leave%20period"
+  },
+  {
+    "globalSectionId": 94,
+    "title": "81",
+    "content": "Payment in advance in certain cases",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/81.php?Title=Factories%20Act,%201948&STitle=Payment%20in%20advance%20in%20certain%20cases"
+  },
+  {
+    "globalSectionId": 95,
+    "title": "82",
+    "content": "Mode of recovery of unpaid wages",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/82.php?Title=Factories%20Act,%201948&STitle=Mode%20of%20recovery%20of%20unpaid%20wages"
+  },
+  {
+    "globalSectionId": 96,
+    "title": "83",
+    "content": "Power to make rules",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/83.php?Title=Factories%20Act,%201948&STitle=Power%20to%20make%20rules"
+  },
+  {
+    "globalSectionId": 97,
+    "title": "84",
+    "content": "Power to exempt factories",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/84.php?Title=Factories%20Act,%201948&STitle=Power%20to%20exempt%20factories"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter IX",
+    "content": "Special Provisions",
+    "link": ""
+  },
+  {
+    "globalSectionId": 98,
+    "title": "85",
+    "content": "Power to apply the Act to certain premises",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/85.php?Title=Factories%20Act,%201948&STitle=Power%20to%20apply%20the%20Act%20to%20certain%20premises"
+  },
+  {
+    "globalSectionId": 99,
+    "title": "86",
+    "content": "Power to exempt public institutions Power to apply the Act to certain premises",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/86.php?Title=Factories%20Act,%201948&STitle=Power%20to%20exempt%20public%20institutions%20Power%20to%20apply%20the%20Act%20to%20certain%20premises"
+  },
+  {
+    "globalSectionId": 100,
+    "title": "87",
+    "content": "Dangerous operations",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/87.php?Title=Factories%20Act,%201948&STitle=Dangerous%20operations"
+  },
+  {
+    "globalSectionId": 101,
+    "title": "87A",
+    "content": "Power to prohibit employment on account of serious hazard",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/87a.php?Title=Factories%20Act,%201948&STitle=Power%20to%20prohibit%20employment%20on%20account%20of%20serious%20hazard"
+  },
+  {
+    "globalSectionId": 102,
+    "title": "88",
+    "content": "Notice of certain accidents",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/88.php?Title=Factories%20Act,%201948&STitle=Notice%20of%20certain%20accidents"
+  },
+  {
+    "globalSectionId": 103,
+    "title": "88A",
+    "content": "Notice of certain dangerous occurrences",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/88a.php?Title=Factories%20Act,%201948&STitle=Notice%20of%20certain%20dangerous%20occurrences"
+  },
+  {
+    "globalSectionId": 104,
+    "title": "89",
+    "content": "Notice of certain diseases",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/89.php?Title=Factories%20Act,%201948&STitle=Notice%20of%20certain%20diseases"
+  },
+  {
+    "globalSectionId": 105,
+    "title": "90",
+    "content": "Power to direct enquiry into cases of accident or disease Notice of certain diseases",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/90.php?Title=Factories%20Act,%201948&STitle=Power%20to%20direct%20enquiry%20into%20cases%20of%20accident%20or%20disease%20Notice%20of%20certain%20diseases"
+  },
+  {
+    "globalSectionId": 106,
+    "title": "91",
+    "content": "Power to take samples",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/91.php?Title=Factories%20Act,%201948&STitle=Power%20to%20take%20samples"
+  },
+  {
+    "globalSectionId": 107,
+    "title": "91A",
+    "content": "Safety and occupational health surveys",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/91a.php?Title=Factories%20Act,%201948&STitle=Safety%20and%20occupational%20health%20surveys"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter X",
+    "content": "Penalties And\n Procedure",
+    "link": ""
+  },
+  {
+    "globalSectionId": 108,
+    "title": "92",
+    "content": "General penalty for offences",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/92.php?Title=Factories%20Act,%201948&STitle=General%20penalty%20for%20offences"
+  },
+  {
+    "globalSectionId": 109,
+    "title": "93",
+    "content": "Liability of owner of premises in certain circumstances",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/93.php?Title=Factories%20Act,%201948&STitle=Liability%20of%20owner%20of%20premises%20in%20certain%20circumstances"
+  },
+  {
+    "globalSectionId": 110,
+    "title": "94",
+    "content": "Enhanced penalty after previous conviction",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/94.php?Title=Factories%20Act,%201948&STitle=Enhanced%20penalty%20after%20previous%20conviction"
+  },
+  {
+    "globalSectionId": 111,
+    "title": "95",
+    "content": "Penalty for obstructing Inspector",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/95.php?Title=Factories%20Act,%201948&STitle=Penalty%20for%20obstructing%20Inspector"
+  },
+  {
+    "globalSectionId": 112,
+    "title": "96",
+    "content": "Penalty for wrongfully disclosing results of analysis under section 91",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/96.php?Title=Factories%20Act,%201948&STitle=Penalty%20for%20wrongfully%20disclosing%20results%20of%20analysis%20under%20section%2091"
+  },
+  {
+    "globalSectionId": 113,
+    "title": "96A",
+    "content": "Penalty for contravention of the provisions of sections 41B, 41C and 41H",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/96a.php?Title=Factories%20Act,%201948&STitle=Penalty%20for%20contravention%20of%20the%20provisions%20of%20sections%2041B,%2041C%20and%2041H"
+  },
+  {
+    "globalSectionId": 114,
+    "title": "97",
+    "content": "Offences by workers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/97.php?Title=Factories%20Act,%201948&STitle=Offences%20by%20workers"
+  },
+  {
+    "globalSectionId": 115,
+    "title": "98",
+    "content": "Penalty for using false certificate of fitness",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/98.php?Title=Factories%20Act,%201948&STitle=Penalty%20for%20using%20false%20certificate%20of%20fitness"
+  },
+  {
+    "globalSectionId": 116,
+    "title": "99",
+    "content": "Penalty for permitting double employment of child",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/99.php?Title=Factories%20Act,%201948&STitle=Penalty%20for%20permitting%20double%20employment%20of%20child"
+  },
+  {
+    "globalSectionId": 117,
+    "title": "101",
+    "content": "Exemption of occupier or manager from liability in certain cases",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/101.php?Title=Factories%20Act,%201948&STitle=Exemption%20of%20occupier%20or%20manager%20from%20liability%20in%20certain%20cases"
+  },
+  {
+    "globalSectionId": 118,
+    "title": "102",
+    "content": "Power of Court to make orders",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/102.php?Title=Factories%20Act,%201948&STitle=Power%20of%20Court%20to%20make%20orders"
+  },
+  {
+    "globalSectionId": 119,
+    "title": "103",
+    "content": "Presumption as to employment",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/103.php?Title=Factories%20Act,%201948&STitle=Presumption%20as%20to%20employment"
+  },
+  {
+    "globalSectionId": 120,
+    "title": "104",
+    "content": "Onus as to age",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/104.php?Title=Factories%20Act,%201948&STitle=Onus%20as%20to%20age"
+  },
+  {
+    "globalSectionId": 121,
+    "title": "104A",
+    "content": "Onus of providing limits of what is practicable, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/104a.php?Title=Factories%20Act,%201948&STitle=Onus%20of%20providing%20limits%20of%20what%20is%20practicable,%20etc."
+  },
+  {
+    "globalSectionId": 122,
+    "title": "105",
+    "content": "Cognizance of offences",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/105.php?Title=Factories%20Act,%201948&STitle=Cognizance%20of%20offences"
+  },
+  {
+    "globalSectionId": 123,
+    "title": "106",
+    "content": "Limitation of prosecutions",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/106.php?Title=Factories%20Act,%201948&STitle=Limitation%20of%20prosecutions"
+  },
+  {
+    "globalSectionId": 124,
+    "title": "106A",
+    "content": "Jurisdiction of a court for entertaining proceedings, etc., for offence",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/106a.php?Title=Factories%20Act,%201948&STitle=Jurisdiction%20of%20a%20court%20for%20entertaining%20proceedings,%20etc.,%20for%20offence"
+  },
+  {
+    "globalSectionId": 0,
+    "title": "Chapter XI",
+    "content": "Supplemental",
+    "link": ""
+  },
+  {
+    "globalSectionId": 125,
+    "title": "107",
+    "content": "Appeals",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/107.php?Title=Factories%20Act,%201948&STitle=Appeals"
+  },
+  {
+    "globalSectionId": 126,
+    "title": "108",
+    "content": "Display of notices",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/108.php?Title=Factories%20Act,%201948&STitle=Display%20of%20notices"
+  },
+  {
+    "globalSectionId": 127,
+    "title": "109",
+    "content": "Service of notice",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/109.php?Title=Factories%20Act,%201948&STitle=Service%20of%20notice"
+  },
+  {
+    "globalSectionId": 128,
+    "title": "110",
+    "content": "Returns",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/110.php?Title=Factories%20Act,%201948&STitle=Returns"
+  },
+  {
+    "globalSectionId": 129,
+    "title": "111",
+    "content": "Obligations of workers",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/111.php?Title=Factories%20Act,%201948&STitle=Obligations%20of%20workers"
+  },
+  {
+    "globalSectionId": 130,
+    "title": "111A",
+    "content": "Right of workers, etc.",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/111a.php?Title=Factories%20Act,%201948&STitle=Right%20of%20workers,%20etc."
+  },
+  {
+    "globalSectionId": 131,
+    "title": "112",
+    "content": "General power to make rules",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/112.php?Title=Factories%20Act,%201948&STitle=General%20power%20to%20make%20rules"
+  },
+  {
+    "globalSectionId": 132,
+    "title": "113",
+    "content": "Powers of Centre to give direction",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/113.php?Title=Factories%20Act,%201948&STitle=Powers%20of%20Centre%20to%20give%20direction"
+  },
+  {
+    "globalSectionId": 133,
+    "title": "114",
+    "content": "No charge for facilities and conveniences",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/114.php?Title=Factories%20Act,%201948&STitle=No%20charge%20for%20facilities%20and%20conveniences"
+  },
+  {
+    "globalSectionId": 134,
+    "title": "115",
+    "content": "Publication of rules",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/115.php?Title=Factories%20Act,%201948&STitle=Publication%20of%20rules"
+  },
+  {
+    "globalSectionId": 135,
+    "title": "116",
+    "content": "Application of Act to government factories",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/116.php?Title=Factories%20Act,%201948&STitle=Application%20of%20Act%20to%20government%20factories"
+  },
+  {
+    "globalSectionId": 136,
+    "title": "117",
+    "content": "Protection to persons acting under this Act",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/117.php?Title=Factories%20Act,%201948&STitle=Protection%20to%20persons%20acting%20under%20this%20Act"
+  },
+  {
+    "globalSectionId": 137,
+    "title": "118",
+    "content": "Restriction on disclosure of information",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/118.php?Title=Factories%20Act,%201948&STitle=Restriction%20on%20disclosure%20of%20information"
+  },
+  {
+    "globalSectionId": 138,
+    "title": "118A",
+    "content": "Restriction on disclosure of information",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/118a.php?Title=Factories%20Act,%201948&STitle=Restriction%20on%20disclosure%20of%20information"
+  },
+  {
+    "globalSectionId": 139,
+    "title": "119",
+    "content": "Act to have effect notwithstanding anything contained in Act 37 of 1970",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/119.php?Title=Factories%20Act,%201948&STitle=Act%20to%20have%20effect%20notwithstanding%20anything%20contained%20in%20Act%2037%20of%201970"
+  },
+  {
+    "globalSectionId": 140,
+    "title": "120",
+    "content": "Repeal and saving",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/120.php?Title=Factories%20Act,%201948&STitle=Repeal%20and%20saving"
+  },
+  {
+    "globalSectionId": 141,
+    "title": "",
+    "content": "Schedule I",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/schedule1.php?Title=Factories%20Act,%201948&STitle=Schedule%20I"
+  },
+  {
+    "globalSectionId": 142,
+    "title": "",
+    "content": "Schedule II",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/schedule2.php?Title=Factories%20Act,%201948&STitle=Schedule%20II"
+  },
+  {
+    "globalSectionId": 143,
+    "title": "",
+    "content": "Schedule III",
+    "link": "https://www.advocatekhoj.com/library/bareacts/factories/schedule3.php?Title=Factories%20Act,%201948&STitle=Schedule%20III"
+  }
+]
