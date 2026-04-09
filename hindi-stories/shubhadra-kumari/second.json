@@ -1,0 +1,239 @@
+{
+  "16001": [
+    {
+      "data_id": "Bhoomika-Bikhre-Moti-Subhadra-Kumari-Chauhan",
+      "id": 0,
+      "nextListId": -1,
+      "text": "भूमिका बिखरे मोती",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Papi-Pet-Subhadra-Kumari-Chauhan",
+      "id": 3,
+      "nextListId": -1,
+      "text": "पापी पेट",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Manjhali-Rani-Subhadra-Kumari-Chauhan",
+      "id": 4,
+      "nextListId": -1,
+      "text": "मंझली रानी",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Parivartan-Subhadra-Kumari-Chauhan",
+      "id": 5,
+      "nextListId": -1,
+      "text": "परिवर्तन",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Drishtikon-Subhadra-Kumari-Chauhan",
+      "id": 6,
+      "nextListId": -1,
+      "text": "दृष्टिकोण",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Kadamb-Ke-Phool-Subhadra-Kumari-Chauhan",
+      "id": 7,
+      "nextListId": -1,
+      "text": "कदम्ब के फूल",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Ekadashi-Subhadra-Kumari-Chauhan",
+      "id": 10,
+      "nextListId": -1,
+      "text": "एकादशी",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Aahuti-Subhadra-Kumari-Chauhan",
+      "id": 11,
+      "nextListId": -1,
+      "text": "आहुति",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Thati-Subhadra-Kumari-Chauhan",
+      "id": 12,
+      "nextListId": -1,
+      "text": "थाती",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Amrai-Subhadra-Kumari-Chauhan",
+      "id": 13,
+      "nextListId": -1,
+      "text": "अमराई",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Anurodh-Subhadra-Kumari-Chauhan",
+      "id": 14,
+      "nextListId": -1,
+      "text": "अनुरोध",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    },
+    {
+      "data_id": "Gramina-Subhadra-Kumari-Chauhan",
+      "id": 15,
+      "nextListId": -1,
+      "text": "ग्रामीणा",
+      "data_path": "storyBook/lok-katha/Bikhre-Moti"
+    }
+  ],
+  "16002": [
+    {
+      "data_id": "RupaSubhadraKumariChauhan",
+      "id": 0,
+      "nextListId": -1,
+      "text": "रुपा",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Kailashi-Nani-Subhadra-Kumari-Chauhan",
+      "id": 1,
+      "nextListId": -1,
+      "text": "कैलाशी नानी",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Biaha-Subhadra-Kumari-Chauhan",
+      "id": 2,
+      "nextListId": -1,
+      "text": "बिआहा",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Kalyani-Subhadra-Kumari-Chauhan",
+      "id": 3,
+      "nextListId": -1,
+      "text": "कल्याणी",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Do-Sathi-Subhadra-Kumari-Chauhan",
+      "id": 4,
+      "nextListId": -1,
+      "text": "दो साथी",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Professor-Mitra-Subhadra-Kumari-Chauhan",
+      "id": 5,
+      "nextListId": -1,
+      "text": "प्रोफेसर मित्रा",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Durachari-Subhadra-Kumari-Chauhan",
+      "id": 6,
+      "nextListId": -1,
+      "text": "दुराचारी",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Mangla-Subhadra-Kumari-Chauhan",
+      "id": 7,
+      "nextListId": -1,
+      "text": "मंगला",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "HingwalaSubhadraKumariChauhan",
+      "id": 8,
+      "nextListId": -1,
+      "text": "हींगवाला",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "Rahi-Subhadra-Kumari-Chauhan",
+      "id": 9,
+      "nextListId": -1,
+      "text": "राही",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "TangewalaSubhadraKumariChauhan",
+      "id": 10,
+      "nextListId": -1,
+      "text": "ताँगेवाला",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    },
+    {
+      "data_id": "GulabSinghSubhadraKumariChauhan",
+      "id": 11,
+      "nextListId": -1,
+      "text": "गुलाबसिंह",
+      "data_path": "storyBook/lok-katha/Seedhe-Saadhe-Chitra"
+    }
+  ],
+  "16003": [
+    {
+      "data_id": "Unmadini-Story-Subhadra-Kumari-Chauhan",
+      "id": 0,
+      "nextListId": -1,
+      "text": "उन्मादिनी",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Asmanjas-Subhadra-Kumari-Chauhan",
+      "id": 1,
+      "nextListId": -1,
+      "text": "असमंजस",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Abhiyukta-Subhadra-Kumari-Chauhan",
+      "id": 2,
+      "nextListId": -1,
+      "text": "अभियुक्ता",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Sone-Ki-Kanthi-Subhadra-Kumari-Chauhan",
+      "id": 3,
+      "nextListId": -1,
+      "text": "सोने की कंठी",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "NariHridyaSubhadraKumariChauhan",
+      "id": 4,
+      "nextListId": -1,
+      "text": "नारी-हृदय",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Pavitra-Irshya-Subhadra-Kumari-Chauhan",
+      "id": 5,
+      "nextListId": -1,
+      "text": "पवित्र ईर्ष्या",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Angoothi-Ki-Khoj-Subhadra-Kumari-Chauhan",
+      "id": 6,
+      "nextListId": -1,
+      "text": "अंगूठी की खोज",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Charha-Dimag-Subhadra-Kumari-Chauhan",
+      "id": 7,
+      "nextListId": -1,
+      "text": "चढ़ा-दिमाग",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    },
+    {
+      "data_id": "Veshya-Ki-Ladki-Subhadra-Kumari-Chauhan",
+      "id": 8,
+      "nextListId": -1,
+      "text": "वेश्या की लड़की",
+      "data_path": "storyBook/lok-katha/Unmadini"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "data_id": "Sher-Aur-Ladka-Munshi-Premchand",
+    "id": 0,
+    "nextListId": -1,
+    "text": "शेर और लड़का",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Banmanus-Ki-Dardnak-Kahani-Munshi-Premchand",
+    "id": 1,
+    "nextListId": -1,
+    "text": "बनमानुस की दर्दनाक कहानी",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Dakshini-Africa-Mein-Sher-Ka-Shikar-Munshi-Premchand",
+    "id": 2,
+    "nextListId": -1,
+    "text": "दक्षिणी अफ्रीका में शेर का शिकार",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Gubbare-Par-Cheetah-Munshi-Premchand",
+    "id": 3,
+    "nextListId": -1,
+    "text": "गुब्बारे पर चीता",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "PagalHathiMunshiPremchand",
+    "id": 4,
+    "nextListId": -1,
+    "text": "पागल हाथी",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Saamp-Ka-Mani-Munshi-Premchand",
+    "id": 5,
+    "nextListId": -1,
+    "text": "साँप का मणि",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Banmanus-Khansama-Munshi-Premchand",
+    "id": 6,
+    "nextListId": -1,
+    "text": "बनमानुस खानसामा",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "MitthuMunshiPremchand",
+    "id": 7,
+    "nextListId": -1,
+    "text": "मिट्ठू",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Paltu-Bhalu-Munshi-Premchand",
+    "id": 8,
+    "nextListId": -1,
+    "text": "पालतू भालू",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Bagh-Ki-Khal-Munshi-Premchand",
+    "id": 9,
+    "nextListId": -1,
+    "text": "बाघ की खाल",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Magar-Ka-Shikar-Munshi-Premchand",
+    "id": 10,
+    "nextListId": -1,
+    "text": "मगर का शिकार",
+    "data_path": "storyBook/pramchandra/jungle"
+  },
+  {
+    "data_id": "Judwan-Bhai-Munshi-Premchand",
+    "id": 11,
+    "nextListId": -1,
+    "text": "जुड़वाँ भाई",
+    "data_path": "storyBook/pramchandra/jungle"
+  }
+]

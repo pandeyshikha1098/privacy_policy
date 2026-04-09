@@ -1,0 +1,359 @@
+[
+  {
+    "data_id": "Gonu-Jha-Ki-Kushti",
+    "id": 0,
+    "nextListId": -1,
+    "text": "गोनू झा की कुश्ती",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kodon-Ki-Saja-Gonu-Jha",
+    "id": 1,
+    "nextListId": -1,
+    "text": "कोड़ों की सजा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Char-Panktiyon-Mein-Ramayan-Gonu-Jha",
+    "id": 2,
+    "nextListId": -1,
+    "text": "चार पंक्तियों में रामायण",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sood-Mool-Barabar-Gonu-Jha",
+    "id": 3,
+    "nextListId": -1,
+    "text": "सूद-मूल बराबर",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Pothi-Hui-Samapt-Gonu-Jha",
+    "id": 4,
+    "nextListId": -1,
+    "text": "पोथी हुई समाप्त",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Raat-Ka-Bhaav-Gonu-Jha",
+    "id": 5,
+    "nextListId": -1,
+    "text": "रात का भाव",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Ki-Bahaduri-Gonu-Jha",
+    "id": 6,
+    "nextListId": -1,
+    "text": "गोनू की बहादुरी",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Panditayan-Ka-Sahara-Gonu-Jha",
+    "id": 7,
+    "nextListId": -1,
+    "text": "पंडिताइन का सहारा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nehle-Par-Dehla-Gonu-Jha",
+    "id": 8,
+    "nextListId": -1,
+    "text": "नहले पर दहला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Jaise-Ko-Taisa-Gonu-Jha",
+    "id": 9,
+    "nextListId": -1,
+    "text": "जैसे को तैसा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Khet-Jot-Gaye-Chor-Gonu-Jha",
+    "id": 10,
+    "nextListId": -1,
+    "text": "खेत जोत गए चोर",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Asambhav-Hua-Sambhav-Gonu-Jha",
+    "id": 11,
+    "nextListId": -1,
+    "text": "असम्भव हुआ सम्भव",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gulab-Ki-Sugandh-Gonu-Jha",
+    "id": 12,
+    "nextListId": -1,
+    "text": "गुलाब की सुगन्ध",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Karm-Hi-Pooja-Hai-Gonu-Jha",
+    "id": 13,
+    "nextListId": -1,
+    "text": "कर्म ही पूजा है",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ath-Kanausi-Katha-Gonu-Jha",
+    "id": 14,
+    "nextListId": -1,
+    "text": "अथ कनौसी कथा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Baat-Aise-Bani-Gonu-Jha",
+    "id": 15,
+    "nextListId": -1,
+    "text": "बात ऐसे बनी",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ped-Par-Zevar-Gonu-Jha",
+    "id": 16,
+    "nextListId": -1,
+    "text": "पेड़ पर जेवर",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Shuddh-Mithaai-Ka-Bhoj-Gonu-Jha",
+    "id": 17,
+    "nextListId": -1,
+    "text": "शुद्ध मिठाई का भोज",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Ki-Niyukti-Gonu-Jha",
+    "id": 18,
+    "nextListId": -1,
+    "text": "गोनू झा की नियुक्ति",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Lalach-Buri-Bala-Hai-Bhai-Gonu-Jha",
+    "id": 19,
+    "nextListId": -1,
+    "text": "लालच बुरी बला है भाई !",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Maan-Kali-Ka-Vardan-Gonu-Jha",
+    "id": 20,
+    "nextListId": -1,
+    "text": "माँ काली का वरदान",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Aatishbaji-Ka-Saamaan-Gonu-Jha",
+    "id": 21,
+    "nextListId": -1,
+    "text": "आतिशबाजी का सामान",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bhai-Ko-Seekh-Gonu-Jha",
+    "id": 22,
+    "nextListId": -1,
+    "text": "भाई को सीख",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Apnon-Ka-Sach-Gonu-Jha",
+    "id": 23,
+    "nextListId": -1,
+    "text": "अपनों का सच",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Ko-Mrityu-Dand-Gonu-Jha",
+    "id": 24,
+    "nextListId": -1,
+    "text": "गोनू झा को 'मृत्यु दंड'",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Dhan-Ki-Suraksha-Ka-Karan-Gonu-Jha",
+    "id": 25,
+    "nextListId": -1,
+    "text": "धन की सुरक्षा का कारण",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Ki-Sharan-Mein-Darbari-Gonu-Jha",
+    "id": 26,
+    "nextListId": -1,
+    "text": "गोनू झा की शरण में दरबारी",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Swarg-Se-Wapsi-Gonu-Jha",
+    "id": 27,
+    "nextListId": -1,
+    "text": "स्वर्ग से वापसी",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Dadhi-Ke-Baal-Se-Mukti-Ka-Marg-Gonu-Jha",
+    "id": 28,
+    "nextListId": -1,
+    "text": "दाढ़ी के बाल से मुक्ति का मार्ग",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Magh-Amavasya-Par-Dhele-Ka-Totaka-Gonu-Jha",
+    "id": 29,
+    "nextListId": -1,
+    "text": "माघ अमावस्या पर ढेले का टोटका",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sadhu-Ban-Gaye-Gonu-Jha",
+    "id": 30,
+    "nextListId": -1,
+    "text": "साधु बन गए गोनू झा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Updeshi-Ko-Sabak-Gonu-Jha",
+    "id": 31,
+    "nextListId": -1,
+    "text": "उपदेशी को सबक",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Choron-Ne-Tauba-Kar-Li-Gonu-Jha",
+    "id": 32,
+    "nextListId": -1,
+    "text": "चोरों ने तौबा कर ली",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Khet-Ki-Sinchai-Gonu-Jha",
+    "id": 33,
+    "nextListId": -1,
+    "text": "खेत की सिंचाई",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ankhon-Ki-Taul-Gonu-Jha",
+    "id": 34,
+    "nextListId": -1,
+    "text": "आँखों की तौल",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kanjoos-Raja-Ko-Naseehat-Gonu-Jha",
+    "id": 35,
+    "nextListId": -1,
+    "text": "कंजूस राजा को नसीहत",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Mithila-Se-Choron-Ka-Safaya-Gonu-Jha",
+    "id": 36,
+    "nextListId": -1,
+    "text": "मिथिला से चोरों का सफाया",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Thag-Unmoolan-Abhiyan-Gonu-Jha",
+    "id": 37,
+    "nextListId": -1,
+    "text": "ठग उन्मूलन अभियान",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ganga-Ka-Aashirvad-Gonu-Jha",
+    "id": 38,
+    "nextListId": -1,
+    "text": "गंगा का आशीर्वाद",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kritghan-Prani-Gonu-Jha",
+    "id": 39,
+    "nextListId": -1,
+    "text": "कृतघ्न प्राणी",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ghonu-Jha-Ki-Billi-Wali-Kahani",
+    "id": 40,
+    "nextListId": -1,
+    "text": "दूध से भागने वाली बिल्ली",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Andhon-Ki-Soochi-Mein-Maharaj-Gonu-Jha",
+    "id": 41,
+    "nextListId": -1,
+    "text": "अन्धों की सूची में महाराज",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ath-Shribail-Katha-Gonu-Jha",
+    "id": 42,
+    "nextListId": -1,
+    "text": "अथ श्रीबैल कथा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bauraye-Bhonu-Ka-Bachav-Gonu-Jha",
+    "id": 43,
+    "nextListId": -1,
+    "text": "बौराये भोनू का बचाव",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Dhaan-Ka-Chadhava-Gonu-Jha",
+    "id": 44,
+    "nextListId": -1,
+    "text": "धान का चढ़ावा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Huye-Parajit-Gonu-Jha",
+    "id": 45,
+    "nextListId": -1,
+    "text": "गोनू झा हुए पराजित",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Padosi-Ka-Peedha-Gonu-Jha",
+    "id": 46,
+    "nextListId": -1,
+    "text": "पड़ोसी का पीढ़ा",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Samaan-Vitran-Vyavastha-Gonu-Jha",
+    "id": 47,
+    "nextListId": -1,
+    "text": "समान वितरण व्यवस्था",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Aur-Sachchi-Gapp",
+    "id": 48,
+    "nextListId": -1,
+    "text": "गोनू झा और सच्ची गप्प",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Mare-Gaanv-Ko-Padhe",
+    "id": 49,
+    "nextListId": -1,
+    "text": "गोनू झा मरे! गांव को पढ़े!!",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Gonu-Jha-Ki-Chaturai",
+    "id": 50,
+    "nextListId": -1,
+    "text": "गोनू झा की चतुराई",
+    "data_path": "storyBook/gonu-jha"
+  }
+]

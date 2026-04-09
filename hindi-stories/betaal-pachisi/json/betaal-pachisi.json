@@ -1,0 +1,184 @@
+[
+  {
+    "data_id": "Prarambh-Ki-Kahani-Betal-Pachchisi.php",
+    "id": 0,
+    "nextListId": -1,
+    "text": "प्रारम्भ की कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Pehli-Kahani-Betal-Pachchisi.php",
+    "id": 1,
+    "nextListId": -1,
+    "text": "पापी कौन ? : पहली कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Doosri-Kahani-Betal-Pachchisi.php",
+    "id": 2,
+    "nextListId": -1,
+    "text": "पति कौन ? : दूसरी कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Teesri-Kahani-Betal-Pachchisi.php",
+    "id": 3,
+    "nextListId": -1,
+    "text": "सबसे ज्यादा पुण्य किसका ? : तीसरी कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Chauthi-Kahani-Betal-Pachchisi.php",
+    "id": 4,
+    "nextListId": -1,
+    "text": "ज्यादा पापी कौन ? : चौथी कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Paanchvin-Kahani-Betal-Pachchisi.php",
+    "id": 5,
+    "nextListId": -1,
+    "text": "असली वर कौन? : पाँचवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Chhathi-Kahani-Betal-Pachchisi.php",
+    "id": 6,
+    "nextListId": -1,
+    "text": "पत्नी किसकी ? : छठी कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Saatvin-Kahani-Betal-Pachchisi.php",
+    "id": 7,
+    "nextListId": -1,
+    "text": "किसका पुण्य बड़ा ? : सातवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Aathvin-Kahani-Betal-Pachchisi.php",
+    "id": 8,
+    "nextListId": -1,
+    "text": "सबसे बढ़कर कौन ? : आठवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Navin-Kahani-Betal-Pachchisi.php",
+    "id": 9,
+    "nextListId": -1,
+    "text": "सर्वश्रेष्ठ वर कौन? : नवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Dasvin-Kahani-Betal-Pachchisi.php",
+    "id": 10,
+    "nextListId": -1,
+    "text": "सबसे अधिक त्यागी कौन? : दसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Gyarahvin-Kahani-Betal-Pachchisi.php",
+    "id": 11,
+    "nextListId": -1,
+    "text": "सबसे अधिक सुकुमार कौन? : ग्यारहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Barahvin-Kahani-Betal-Pachchisi.php",
+    "id": 12,
+    "nextListId": -1,
+    "text": "दीवान की मृत्यु क्यूँ ? : बारहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Terahvin-Kahani-Betal-Pachchisi.php",
+    "id": 13,
+    "nextListId": -1,
+    "text": "अपराधी कौन? : तेरहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Chaudahvin-Kahani-Betal-Pachchisi.php",
+    "id": 14,
+    "nextListId": -1,
+    "text": "चोर ज़ोर-ज़ोर से क्यों रोया और फिर हँसा? : चौदहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Pandrahvin-Kahani-Betal-Pachchisi.php",
+    "id": 15,
+    "nextListId": -1,
+    "text": "चुराई चीज़ पर किसका अधिकार? : पन्द्रहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Solahvin-Kahani-Betal-Pachchisi.php",
+    "id": 16,
+    "nextListId": -1,
+    "text": "सबसे बड़ा काम किसका ? : सोलहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Satrahvin-Kahani-Betal-Pachchisi.php",
+    "id": 17,
+    "nextListId": -1,
+    "text": "अधिक साहसी कौन ? : सत्रहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Atharahvin-Kahani-Betal-Pachchisi.php",
+    "id": 18,
+    "nextListId": -1,
+    "text": "विद्या क्यों नष्ट हुई? : अठारहवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Unnisvin-Kahani-Betal-Pachchisi.php",
+    "id": 19,
+    "nextListId": -1,
+    "text": "पिण्ड दान का अधिकारी कौन ? : उन्नीसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Beesvin-Kahani-Betal-Pachchisi.php",
+    "id": 20,
+    "nextListId": -1,
+    "text": "बालक क्यों हँसा? : बीसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Ikkisvin-Kahani-Betal-Pachchisi.php",
+    "id": 21,
+    "nextListId": -1,
+    "text": "सबसे ज्यादा प्रेम में अंधा कौन ? : इक्कीसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Baaisvin-Kahani-Betal-Pachchisi.php",
+    "id": 22,
+    "nextListId": -1,
+    "text": "शेर बनाने का अपराधी कौन? : बाईसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Teisvin-Kahani-Betal-Pachchisi.php",
+    "id": 23,
+    "nextListId": -1,
+    "text": "योगी पहले क्यों रोया, फिर क्यों हँसा? : तेईसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Chaubisvin-Kahani-Betal-Pachchisi.php",
+    "id": 24,
+    "nextListId": -1,
+    "text": "माँ-बेटी के बच्चों में क्या रिश्ता ? : चौबीसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  },
+  {
+    "data_id": "Pachchisvin-Kahani-Betal-Pachchisi.php",
+    "id": 25,
+    "nextListId": -1,
+    "text": "पच्चीसवीं कहानी",
+    "data_path": "storyBook/betaal-pachisi"
+  }
+]

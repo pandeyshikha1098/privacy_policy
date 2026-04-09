@@ -1,0 +1,135 @@
+[
+  {
+    "data_id": "LilySuryakantTripathiNirala",
+    "id": 0,
+    "nextListId": -1,
+    "text": "पद्मा और लिली",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "ChaturiChamarSuryakantTripathiNirala",
+    "id": 1,
+    "nextListId": -1,
+    "text": "चतुरी चमार",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "HirniSuryakantTripathiNirala",
+    "id": 2,
+    "nextListId": -1,
+    "text": "हिरनी",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "ShrimatiGajanandShastriniSuryakantTripathiNirala",
+    "id": 3,
+    "nextListId": -1,
+    "text": "श्रीमती गजानंद शास्त्रिणी (व्यंग्य)",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "BhediaBhediaSuryakantTripathiNirala",
+    "id": 4,
+    "nextListId": -1,
+    "text": "भेड़िया, भेड़िया",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "DoGhadeSuryakantTripathiNirala",
+    "id": 5,
+    "nextListId": -1,
+    "text": "दो घड़े",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "GadhaAurMendhakSuryakantTripathiNirala",
+    "id": 6,
+    "nextListId": -1,
+    "text": "गधा और मेंढक",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "KanjoosAurSonaSuryakantTripathiNirala",
+    "id": 7,
+    "nextListId": -1,
+    "text": "कंजूस और सोना",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "MahavirAurGadiwanSuryakantTripathiNirala",
+    "id": 8,
+    "nextListId": -1,
+    "text": "महावीर और गाड़ीवान",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "SaudagarAurKaptaanSuryakantTripathiNirala",
+    "id": 9,
+    "nextListId": -1,
+    "text": "सौदागर और कप्तान",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "ShikarKoNiklaSherSuryakantTripathiNirala",
+    "id": 10,
+    "nextListId": -1,
+    "text": "शिकार को निकला शेर",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Devi-Suryakant-Tripathi-Nirala",
+    "id": 11,
+    "nextListId": -1,
+    "text": "देवी",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Prempuran-Tarang-Suryakant-Tripathi-Nirala",
+    "id": 12,
+    "nextListId": -1,
+    "text": "प्रेमपूर्ण तरंग",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Bhakt-Aur-Bhagwan-Suryakant-Tripathi-Nirala",
+    "id": 14,
+    "nextListId": -1,
+    "text": "भक्त और भगवान्",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Nyaya-Suryakant-Tripathi-Nirala",
+    "id": 15,
+    "nextListId": -1,
+    "text": "न्याय",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Raja-Sahib-Ko-Thenga-Dikhaya-Suryakant-Tripathi-Nirala",
+    "id": 16,
+    "nextListId": -1,
+    "text": "राजा साहब को ठेंगा दिखाया",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Safalta-Suryakant-Tripathi-Nirala",
+    "id": 17,
+    "nextListId": -1,
+    "text": "सफलता",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Sakhi-Suryakant-Tripathi-Nirala",
+    "id": 18,
+    "nextListId": -1,
+    "text": "सखी",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  },
+  {
+    "data_id": "Swami-Sardanandji-Maharaj-Aur-Main-Suryakant-Tripathi-Nirala",
+    "id": 19,
+    "nextListId": -1,
+    "text": "स्वामी सारदानंदजी महाराज और मैं",
+    "data_path": "storyBook/suryakant-tripathi-nirala"
+  }
+]

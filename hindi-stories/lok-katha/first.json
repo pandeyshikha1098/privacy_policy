@@ -1,0 +1,566 @@
+[
+  {
+    "data_id": "-1",
+    "id": 0,
+    "nextListId": 4001,
+    "text": "afgan"
+  },
+  {
+    "data_id": "-1",
+    "id": 1,
+    "nextListId": 4002,
+    "text": "africa"
+  },
+  {
+    "data_id": "-1",
+    "id": 2,
+    "nextListId": 4003,
+    "text": "albaniya"
+  },
+  {
+    "data_id": "-1",
+    "id": 3,
+    "nextListId": 4004,
+    "text": "america"
+  },
+  {
+    "data_id": "-1",
+    "id": 4,
+    "nextListId": 4005,
+    "text": "andhra"
+  },
+  {
+    "data_id": "-1",
+    "id": 5,
+    "nextListId": 4006,
+    "text": "andman"
+  },
+  {
+    "data_id": "-1",
+    "id": 6,
+    "nextListId": 4007,
+    "text": "armenia"
+  },
+  {
+    "data_id": "-1",
+    "id": 7,
+    "nextListId": 4008,
+    "text": "arunachal"
+  },
+  {
+    "data_id": "-1",
+    "id": 8,
+    "nextListId": 4009,
+    "text": "asia"
+  },
+  {
+    "data_id": "-1",
+    "id": 9,
+    "nextListId": 4010,
+    "text": "assam"
+  },
+  {
+    "data_id": "-1",
+    "id": 10,
+    "nextListId": 4011,
+    "text": "bangladesh"
+  },
+  {
+    "data_id": "-1",
+    "id": 11,
+    "nextListId": 4012,
+    "text": "bengal"
+  },
+  {
+    "data_id": "-1",
+    "id": 12,
+    "nextListId": 4013,
+    "text": "bihar"
+  },
+  {
+    "data_id": "-1",
+    "id": 13,
+    "nextListId": 4014,
+    "text": "british"
+  },
+  {
+    "data_id": "-1",
+    "id": 14,
+    "nextListId": 4015,
+    "text": "bulgaria"
+  },
+  {
+    "data_id": "-1",
+    "id": 15,
+    "nextListId": 4016,
+    "text": "canada"
+  },
+  {
+    "data_id": "-1",
+    "id": 16,
+    "nextListId": 4017,
+    "text": "chattishgarh"
+  },
+  {
+    "data_id": "-1",
+    "id": 17,
+    "nextListId": 4018,
+    "text": "china"
+  },
+  {
+    "data_id": "-1",
+    "id": 18,
+    "nextListId": 4019,
+    "text": "choko"
+  },
+  {
+    "data_id": "-1",
+    "id": 19,
+    "nextListId": 4020,
+    "text": "denmark"
+  },
+  {
+    "data_id": "-1",
+    "id": 20,
+    "nextListId": 4021,
+    "text": "dogri"
+  },
+  {
+    "data_id": "-1",
+    "id": 21,
+    "nextListId": 4022,
+    "text": "ethiopia"
+  },
+  {
+    "data_id": "-1",
+    "id": 22,
+    "nextListId": 4023,
+    "text": "europe"
+  },
+  {
+    "data_id": "-1",
+    "id": 23,
+    "nextListId": 4024,
+    "text": "fiji"
+  },
+  {
+    "data_id": "-1",
+    "id": 24,
+    "nextListId": 4025,
+    "text": "finland"
+  },
+  {
+    "data_id": "-1",
+    "id": 25,
+    "nextListId": 4026,
+    "text": "france"
+  },
+  {
+    "data_id": "-1",
+    "id": 26,
+    "nextListId": 4027,
+    "text": "germany"
+  },
+  {
+    "data_id": "-1",
+    "id": 27,
+    "nextListId": 4028,
+    "text": "goa"
+  },
+  {
+    "data_id": "-1",
+    "id": 28,
+    "nextListId": 4029,
+    "text": "greece"
+  },
+  {
+    "data_id": "-1",
+    "id": 29,
+    "nextListId": 4030,
+    "text": "gujrat"
+  },
+  {
+    "data_id": "-1",
+    "id": 30,
+    "nextListId": 4031,
+    "text": "haryana"
+  },
+  {
+    "data_id": "-1",
+    "id": 31,
+    "nextListId": 4032,
+    "text": "himanchal"
+  },
+  {
+    "data_id": "-1",
+    "id": 32,
+    "nextListId": 4033,
+    "text": "hindi-lok-katha"
+  },
+  {
+    "data_id": "-1",
+    "id": 33,
+    "nextListId": 4034,
+    "text": "holand"
+  },
+  {
+    "data_id": "-1",
+    "id": 34,
+    "nextListId": 4035,
+    "text": "iceland"
+  },
+  {
+    "data_id": "-1",
+    "id": 35,
+    "nextListId": 4036,
+    "text": "indonesia"
+  },
+  {
+    "data_id": "-1",
+    "id": 36,
+    "nextListId": 4037,
+    "text": "iran"
+  },
+  {
+    "data_id": "-1",
+    "id": 37,
+    "nextListId": 4038,
+    "text": "iraq"
+  },
+  {
+    "data_id": "-1",
+    "id": 38,
+    "nextListId": 4039,
+    "text": "israel"
+  },
+  {
+    "data_id": "-1",
+    "id": 39,
+    "nextListId": 4040,
+    "text": "italy"
+  },
+  {
+    "data_id": "-1",
+    "id": 40,
+    "nextListId": 4041,
+    "text": "japan"
+  },
+  {
+    "data_id": "-1",
+    "id": 41,
+    "nextListId": 4042,
+    "text": "jharkhand"
+  },
+  {
+    "data_id": "-1",
+    "id": 42,
+    "nextListId": 4043,
+    "text": "karnataka"
+  },
+  {
+    "data_id": "-1",
+    "id": 43,
+    "nextListId": 4044,
+    "text": "kashmir"
+  },
+  {
+    "data_id": "-1",
+    "id": 44,
+    "nextListId": 4045,
+    "text": "kerala"
+  },
+  {
+    "data_id": "-1",
+    "id": 45,
+    "nextListId": 4046,
+    "text": "korea"
+  },
+  {
+    "data_id": "-1",
+    "id": 46,
+    "nextListId": 4047,
+    "text": "latvia"
+  },
+  {
+    "data_id": "-1",
+    "id": 47,
+    "nextListId": 4048,
+    "text": "lebnon"
+  },
+  {
+    "data_id": "-1",
+    "id": 48,
+    "nextListId": 4049,
+    "text": "liberia"
+  },
+  {
+    "data_id": "-1",
+    "id": 49,
+    "nextListId": 4050,
+    "text": "maalwa"
+  },
+  {
+    "data_id": "-1",
+    "id": 50,
+    "nextListId": 4051,
+    "text": "maharashtra"
+  },
+  {
+    "data_id": "-1",
+    "id": 51,
+    "nextListId": 4052,
+    "text": "maithili"
+  },
+  {
+    "data_id": "-1",
+    "id": 52,
+    "nextListId": 4053,
+    "text": "malesia"
+  },
+  {
+    "data_id": "-1",
+    "id": 53,
+    "nextListId": 4054,
+    "text": "manipur"
+  },
+  {
+    "data_id": "-1",
+    "id": 54,
+    "nextListId": 4055,
+    "text": "maurisas"
+  },
+  {
+    "data_id": "-1",
+    "id": 55,
+    "nextListId": 4056,
+    "text": "meghalaya"
+  },
+  {
+    "data_id": "-1",
+    "id": 56,
+    "nextListId": 4057,
+    "text": "mexico"
+  },
+  {
+    "data_id": "-1",
+    "id": 57,
+    "nextListId": 4058,
+    "text": "mijoram"
+  },
+  {
+    "data_id": "-1",
+    "id": 58,
+    "nextListId": 4059,
+    "text": "misra"
+  },
+  {
+    "data_id": "-1",
+    "id": 59,
+    "nextListId": 4060,
+    "text": "mp"
+  },
+  {
+    "data_id": "-1",
+    "id": 60,
+    "nextListId": 4061,
+    "text": "nagaland"
+  },
+  {
+    "data_id": "-1",
+    "id": 61,
+    "nextListId": 4062,
+    "text": "nepal"
+  },
+  {
+    "data_id": "-1",
+    "id": 62,
+    "nextListId": 4063,
+    "text": "newzeland"
+  },
+  {
+    "data_id": "-1",
+    "id": 63,
+    "nextListId": 4064,
+    "text": "norway"
+  },
+  {
+    "data_id": "-1",
+    "id": 64,
+    "nextListId": 4065,
+    "text": "odisha"
+  },
+  {
+    "data_id": "-1",
+    "id": 65,
+    "nextListId": 4066,
+    "text": "pakistan"
+  },
+  {
+    "data_id": "-1",
+    "id": 66,
+    "nextListId": 4067,
+    "text": "peru"
+  },
+  {
+    "data_id": "-1",
+    "id": 67,
+    "nextListId": 4068,
+    "text": "philippines"
+  },
+  {
+    "data_id": "-1",
+    "id": 68,
+    "nextListId": 4069,
+    "text": "poland"
+  },
+  {
+    "data_id": "-1",
+    "id": 69,
+    "nextListId": 4070,
+    "text": "portgal"
+  },
+  {
+    "data_id": "-1",
+    "id": 70,
+    "nextListId": 4071,
+    "text": "punjab"
+  },
+  {
+    "data_id": "-1",
+    "id": 71,
+    "nextListId": 4072,
+    "text": "rajasthan"
+  },
+  {
+    "data_id": "-1",
+    "id": 72,
+    "nextListId": 4073,
+    "text": "romania"
+  },
+  {
+    "data_id": "-1",
+    "id": 73,
+    "nextListId": 4074,
+    "text": "russia"
+  },
+  {
+    "data_id": "-1",
+    "id": 74,
+    "nextListId": 4075,
+    "text": "santhali"
+  },
+  {
+    "data_id": "-1",
+    "id": 75,
+    "nextListId": 4076,
+    "text": "sikkim"
+  },
+  {
+    "data_id": "-1",
+    "id": 76,
+    "nextListId": 4077,
+    "text": "spane"
+  },
+  {
+    "data_id": "-1",
+    "id": 77,
+    "nextListId": 4078,
+    "text": "srilanka"
+  },
+  {
+    "data_id": "-1",
+    "id": 78,
+    "nextListId": 4079,
+    "text": "sweden"
+  },
+  {
+    "data_id": "-1",
+    "id": 79,
+    "nextListId": 4080,
+    "text": "switzerland"
+  },
+  {
+    "data_id": "-1",
+    "id": 80,
+    "nextListId": 4081,
+    "text": "taiwan"
+  },
+  {
+    "data_id": "-1",
+    "id": 81,
+    "nextListId": 4082,
+    "text": "tamil"
+  },
+  {
+    "data_id": "-1",
+    "id": 82,
+    "nextListId": 4083,
+    "text": "telangana"
+  },
+  {
+    "data_id": "-1",
+    "id": 83,
+    "nextListId": 4084,
+    "text": "tibbat"
+  },
+  {
+    "data_id": "-1",
+    "id": 84,
+    "nextListId": 4085,
+    "text": "tripura"
+  },
+  {
+    "data_id": "-1",
+    "id": 85,
+    "nextListId": 4086,
+    "text": "turkey"
+  },
+  {
+    "data_id": "-1",
+    "id": 86,
+    "nextListId": 4087,
+    "text": "ujbek"
+  },
+  {
+    "data_id": "-1",
+    "id": 87,
+    "nextListId": 4088,
+    "text": "uk"
+  },
+  {
+    "data_id": "-1",
+    "id": 88,
+    "nextListId": 4089,
+    "text": "ukrain"
+  },
+  {
+    "data_id": "-1",
+    "id": 89,
+    "nextListId": 4090,
+    "text": "up"
+  },
+  {
+    "data_id": "-1",
+    "id": 90,
+    "nextListId": 4091,
+    "text": "varma"
+  },
+  {
+    "data_id": "-1",
+    "id": 91,
+    "nextListId": 4092,
+    "text": "veitnam"
+  },
+  {
+    "data_id": "-1",
+    "id": 92,
+    "nextListId": 4093,
+    "text": "yugoslavia"
+  },
+  {
+    "data_id": "-1",
+    "id": 93,
+    "nextListId": 4094,
+    "text": "zanzibar"
+  }
+]

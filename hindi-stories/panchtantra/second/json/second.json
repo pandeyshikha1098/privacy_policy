@@ -1,0 +1,37 @@
+[
+  {
+    "data_id": "SadhuAurChoohaPanchtantra",
+    "id": 0,
+    "nextListId": -1,
+    "text": "साधु और चूहा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/second"
+  },
+  {
+    "data_id": "Gajraj-Aur-Mooshakraj-Panchtantra",
+    "id": 1,
+    "nextListId": -1,
+    "text": "गजराज और मूषकराज : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/second"
+  },
+  {
+    "data_id": "Brahmani-Aur-Til-Ke-Beej-Panchtantra",
+    "id": 2,
+    "nextListId": -1,
+    "text": "ब्राह्मणी और तिल के बीज : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/second"
+  },
+  {
+    "data_id": "Vyapari-Ke-Putra-Ki-Kahani-Panchtantra",
+    "id": 3,
+    "nextListId": -1,
+    "text": "व्यापारी के पुत्र की कहानी : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/second"
+  },
+  {
+    "data_id": "Abhaga-Bunkar-Panchtantra",
+    "id": 4,
+    "nextListId": -1,
+    "text": "अभागा-बुनकर : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/second"
+  }
+]

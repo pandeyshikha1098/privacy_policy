@@ -1,0 +1,100 @@
+[
+  {
+    "data_id": "Sati-Sarat-Chandra-Chattopadhyay",
+    "id": 0,
+    "nextListId": -1,
+    "text": "सती ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Balakon-Ka-Chor-Sarat-Chandra-Chattopadhyay",
+    "id": 1,
+    "nextListId": -1,
+    "text": "बालकों का चोर ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Devdhar-Ki-Smritiyan-Sarat-Chandra-Chattopadhyay",
+    "id": 2,
+    "nextListId": -1,
+    "text": "देवधर की स्मृतियाँ ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Abhagi-Ka-Swarg-Sarat-Chandra-Chattopadhyay",
+    "id": 3,
+    "nextListId": -1,
+    "text": "अभागी का स्वर्ग ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Anupama-Ka-Prem-Sarat-Chandra-Chattopadhyay",
+    "id": 4,
+    "nextListId": -1,
+    "text": "अनुपमा का प्रेम ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Mandir-Sarat-Chandra-Chattopadhyay",
+    "id": 5,
+    "nextListId": -1,
+    "text": "मन्दिर ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Balya-Smriti-Sarat-Chandra-Chattopadhyay",
+    "id": 6,
+    "nextListId": -1,
+    "text": "बाल्य-स्मृति ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Haricharan-Sarat-Chandra-Chattopadhyay",
+    "id": 7,
+    "nextListId": -1,
+    "text": "हरिचरण ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Vilasi-Sarat-Chandra-Chattopadhyay",
+    "id": 8,
+    "nextListId": -1,
+    "text": "विलासी ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Bhala-Bura-Sarat-Chandra-Chattopadhyay",
+    "id": 9,
+    "nextListId": -1,
+    "text": "भला बुरा ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Raju-Ka-Saahas-Sarat-Chandra-Chattopadhyay",
+    "id": 10,
+    "nextListId": -1,
+    "text": "राजू का साहस ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Andhere-Mein-Ujala-Sarat-Chandra-Chattopadhyay",
+    "id": 11,
+    "nextListId": -1,
+    "text": "अँधेरे में उजाला ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Guru-Ji-Sarat-Chandra-Chattopadhyay",
+    "id": 12,
+    "nextListId": -1,
+    "text": "गुरुजी ",
+    "data_path": "storyBook/sharatchandra"
+  },
+  {
+    "data_id": "Bali-Ka-Bakra-Sarat-Chandra-Chattopadhyay",
+    "id": 13,
+    "nextListId": -1,
+    "text": "बलि का बकरा ",
+    "data_path": "storyBook/sharatchandra"
+  }
+]

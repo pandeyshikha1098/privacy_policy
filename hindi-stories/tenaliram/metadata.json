@@ -1,0 +1,212 @@
+[
+  {
+    "data_id": "Biography-Tenali-Raman",
+    "id": 0,
+    "nextListId": -1,
+    "text": "जीवन परिचय",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Achha-Tu-Maan-Se-Bhi-Majak-Karega-Tenali-Raman",
+    "id": 1,
+    "nextListId": -1,
+    "text": "अच्छा, तू माँ से भी मजाक करेगा ?",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Heeron-Ka-Sach-Tenali-Raman",
+    "id": 2,
+    "nextListId": -1,
+    "text": "हीरों का सच",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Subba-Shastri-Ko-Sabak-Mila-Tenali-Raman",
+    "id": 3,
+    "nextListId": -1,
+    "text": "सुब्बा शास्त्री को सबक मिला",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Brahmin-Kiski-Pooja-Kare-Tenali-Raman",
+    "id": 4,
+    "nextListId": -1,
+    "text": "ब्राह्मण किसकी पूजा करे",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Antim-Ichchha-Tenali-Raman",
+    "id": 5,
+    "nextListId": -1,
+    "text": "अन्तिम इच्छा",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Lal-Mor-Tenali-Raman",
+    "id": 6,
+    "nextListId": -1,
+    "text": "लाल मोर",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Mahamoorakh-Tenali-Raman",
+    "id": 7,
+    "nextListId": -1,
+    "text": "महामूर्ख",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Padosi-Raja-Tenali-Raman",
+    "id": 8,
+    "nextListId": -1,
+    "text": "पड़ोसी राजा",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Angoothi-Chor-Tenali-Raman",
+    "id": 9,
+    "nextListId": -1,
+    "text": "अंगूठी चोर",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Jadugar-Ka-Ghamand-Tenali-Raman",
+    "id": 10,
+    "nextListId": -1,
+    "text": "जादूगर का घमंड",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Kuchh-Nahin-Tenali-Raman",
+    "id": 11,
+    "nextListId": -1,
+    "text": "कुछ नहीं",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Babapur-Ki-Ramlila-Tenali-Raman",
+    "id": 12,
+    "nextListId": -1,
+    "text": "बाबापुर की रामलीला",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Beshkeemti-Phooldan-Tenali-Raman",
+    "id": 13,
+    "nextListId": -1,
+    "text": "बेशकीमती फूलदान",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Maut-Ki-Saja-Tenali-Raman",
+    "id": 14,
+    "nextListId": -1,
+    "text": "मौत की सजा",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Neelketu-Aur-Tenaliram-Tenali-Raman",
+    "id": 15,
+    "nextListId": -1,
+    "text": "नीलकेतु और तेनालीराम",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Rang-Birange-Nakhun-Tenali-Raman",
+    "id": 16,
+    "nextListId": -1,
+    "text": "रंग-बिरंगे नाखून",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Kauvon-Ki-Ginati-Tenali-Raman",
+    "id": 17,
+    "nextListId": -1,
+    "text": "कौवों की गिनती",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Manhoos-Kaun-Tenali-Raman",
+    "id": 18,
+    "nextListId": -1,
+    "text": "मनहूस कौन ?",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Rajguru-Ki-Chaal-Tenali-Raman",
+    "id": 19,
+    "nextListId": -1,
+    "text": "राजगुरु की चाल",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Rishvat-Ka-Khel-Tenali-Raman",
+    "id": 20,
+    "nextListId": -1,
+    "text": "रिश्वत का खेल",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Tenaliram-Ki-Khoj-Tenali-Raman",
+    "id": 21,
+    "nextListId": -1,
+    "text": "तेनालीराम की खोज",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Tenaliram-Matke-Mein-Tenali-Raman",
+    "id": 22,
+    "nextListId": -1,
+    "text": "तेनालीराम मटके में",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Saat-Joote-Marne-Wali-Chameli-Tenali-Raman",
+    "id": 23,
+    "nextListId": -1,
+    "text": "सात जूते मारने वाली चमेली",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Tenaliram-Ki-Manpasand-Mithai-Tenali-Raman",
+    "id": 24,
+    "nextListId": -1,
+    "text": "तेनालीराम की मनपसन्द मिठाई",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Boorha-Bhikhari-Aur-Krishnadevaraya-Tenali-Raman",
+    "id": 25,
+    "nextListId": -1,
+    "text": "बूढ़ा भिखारी और महाराज कृष्णदेवराय की उदारता",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Doodh-Na-Peene-Wali-Billi-Tenali-Raman",
+    "id": 26,
+    "nextListId": -1,
+    "text": "दूध न पीने वाली बिल्ली",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Nali-Ka-Kamaal-Tenali-Raman",
+    "id": 27,
+    "nextListId": -1,
+    "text": "नली का कमाल",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Mrityu-Dand-Ki-Dhamki-Tenali-Raman",
+    "id": 28,
+    "nextListId": -1,
+    "text": "मृत्युदंड की धमकी",
+    "data_path": "storyBook/tenaliram"
+  },
+  {
+    "data_id": "Rang-Birangi-Mithaiyan-Tenali-Raman",
+    "id": 29,
+    "nextListId": -1,
+    "text": "रंग-बिरंगी मिठाइयां",
+    "data_path": "storyBook/tenaliram"
+  }
+]

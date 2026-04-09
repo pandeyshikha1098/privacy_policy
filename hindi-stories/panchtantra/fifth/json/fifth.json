@@ -1,0 +1,93 @@
+[
+  {
+    "data_id": "Hamesha-Soch-Samajh-Kar-Kaam-Karo-Panchtantra",
+    "id": 0,
+    "nextListId": -1,
+    "text": "प्रारंभ की कथा-अपरीक्षितकारकम् : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Brahmani-Aur-Nevla-Panchtantra",
+    "id": 1,
+    "nextListId": -1,
+    "text": "ब्राह्मणी और नेवला : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Mastak-Par-Chakra-Panchtantra",
+    "id": 2,
+    "nextListId": -1,
+    "text": "मस्तक पर चक्र : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Jab-Sher-Ji-Utha-Panchtantra",
+    "id": 3,
+    "nextListId": -1,
+    "text": "जब शेर जी उठा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Char-Moorakh-Pandit-Panchtantra",
+    "id": 4,
+    "nextListId": -1,
+    "text": "चार मूर्ख पंडित : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Sangeetmay-Gadha-Panchtantra",
+    "id": 6,
+    "nextListId": -1,
+    "text": "संगीतमय गधा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Do-Sir-Wala-Julaha-Panchtantra",
+    "id": 7,
+    "nextListId": -1,
+    "text": "दो सिर वाला जुलाहा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Brahman-Ka-Sapna-Panchtantra",
+    "id": 8,
+    "nextListId": -1,
+    "text": "ब्राह्मण का सपना : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Vanarraj-Ka-Badla-Panchtantra",
+    "id": 9,
+    "nextListId": -1,
+    "text": "वानरराज का बदला : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Rakshas-Ka-Bhay-Panchtantra",
+    "id": 10,
+    "nextListId": -1,
+    "text": "राक्षस का भय : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Andha-Kubda-Aur-Tristani-Panchtantra",
+    "id": 11,
+    "nextListId": -1,
+    "text": "अंधा, कुबड़ा और त्रिस्तनी : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Do-Sir-Wala-Pakshi-Panchtantra",
+    "id": 12,
+    "nextListId": -1,
+    "text": "दो सिर वाला पक्षी : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  },
+  {
+    "data_id": "Brahman-Karkatak-Katha-Panchtantra",
+    "id": 13,
+    "nextListId": -1,
+    "text": "ब्राह्मण-कर्कटक कथा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/fifth"
+  }
+]

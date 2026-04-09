@@ -1,0 +1,520 @@
+[
+  {
+    "data_id": "Bhoomika-Alif-Laila.php",
+    "id": 0,
+    "nextListId": -1,
+    "text": "भूमिका : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Shaharyar-Aur-Shahjaman-Ki-Kahani-Alif-Laila.php",
+    "id": 1,
+    "nextListId": -1,
+    "text": "शहरयार और शाहजमाँ की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Gadhe-Bail-Aur-Unke-Malik-Ka-Alif-Laila.php",
+    "id": 2,
+    "nextListId": -1,
+    "text": "किस्सा गधे, बैल और उनके मालिक का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Vyapari-Aur-Daitya-Ka-Alif-Laila.php",
+    "id": 3,
+    "nextListId": -1,
+    "text": "किस्सा व्यापारी और दैत्य का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Boodhe-Aur-Uski-Hirni-Ka-Alif-Laila.php",
+    "id": 4,
+    "nextListId": -1,
+    "text": "किस्सा बूढ़े और उसकी हिरनी का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Doosre-Boodhe-Ka-Alif-Laila.php",
+    "id": 5,
+    "nextListId": -1,
+    "text": "किस्सा दूसरे बूढ़े का जिसके पास दो काले कुत्ते थे : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Teesre-Boodhe-Ka-Alif-Laila.php",
+    "id": 6,
+    "nextListId": -1,
+    "text": "किस्सा तीसरे बूढ़े का जिसके साथ एक खच्चर था : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Machhuware-Ki-Kahani-Alif-Laila.php",
+    "id": 7,
+    "nextListId": -1,
+    "text": "मछुवारे की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Greek-Badshah-Aur-Hakeem-Dooban-Ki-Katha-Alif-Laila.php",
+    "id": 8,
+    "nextListId": -1,
+    "text": "गरीक बादशाह और हकीम दूबाँ की कथा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bhadra-Purush-Aur-Uske-Tote-Ki-Katha-Alif-Laila.php",
+    "id": 9,
+    "nextListId": -1,
+    "text": "भद्र पुरुष और उसके तोते की कथा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Amatya-Ki-Kahani-Alif-Laila.php",
+    "id": 10,
+    "nextListId": -1,
+    "text": "अमात्य की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kaale-Dveepon-Ke-Badshah-Ki-Kahani-Alif-Laila.php",
+    "id": 11,
+    "nextListId": -1,
+    "text": "काले द्वीपों के बादशाह की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Teen-Rajkumaron-Aur-Paanch-Sundriyon-Ka-Alif-Laila.php",
+    "id": 12,
+    "nextListId": -1,
+    "text": "किस्सा तीन राजकुमारों और पाँच सुंदरियों का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Majdoor-Ka-Sankshipt-Vritaant-Alif-Laila.php",
+    "id": 13,
+    "nextListId": -1,
+    "text": "मजदूर का संक्षिप्त वृत्तांत : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Pehle-Fakeer-Ki-Kahani-Alif-Laila.php",
+    "id": 14,
+    "nextListId": -1,
+    "text": "पहले फकीर की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Doosre-Fakeer-Ki-Kahani-Alif-Laila.php",
+    "id": 15,
+    "nextListId": -1,
+    "text": "दूसरे फकीर की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bhale-Aadmi-Aur-Irshalu-Purush-Ki-Kahani-Alif-Laila.php",
+    "id": 16,
+    "nextListId": -1,
+    "text": "भले आदमी और ईर्ष्यालु पुरुष की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Teesre-Fakeer-Ka-Alif-Laila.php",
+    "id": 17,
+    "nextListId": -1,
+    "text": "किस्सा तीसरे फकीर का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Jubaida-Ka-Alif-Laila.php",
+    "id": 18,
+    "nextListId": -1,
+    "text": "किस्सा जुबैदा का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kissa-Ameena-Ka-Alif-Laila.php",
+    "id": 19,
+    "nextListId": -1,
+    "text": "किस्सा अमीना का : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Kahani-Alif-Laila.php",
+    "id": 20,
+    "nextListId": -1,
+    "text": "सिंदबाज जहाजी की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Pehli-Yatra-Alif-Laila.php",
+    "id": 21,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की पहली यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Doosri-Yatra-Alif-Laila.php",
+    "id": 22,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की दूसरी यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Teesri-Yatra-Alif-Laila.php",
+    "id": 23,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की तीसरी यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Chauthi-Yatra-Alif-Laila.php",
+    "id": 24,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की चौथी यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Paanchvin-Yatra-Alif-Laila.php",
+    "id": 25,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की पाँचवी यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Chhathi-Yatra-Alif-Laila.php",
+    "id": 26,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की छठी यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sindbad-Jahaji-Ki-Saatvin-Yatra-Alif-Laila.php",
+    "id": 27,
+    "nextListId": -1,
+    "text": "सिंदबाद जहाजी की सातवीं यात्रा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ek-Stree-Aur-Teen-Naukar-Alif-Laila.php",
+    "id": 28,
+    "nextListId": -1,
+    "text": "एक स्त्री और तीन नौकरों का वृत्तांत : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Jawan-Aur-Mrit-Stree-Ki-Kahani-Alif-Laila.php",
+    "id": 29,
+    "nextListId": -1,
+    "text": "जवान और मृत स्त्री की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nooruddin-Ali-Aur-Badruddin-Hasan-Ki-Kahani-Alif-Laila.php",
+    "id": 30,
+    "nextListId": -1,
+    "text": "नूरुद्दीन अली और बदरुद्दीन हसन की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kashgar-Ka-Darji-Alif-Laila.php",
+    "id": 31,
+    "nextListId": -1,
+    "text": "काशगर के दरजी और बादशाह के कुबड़े सेवक की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Isaai-Dwara-Sunai-Gai-Kahani-Alif-Laila.php",
+    "id": 32,
+    "nextListId": -1,
+    "text": "ईसाई द्वारा सुनाई गई कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Anaaj-Ke-Vyapari-Ki-Kahani-Alif-Laila.php",
+    "id": 33,
+    "nextListId": -1,
+    "text": "अनाज के व्यापारी की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Charon-Angoothe-Kate-Wala-Aadmi-Alif-Laila.php",
+    "id": 34,
+    "nextListId": -1,
+    "text": "उस आदमी की कहानी जिसके चारों अँगूठे कटे थे : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Yahudi-Hakeem-Dwara-Varnit-Kahani-Alif-Laila.php",
+    "id": 35,
+    "nextListId": -1,
+    "text": "यहूदी हकीम द्वारा वर्णित कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kashgar-Ke-Badshah-Ke-Saamne-Darji-Ki-Katha-Alif-Laila.php",
+    "id": 36,
+    "nextListId": -1,
+    "text": "काशगर के बादशाह के सामने दरजी की कथा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Langde-Aadmi-Ki-Kahani-Alif-Laila.php",
+    "id": 37,
+    "nextListId": -1,
+    "text": "लँगड़े आदमी की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Darji-Ki-Jabani-Nai-Ki-Kahani-Alif-Laila.php",
+    "id": 38,
+    "nextListId": -1,
+    "text": "दरजी की जबानी नाई की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nai-Ke-Kubde-Bhai-Ki-Kahani-Alif-Laila.php",
+    "id": 39,
+    "nextListId": -1,
+    "text": "नाई के कुबड़े भाई की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nai-Ke-Doosre-Bhai-Bakbarah-Ki-Kahani-Alif-Laila.php",
+    "id": 40,
+    "nextListId": -1,
+    "text": "नाई के दूसरे भाई बकबारह की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nai-Ke-Teesre-Bhai-Andhe-Boobak-Ki-Kahani-Alif-Laila.php",
+    "id": 41,
+    "nextListId": -1,
+    "text": "नाई के तीसरे भाई अंधे बूबक की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nai-Ke-Chauthe-Bhai-Kaane-Alkooj-Ki-Kahani-Alif-Laila.php",
+    "id": 42,
+    "nextListId": -1,
+    "text": "नाई के चौथे भाई काने अलकूज की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nai-Ke-Paanchven-Bhai-Alansachar-Ki-Kahani-Alif-Laila.php",
+    "id": 43,
+    "nextListId": -1,
+    "text": "नाई के पाँचवें भाई अलनसचर की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nai-Ke-Chhathe-Bhai-Kabak-Ki-Kahani-Alif-Laila.php",
+    "id": 44,
+    "nextListId": -1,
+    "text": "नाई के छठे भाई कबक की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Shahzada-Abul-Hasan-Aur-Haroon-Rashid-Ki-Preyasi-Alif-Laila.php",
+    "id": 45,
+    "nextListId": -1,
+    "text": "शहजादा अबुल हसन और हारूँ रशीद की प्रेयसी शमसुन्निहार : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kamarujjaman-Aur-Badaura-Alif-Laila.php",
+    "id": 46,
+    "nextListId": -1,
+    "text": "कमरुज्जमाँ और बदौरा की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Nooruddin-Aur-Paras-Desh-Ki-Dasi-Alif-Laila.php",
+    "id": 47,
+    "nextListId": -1,
+    "text": "नूरुद्दीन और पारस देश की दासी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Irani-Badshah-Badar-Aur-Shammdal-Ki-Shahjadi-Alif-Laila.php",
+    "id": 48,
+    "nextListId": -1,
+    "text": "ईरानी बादशाह बद्र और शमंदाल की शहजादी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Ganeem-Aur-Fitna-Alif-Laila.php",
+    "id": 49,
+    "nextListId": -1,
+    "text": "गनीम और फितना की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Shahjada-Jainussanam-Aur-Jinnon-Ka-Badshah-Alif-Laila.php",
+    "id": 50,
+    "nextListId": -1,
+    "text": "शहजादा जैनुस्सनम और जिन्नों के बादशाह की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Shahjada-Khudadad-Aur-Dariabar-Ki-Shahjadi-Alif-Laila.php",
+    "id": 51,
+    "nextListId": -1,
+    "text": "शहजादा खुदादाद और दरियाबार की शहजादी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Dariabar-Ki-Shahjadi-Alif-Laila.php",
+    "id": 52,
+    "nextListId": -1,
+    "text": "दरियाबार की शहजादी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Sota-Jagta-Aadmi-Alif-Laila.php",
+    "id": 53,
+    "nextListId": -1,
+    "text": "सोते-जागते आदमी की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Aladdin-Aur-Jadui-Chirag-Alif-Laila.php",
+    "id": 54,
+    "nextListId": -1,
+    "text": "अलादीन और जादुई चिराग : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Khalifa-Haroon-Rashid-Aur-Baba-Abdulla-Alif-Laila.php",
+    "id": 55,
+    "nextListId": -1,
+    "text": "खलीफा हारूँ रशीद और बाबा अब्दुल्ला : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Andha-Baba-Abdulla-Alif-Laila.php",
+    "id": 56,
+    "nextListId": -1,
+    "text": "अंधे बाबा अब्दुल्ला की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Seedi-Noman-Alif-Laila.php",
+    "id": 57,
+    "nextListId": -1,
+    "text": "सीदी नोमान की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Khwaja-Hasan-Hawwal-Alif-Laila.php",
+    "id": 58,
+    "nextListId": -1,
+    "text": "ख्वाजा हसन हव्वाल की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Alibaba-Aur-Chalis-Chor-Alif-Laila.php",
+    "id": 59,
+    "nextListId": -1,
+    "text": "अलीबाबा और चालीस लुटेरों की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bagdad-Ka-Vyapari-Ali-Khwaja-Alif-Laila.php",
+    "id": 60,
+    "nextListId": -1,
+    "text": "बगदाद के व्यापारी अली ख्वाजा की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Yantra-Ka-Ghoda-Alif-Laila.php",
+    "id": 61,
+    "nextListId": -1,
+    "text": "यंत्र के घोड़े की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Shahjada-Ahmad-Aur-Paribanu-Alif-Laila.php",
+    "id": 62,
+    "nextListId": -1,
+    "text": "शहजादा अहमद और परीबानू : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Irshyalu-Bahnon-Ki-Kahani-Alif-Laila.php",
+    "id": 63,
+    "nextListId": -1,
+    "text": "ईर्ष्यालु बहनों की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bail-Aur-Gadha-Arabian-Nights.php",
+    "id": 0,
+    "nextListId": -1,
+    "text": "बैल और गधा : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Bhediye-Aur-Lomade-Ki-Kahani-Arabian-Nights.php",
+    "id": 1,
+    "nextListId": -1,
+    "text": "भेड़िये और लोमड़े की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Lomade-Aur-Kauve-Ki-Kahani-Arabian-Nights.php",
+    "id": 2,
+    "nextListId": -1,
+    "text": "लोमड़े और कौए की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Saahi-Aur-Kabootar-Arabian-Nights.php",
+    "id": 3,
+    "nextListId": -1,
+    "text": "साही और कबूतर : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Batakh-Aur-Kachhue-Ki-Kahani-Arabian-Nights.php",
+    "id": 4,
+    "nextListId": -1,
+    "text": "बतख और कछुए की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Chuhiya-Aur-Tataiye-Ki-Kahani-Arabian-Nights.php",
+    "id": 5,
+    "nextListId": -1,
+    "text": "चुहिया और एक ततैये की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Kaua-Aur-Billa-Arabian-Nights.php",
+    "id": 6,
+    "nextListId": -1,
+    "text": "कौआ और बिल्ला : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Chida-Aur-Mor-Arabian-Nights.php",
+    "id": 7,
+    "nextListId": -1,
+    "text": "चिड़ा और मोर : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Murge-Aur-Lomade-Ki-Kahani-Arabian-Nights.php",
+    "id": 8,
+    "nextListId": -1,
+    "text": "मुर्गे  और लोमड़े की कहानी : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "Chidiyen-Janwar-Aur-Badhayi-Arabian-Nights.php",
+    "id": 9,
+    "nextListId": -1,
+    "text": "चिड़ियें, जानवर और बढ़ई : अलिफ लैला",
+    "data_path": "storyBook/gonu-jha"
+  }
+]

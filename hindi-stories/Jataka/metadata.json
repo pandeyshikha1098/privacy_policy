@@ -1,0 +1,562 @@
+[
+  {
+    "data_id": "Parichay-Jataka-Kathayen.php",
+    "id": 0,
+    "nextListId": -1,
+    "text": "परिचय जातक कथाएँ",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Chand-Par-Khargosh-Jataka-Katha.php",
+    "id": 1,
+    "nextListId": -1,
+    "text": "चाँद पर खरगोश",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Buddhi-Ka-Chamatkar-Jataka-Katha.php",
+    "id": 2,
+    "nextListId": -1,
+    "text": "बुद्धि का चमत्कार",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Do-Hanson-Ki-Kahani-Jataka-Katha.php",
+    "id": 3,
+    "nextListId": -1,
+    "text": "दो हंसों की कहानी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Buddhiman-Vaanar-Jataka-Katha.php",
+    "id": 4,
+    "nextListId": -1,
+    "text": "बुद्धिमान् वानर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Chhaddanta-Hathi-Jataka-Katha.php",
+    "id": 5,
+    "nextListId": -1,
+    "text": "छद्दन्त हाथी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Ullu-Ka-Rajyabhishek-Jataka-Katha.php",
+    "id": 6,
+    "nextListId": -1,
+    "text": "उल्लू का राज्याभिषेक",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Bandar-Ka-Hridya-Jataka-Katha.php",
+    "id": 7,
+    "nextListId": -1,
+    "text": "बंदर का हृदय",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Buddhiman-Murga-Jataka-Katha.php",
+    "id": 8,
+    "nextListId": -1,
+    "text": "बुद्धिमान् मुर्गा",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Chamde-Ki-Dhoti-Jataka-Katha.php",
+    "id": 9,
+    "nextListId": -1,
+    "text": "चमड़े की धोती",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Daanav-Kekda-Jataka-Katha.php",
+    "id": 10,
+    "nextListId": -1,
+    "text": "दानव-केकड़ा",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Isisang-Ka-Pralobhan-Jataka-Katha.php",
+    "id": 11,
+    "nextListId": -1,
+    "text": "इसिसंग का प्रलोभन",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Daitya-Ka-Sandook-Jataka-Katha.php",
+    "id": 12,
+    "nextListId": -1,
+    "text": "दैत्य का संदूक",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Baveru-Dweep-Jataka-Katha.php",
+    "id": 13,
+    "nextListId": -1,
+    "text": "बावेरु द्वीप",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Champeyya-Naag-Jataka-Katha.php",
+    "id": 14,
+    "nextListId": -1,
+    "text": "चंपेय्य नाग",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Ghatkumar-Jataka-Katha.php",
+    "id": 15,
+    "nextListId": -1,
+    "text": "घतकुमार",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Aam-Chor-Jataka-Katha.php",
+    "id": 16,
+    "nextListId": -1,
+    "text": "आम चोर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Goonga-Rajkumar-Jataka-Katha.php",
+    "id": 17,
+    "nextListId": -1,
+    "text": "गूंगा राजकुमार",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Bauna-Teerandaaj-Jataka-Katha.php",
+    "id": 18,
+    "nextListId": -1,
+    "text": "बौना तीरंदाज",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Dhol-Bajane-Wala-Jataka-Katha.php",
+    "id": 19,
+    "nextListId": -1,
+    "text": "ढोल बजाने वाला",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sone-Ka-Hans-Jataka-Katha.php",
+    "id": 20,
+    "nextListId": -1,
+    "text": "सोने का हंस",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Ruru-Mrig-Ki-Katha-Jataka-Katha.php",
+    "id": 21,
+    "nextListId": -1,
+    "text": "रुरु मृग की कथा",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Lakkhan-Mrig-Jataka-Katha.php",
+    "id": 22,
+    "nextListId": -1,
+    "text": "लक्खण मृग",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Mahakapi-Ka-Balidan-Jataka-Katha.php",
+    "id": 23,
+    "nextListId": -1,
+    "text": "महाकपि का बलिदान",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sant-Bhainsa-Aur-Natkhat-Bandar-Jataka-Katha.php",
+    "id": 24,
+    "nextListId": -1,
+    "text": "संत भैंसा और नटखट बंदर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Silava-Hathi-Aur-Lobhi-Mitra-Jataka-Katha.php",
+    "id": 25,
+    "nextListId": -1,
+    "text": "सीलवा हाथी और लोभी मित्र",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kapiraj-Jataka-Katha.php",
+    "id": 26,
+    "nextListId": -1,
+    "text": "कपिराज",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kauvon-Ki-Kahani-Jataka-Katha.php",
+    "id": 27,
+    "nextListId": -1,
+    "text": "कौवों की कहानी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Mahan-Markat-Jataka-Katha.php",
+    "id": 28,
+    "nextListId": -1,
+    "text": "महान मर्कट",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Mahan-Matsya-Jataka-Katha.php",
+    "id": 29,
+    "nextListId": -1,
+    "text": "महान् मत्स्य",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sinh-Aur-Siyar-Jataka-Katha.php",
+    "id": 30,
+    "nextListId": -1,
+    "text": "सिंह और सियार",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Somdant-Jataka-Katha.php",
+    "id": 31,
+    "nextListId": -1,
+    "text": "सोमदन्त",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kalbahu-Jataka-Katha.php",
+    "id": 32,
+    "nextListId": -1,
+    "text": "कालबाहु",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Nandivisal-Jataka-Katha.php",
+    "id": 33,
+    "nextListId": -1,
+    "text": "नन्दीविसाल",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Nigrodh-Mrig-Jataka-Katha.php",
+    "id": 34,
+    "nextListId": -1,
+    "text": "निग्रोध मृग",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Shradh-Sambhojan-Jataka-Katha.php",
+    "id": 35,
+    "nextListId": -1,
+    "text": "श्राद्ध-संभोजन",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vaanar-Bandhu-Jataka-Katha.php",
+    "id": 36,
+    "nextListId": -1,
+    "text": "वानर-बन्धु",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kabootar-Aur-Kauva-Jataka-Katha.php",
+    "id": 37,
+    "nextListId": -1,
+    "text": "कबूतर और कौवा",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Romak-Kabootar-Jataka-Katha.php",
+    "id": 38,
+    "nextListId": -1,
+    "text": "रोमक कबूतर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Rurdiya-Hiran-Jataka-Katha.php",
+    "id": 39,
+    "nextListId": -1,
+    "text": "रुरदीय हिरण",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vyaghri-Katha-Jataka-Katha.php",
+    "id": 40,
+    "nextListId": -1,
+    "text": "व्याघ्री-कथा",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kachhuye-Ki-Kahani-Jataka-Katha.php",
+    "id": 41,
+    "nextListId": -1,
+    "text": "कछुए की कहानी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kritghan-Vaanar-Jataka-Katha.php",
+    "id": 42,
+    "nextListId": -1,
+    "text": "कृतघ्न वानर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Moorakh-Buddhiman-Jataka-Katha.php",
+    "id": 43,
+    "nextListId": -1,
+    "text": "मूर्ख बुद्धिमान",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sampera-Aur-Bandar-Jataka-Katha.php",
+    "id": 44,
+    "nextListId": -1,
+    "text": "सँपेरा और बंदर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Siyar-Nyayadhish-Jataka-Katha.php",
+    "id": 45,
+    "nextListId": -1,
+    "text": "सियार न्यायधीश",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Krodh-Vijayi-Chullbodhi-Jataka-Katha.php",
+    "id": 46,
+    "nextListId": -1,
+    "text": "क्रोध-विजयी चुल्लबोधि",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Mahilamukh-Hathi-Jataka-Katha.php",
+    "id": 47,
+    "nextListId": -1,
+    "text": "महिलामुख हाथी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vessantar-Ka-Tyag-Jataka-Katha.php",
+    "id": 48,
+    "nextListId": -1,
+    "text": "वेस्सन्तर का त्याग",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vidhur-Jataka-Katha.php",
+    "id": 49,
+    "nextListId": -1,
+    "text": "विधुर",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vineelak-Jataka-Katha.php",
+    "id": 50,
+    "nextListId": -1,
+    "text": "विनीलक",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kushinagar-Ki-Kahani-Jataka-Katha.php",
+    "id": 51,
+    "nextListId": -1,
+    "text": "कुशीनगर की कहानी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Maatang-Jataka-Katha.php",
+    "id": 52,
+    "nextListId": -1,
+    "text": "मातंग",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Mahajanak-Ka-Sanyas-Jataka-Katha.php",
+    "id": 53,
+    "nextListId": -1,
+    "text": "महाजनक का संयास",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sahishnuta-Ka-Vrat-Jataka-Katha.php",
+    "id": 54,
+    "nextListId": -1,
+    "text": "सहिष्णुता का व्रत",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Shakra-Ki-Udaan-Jataka-Katha.php",
+    "id": 55,
+    "nextListId": -1,
+    "text": "शक्र की उड़ान",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kandari-Aur-Kinnara-Jataka-Katha.php",
+    "id": 56,
+    "nextListId": -1,
+    "text": "कंदरी और किन्नरा",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kushal-Kakdi-Jataka-Katha.php",
+    "id": 57,
+    "nextListId": -1,
+    "text": "कुशल-ककड़ी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sivi-Ka-Tyag-Jataka-Katha.php",
+    "id": 58,
+    "nextListId": -1,
+    "text": "सिवि का त्याग",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sura-Kumbh-Jataka-Katha.php",
+    "id": 59,
+    "nextListId": -1,
+    "text": "सुरा-कुंभ",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Naagraj-Sankhpal-Jataka-Katha.php",
+    "id": 60,
+    "nextListId": -1,
+    "text": "नागराज संखपाल",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Navik-Supparak-Jataka-Katha.php",
+    "id": 61,
+    "nextListId": -1,
+    "text": "नाविक सुप्पारक",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kushal-Juari-Jataka-Katha.php",
+    "id": 62,
+    "nextListId": -1,
+    "text": "कुशल जुआरी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Maniwala-Saamp-Jataka-Katha.php",
+    "id": 63,
+    "nextListId": -1,
+    "text": "मणिवाला साँप",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Nishchhal-Grihastha-Jataka-Katha.php",
+    "id": 64,
+    "nextListId": -1,
+    "text": "निश्छल गृहस्थ",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Pairon-Ke-Nishan-Padhne-Wala-Jataka-Katha.php",
+    "id": 65,
+    "nextListId": -1,
+    "text": "पैरों के निशान पढ़ने वाला",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Pet-Ka-Doot-Jataka-Katha.php",
+    "id": 66,
+    "nextListId": -1,
+    "text": "पेट का दूत",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sudas-Jataka-Katha.php",
+    "id": 67,
+    "nextListId": -1,
+    "text": "सुदास",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sutsom-Jataka-Katha.php",
+    "id": 68,
+    "nextListId": -1,
+    "text": "सुतसोम",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Janwaron-Ki-Bhasha-Janane-Wala-Jataka-Katha.php",
+    "id": 69,
+    "nextListId": -1,
+    "text": "जानवरों की भाषा जानने वाला",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Saam-Jataka-Katha.php",
+    "id": 70,
+    "nextListId": -1,
+    "text": "साम",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Sukhbihari-Jataka-Katha.php",
+    "id": 71,
+    "nextListId": -1,
+    "text": "सुखबिहारी",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Phussa-Buddha-Jataka-Katha.php",
+    "id": 72,
+    "nextListId": -1,
+    "text": "फुस्स बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vipassi-Buddha-Jataka-Katha.php",
+    "id": 73,
+    "nextListId": -1,
+    "text": "विपस्सी बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Shikhi-Buddha-Jataka-Katha.php",
+    "id": 74,
+    "nextListId": -1,
+    "text": "शिखि बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Vessabhu-Buddha-Jataka-Katha.php",
+    "id": 75,
+    "nextListId": -1,
+    "text": "वेस्सभू बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kakusandha-Buddha-Jataka-Katha.php",
+    "id": 76,
+    "nextListId": -1,
+    "text": "ककुसन्ध बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Konagamana-Buddha-Jataka-Katha.php",
+    "id": 77,
+    "nextListId": -1,
+    "text": "कोनगमन बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Kassapa-Buddha-Jataka-Katha.php",
+    "id": 78,
+    "nextListId": -1,
+    "text": "कस्सप बुद्ध",
+    "data_path": "storyBook/Jataka"
+  },
+  {
+    "data_id": "Metteya-Buddha-Jataka-Katha.php",
+    "id": 79,
+    "nextListId": -1,
+    "text": "मेत्रेयः भावी बुद्ध",
+    "data_path": "storyBook/Jataka"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "data_id": "DuniyaKaSabseAnmolRatanMunshiPremchand.php",
+    "id": 0,
+    "nextListId": -1,
+    "text": "दुनिया का सबसे अनमोल रतन",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "SheikhMakhmoorMunshiPremchand.php",
+    "id": 1,
+    "nextListId": -1,
+    "text": "शेख मखमूर",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "YehiMeraWatanMunshiPremchand.php",
+    "id": 2,
+    "nextListId": -1,
+    "text": "यही मेरा वतन है",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "ShokKaPuraskarMunshiPremchand.php",
+    "id": 3,
+    "nextListId": -1,
+    "text": "शोक का पुरस्कार",
+    "data_path": "storyBook/gonu-jha"
+  },
+  {
+    "data_id": "SansarikPremAurDeshPremMunshiPremchand.php",
+    "id": 4,
+    "nextListId": -1,
+    "text": "सांसारिक प्रेम और देश-प्रेम",
+    "data_path": "storyBook/gonu-jha"
+  }
+]

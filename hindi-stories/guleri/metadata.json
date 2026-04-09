@@ -1,0 +1,72 @@
+[
+  {
+    "data_id": "UsneKahaThaChandradharSharmaGuleri",
+    "id": 1,
+    "nextListId": -1,
+    "text": "उसने कहा था",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "GhantagharChandradharSharmaGuleri",
+    "id": 2,
+    "nextListId": -1,
+    "text": "घंटाघर",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "DharmaprayanaReechhChandradharSharmaGuleri",
+    "id": 3,
+    "nextListId": -1,
+    "text": "धर्मपरायण रीछ",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "BuddhuKaKantaChandradharSharmaGuleri",
+    "id": 4,
+    "nextListId": -1,
+    "text": "बुद्धु का काँटा",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "SukhmayaJeevanChandradharSharmaGuleri",
+    "id": 5,
+    "nextListId": -1,
+    "text": "सुखमय जीवन",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "HeereKaHaarChandradharSharmaGuleri",
+    "id": 6,
+    "nextListId": -1,
+    "text": "हीरे का हार",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "LaghuKathayenChandradharSharmaGuleri",
+    "id": 7,
+    "nextListId": -1,
+    "text": "लघु-कथाएँ",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "Maresi-Mohin-Kuthanu-Chandradhar-Sharma-Guleri",
+    "id": 8,
+    "nextListId": -1,
+    "text": "मारेसि मोहिं कुठाँउ",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "Kachhua-Dharam-Chandradhar-Sharma-Guleri",
+    "id": 9,
+    "nextListId": -1,
+    "text": "कछुआ-धरम",
+    "data_path": "storyBook/guleri"
+  },
+  {
+    "data_id": "Shiksha-Ke-Adarshon-Mein-Parivartan-Chandradhar-Sharma-Guleri",
+    "id": 10,
+    "nextListId": -1,
+    "text": "शिक्षा के आदर्शों में परिवर्तन",
+    "data_path": "storyBook/guleri"
+  }
+]

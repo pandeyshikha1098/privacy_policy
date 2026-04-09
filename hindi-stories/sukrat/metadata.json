@@ -1,0 +1,51 @@
+[
+  {
+    "data_id": "Biography-Sukrat.php",
+    "id": 0,
+    "nextListId": -1,
+    "text": "जीवन परिचय",
+    "data_path": "storyBook/sukrat"
+  },
+  {
+    "data_id": "Buddhi-Ka-Bal.php",
+    "id": 1,
+    "nextListId": -1,
+    "text": "बुद्धि का बल",
+    "data_path": "storyBook/sukrat"
+  },
+  {
+    "data_id": "Safalta-Ka-Rahasya.php",
+    "id": 2,
+    "nextListId": -1,
+    "text": "सफलता का रहस्य",
+    "data_path": "storyBook/sukrat"
+  },
+  {
+    "data_id": "Sukrat-Aur-Aaina.php",
+    "id": 3,
+    "nextListId": -1,
+    "text": "सुकरात और आईना",
+    "data_path": "storyBook/sukrat"
+  },
+  {
+    "data_id": "Laghu-Kahaniyan-Sukrat1",
+    "id": 4,
+    "nextListId": -1,
+    "text": "तीन छोटे प्रश्न",
+    "data_path": "storyBook/sukrat"
+  },
+  {
+    "data_id": "Laghu-Kahaniyan-Sukrat2",
+    "id": 5,
+    "nextListId": -1,
+    "text": "तुम हो कौन?",
+    "data_path": "storyBook/sukrat"
+  },
+  {
+    "data_id": "Laghu-Kahaniyan-Sukrat3",
+    "id": 6,
+    "nextListId": -1,
+    "text": "शादी करनी चाहिए",
+    "data_path": "storyBook/sukrat"
+  }
+]

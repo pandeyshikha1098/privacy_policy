@@ -1,0 +1,107 @@
+[
+  {
+    "data_id": "Prasad",
+    "id": 0,
+    "nextListId": -1,
+    "text": "प्रसाद",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "GudarSain",
+    "id": 1,
+    "nextListId": -1,
+    "text": "गूदड़ साईं",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "GudariMeinLal",
+    "id": 2,
+    "nextListId": -1,
+    "text": "गुदड़ी में लाल",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "AghoriKaMoh",
+    "id": 3,
+    "nextListId": -1,
+    "text": "अघोरी का मोह",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "PaapKiPrajay",
+    "id": 4,
+    "nextListId": -1,
+    "text": "पाप की पराजय",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "Sahyog",
+    "id": 5,
+    "nextListId": -1,
+    "text": "सहयोग",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "PattharKiPukar",
+    "id": 6,
+    "nextListId": -1,
+    "text": "पत्थर की पुकार",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "UsPaarKaYogi",
+    "id": 7,
+    "nextListId": -1,
+    "text": "उस पार का योगी",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "KarunaKiVijay",
+    "id": 8,
+    "nextListId": -1,
+    "text": "करुणा की विजय",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "KhandaharKiLipi",
+    "id": 9,
+    "nextListId": -1,
+    "text": "खंडहर की लिपि",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "KalawatiKiShisha",
+    "id": 10,
+    "nextListId": -1,
+    "text": "कलावती की शिक्षा",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "ChakravartiKaStambh",
+    "id": 11,
+    "nextListId": -1,
+    "text": "चक्रवर्ती का स्तम्भ",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "Dukhiya",
+    "id": 12,
+    "nextListId": -1,
+    "text": "दुखिया",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "Pratima",
+    "id": 13,
+    "nextListId": -1,
+    "text": "प्रतिमा",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  },
+  {
+    "data_id": "Pralaya",
+    "id": 14,
+    "nextListId": -1,
+    "text": "प्रलय",
+    "data_path": "storyBook/Jaishankar-Prasad/pratidhwani"
+  }
+]

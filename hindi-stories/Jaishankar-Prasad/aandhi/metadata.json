@@ -1,0 +1,79 @@
+[
+  {
+    "data_id": "Aandhi",
+    "id": 0,
+    "nextListId": -1,
+    "text": "आँधी",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Madhua",
+    "id": 1,
+    "nextListId": -1,
+    "text": "मधुआ",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Dasi",
+    "id": 2,
+    "nextListId": -1,
+    "text": "दासी",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Gheesu",
+    "id": 3,
+    "nextListId": -1,
+    "text": "घीसू",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Beri",
+    "id": 4,
+    "nextListId": -1,
+    "text": "बेड़ी",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "VratBhang",
+    "id": 5,
+    "nextListId": -1,
+    "text": "व्रत-भंग",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "GramGeet",
+    "id": 6,
+    "nextListId": -1,
+    "text": "ग्राम-गीत",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Vijaya",
+    "id": 7,
+    "nextListId": -1,
+    "text": "विजया",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "AmitSmriti",
+    "id": 8,
+    "nextListId": -1,
+    "text": "अमिट स्मृति",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Neera",
+    "id": 9,
+    "nextListId": -1,
+    "text": "नीरा",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  },
+  {
+    "data_id": "Puraskar",
+    "id": 10,
+    "nextListId": -1,
+    "text": "पुरस्कार",
+    "data_path": "storyBook/Jaishankar-Prasad/aandhi"
+  }
+]

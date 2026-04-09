@@ -1,0 +1,100 @@
+[
+  {
+    "data_id": "Kauve-Aur-Ullu-Ka-Bair-Panchtantra",
+    "id": 0,
+    "nextListId": -1,
+    "text": "कौवे और उल्लू का बैर : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Hathi-Aur-Chatur-Khargosh-Panchtantra",
+    "id": 1,
+    "nextListId": -1,
+    "text": "हाथी और चतुर खरगोश : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Billi-Ka-Nyaya-Panchtantra",
+    "id": 2,
+    "nextListId": -1,
+    "text": "बिल्ली का न्याय : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Bakra-Brahmin-Aur-Teen-Thag-Panchtantra",
+    "id": 3,
+    "nextListId": -1,
+    "text": "बकरा ब्राह्मण और तीन ठग : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Kabootar-Ka-Joda-Aur-Shikari-Panchtantra",
+    "id": 4,
+    "nextListId": -1,
+    "text": "कबूतर का जोड़ा और शिकारी : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Brahmin-Aur-Sarp-Panchtantra",
+    "id": 5,
+    "nextListId": -1,
+    "text": "ब्राह्मण और सर्प : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Budha-Aadmi-Yuva-Patni-Aur-Chor-Panchtantra",
+    "id": 6,
+    "nextListId": -1,
+    "text": "बूढ़ा आदमी युवा पत्नी और चोर : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Brahmin-Chor-Aur-Daanav-Panchtantra",
+    "id": 7,
+    "nextListId": -1,
+    "text": "ब्राह्मण चोर और दानव : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Ghar-Ka-Bhed-Panchtantra",
+    "id": 8,
+    "nextListId": -1,
+    "text": "घर का भेद : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Chuhiya-Ka-Swayamvar-Panchtantra",
+    "id": 9,
+    "nextListId": -1,
+    "text": "चुहिया का स्वयंवर : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Moorkhmandali-Panchtantra",
+    "id": 10,
+    "nextListId": -1,
+    "text": "मूर्खमंडली : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Bolnewali-Gufa-Panchtantra",
+    "id": 11,
+    "nextListId": -1,
+    "text": "बोलने वाली गुफा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Vansh-Ki-Raksha-Panchtantra",
+    "id": 12,
+    "nextListId": -1,
+    "text": "वंश की रक्षा : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  },
+  {
+    "data_id": "Kauve-Aur-Ullu-Ka-Yudh-Panchtantra",
+    "id": 13,
+    "nextListId": -1,
+    "text": "कौवे और उल्लू का युद्ध : पंचतंत्र",
+    "data_path": "storyBook/panchtantra/third"
+  }
+]
