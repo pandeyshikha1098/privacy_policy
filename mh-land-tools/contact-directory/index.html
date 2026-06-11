@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#1A3C6E" />
+  <title>Officer Contact Directory</title>
+
+  <!-- Noto Sans for Latin + Devanagari (Marathi) glyphs -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ── Header ─────────────────────────────────────────── -->
+  <header class="app-header">
+    <!-- Replace the SVG below with your department logo if needed -->
+    <svg class="header-logo" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <circle cx="22" cy="22" r="22" fill="rgba(255,255,255,0.15)"/>
+      <path d="M22 8 C14 8 8 14 8 22 C8 30 14 36 22 36 C30 36 36 30 36 22 C36 14 30 8 22 8Z"
+            stroke="white" stroke-width="1.5" fill="none"/>
+      <circle cx="22" cy="22" r="5" fill="white" opacity=".9"/>
+      <line x1="22" y1="8"  x2="22" y2="13" stroke="white" stroke-width="2" stroke-linecap="round"/>
+      <line x1="22" y1="31" x2="22" y2="36" stroke="white" stroke-width="2" stroke-linecap="round"/>
+      <line x1="8"  y1="22" x2="13" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"/>
+      <line x1="31" y1="22" x2="36" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+    <div class="header-text">
+      <h1>Officer Contact Directory</h1>
+      <p>District-wise Contact Information</p>
+    </div>
+  </header>
+
+  <!-- ── Main ──────────────────────────────────────────── -->
+  <main class="app-main">
+
+    <!-- Filter card -->
+    <div class="filter-card">
+      <label for="districtSelect">Select District</label>
+      <div class="select-wrapper">
+        <select id="districtSelect">
+          <option value="">— Choose a district —</option>
+        </select>
+      </div>
+
+      <!-- Search (shown after district is selected) -->
+      <div class="search-wrapper" id="searchWrapper">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+             aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input
+          type="search"
+          id="searchInput"
+          placeholder="Search by name or designation…"
+          autocomplete="off"
+          autocorrect="off"
+          spellcheck="false"
+        />
+      </div>
+    </div>
+
+    <!-- Results header -->
+    <div class="results-header" id="resultsHeader">
+      <h2 id="districtTitle"></h2>
+      <span class="results-count" id="resultsCount"></span>
+    </div>
+
+    <!-- Contact list -->
+    <div id="contactList" role="list" aria-live="polite"></div>
+
+    <!-- Empty / placeholder state -->
+    <div id="emptyState">
+      <span class="empty-icon" aria-hidden="true">🏛️</span>
+      <p>Select a district above to view officer contact details.</p>
+    </div>
+
+  </main>
+
+  <!-- ── Footer ─────────────────────────────────────────── -->
+  <footer class="app-footer">
+    <p>District Officer Contact Directory &nbsp;|&nbsp; Data updated periodically</p>
+  </footer>
+
+  <!-- data.js must load before app.js — edit data.js to update your data -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
