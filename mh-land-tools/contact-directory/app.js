@@ -56,7 +56,7 @@
     sorted.forEach(dist => {
       const opt = document.createElement('option');
       opt.value = dist.distId;
-      opt.textContent = dist.districtName + (dist.division ? ` (${dist.division})` : '');
+      opt.textContent = dist.districtName;
       districtSelect.appendChild(opt);
     });
   }
